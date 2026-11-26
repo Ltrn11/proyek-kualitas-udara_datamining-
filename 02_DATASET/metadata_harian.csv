@@ -1,0 +1,3421 @@
+id_pengamatan,provinsi,kota,tanggal,jumlah_pengamatan,jumlah_anomali
+1,Aceh,Banda Aceh,2026-08-20,8,0
+2,Aceh,Banda Aceh,2026-08-21,8,0
+3,Aceh,Banda Aceh,2026-08-22,8,0
+4,Aceh,Banda Aceh,2026-08-23,8,0
+5,Aceh,Banda Aceh,2026-08-24,8,0
+6,Aceh,Banda Aceh,2026-08-25,8,0
+7,Aceh,Banda Aceh,2026-08-26,8,0
+8,Aceh,Banda Aceh,2026-08-27,8,0
+9,Aceh,Banda Aceh,2026-08-28,8,0
+10,Aceh,Banda Aceh,2026-08-29,8,0
+11,Aceh,Banda Aceh,2026-08-30,8,0
+12,Aceh,Banda Aceh,2026-08-31,8,0
+13,Aceh,Banda Aceh,2026-09-01,8,0
+14,Aceh,Banda Aceh,2026-09-02,8,0
+15,Aceh,Banda Aceh,2026-09-03,8,0
+16,Aceh,Banda Aceh,2026-09-04,8,0
+17,Aceh,Banda Aceh,2026-09-05,8,0
+18,Aceh,Banda Aceh,2026-09-06,8,0
+19,Aceh,Banda Aceh,2026-09-07,8,0
+20,Aceh,Banda Aceh,2026-09-08,8,0
+21,Aceh,Banda Aceh,2026-09-09,8,0
+22,Aceh,Banda Aceh,2026-09-10,8,0
+23,Aceh,Banda Aceh,2026-09-11,8,0
+24,Aceh,Banda Aceh,2026-09-12,8,0
+25,Aceh,Banda Aceh,2026-09-13,8,0
+26,Aceh,Banda Aceh,2026-09-14,8,0
+27,Aceh,Banda Aceh,2026-09-15,8,0
+28,Aceh,Banda Aceh,2026-09-16,8,0
+29,Aceh,Banda Aceh,2026-09-17,8,0
+30,Aceh,Banda Aceh,2026-09-18,8,0
+31,Aceh,Banda Aceh,2026-09-19,8,0
+32,Aceh,Banda Aceh,2026-09-20,8,0
+33,Aceh,Banda Aceh,2026-09-21,8,0
+34,Aceh,Banda Aceh,2026-09-22,8,0
+35,Aceh,Banda Aceh,2026-09-23,8,0
+36,Aceh,Banda Aceh,2026-09-24,8,0
+37,Aceh,Banda Aceh,2026-09-25,8,0
+38,Aceh,Banda Aceh,2026-09-26,8,0
+39,Aceh,Banda Aceh,2026-09-27,8,0
+40,Aceh,Banda Aceh,2026-09-28,8,0
+41,Aceh,Banda Aceh,2026-09-29,8,0
+42,Aceh,Banda Aceh,2026-09-30,8,0
+43,Aceh,Banda Aceh,2026-10-01,8,0
+44,Aceh,Banda Aceh,2026-10-02,8,0
+45,Aceh,Banda Aceh,2026-10-03,8,0
+46,Aceh,Banda Aceh,2026-10-04,8,0
+47,Aceh,Banda Aceh,2026-10-05,8,0
+48,Aceh,Banda Aceh,2026-10-06,8,0
+49,Aceh,Banda Aceh,2026-10-07,8,0
+50,Aceh,Banda Aceh,2026-10-08,8,0
+51,Aceh,Banda Aceh,2026-10-09,8,0
+52,Aceh,Banda Aceh,2026-10-10,8,0
+53,Aceh,Banda Aceh,2026-10-11,8,0
+54,Aceh,Banda Aceh,2026-10-12,8,0
+55,Aceh,Banda Aceh,2026-10-13,8,0
+56,Aceh,Banda Aceh,2026-10-14,8,0
+57,Aceh,Banda Aceh,2026-10-15,8,0
+58,Aceh,Banda Aceh,2026-10-16,8,0
+59,Aceh,Banda Aceh,2026-10-17,8,0
+60,Aceh,Banda Aceh,2026-10-18,8,0
+61,Aceh,Banda Aceh,2026-10-19,8,0
+62,Aceh,Banda Aceh,2026-10-20,8,0
+63,Aceh,Banda Aceh,2026-10-21,8,0
+64,Aceh,Banda Aceh,2026-10-22,8,0
+65,Aceh,Banda Aceh,2026-10-23,8,0
+66,Aceh,Banda Aceh,2026-10-24,8,0
+67,Aceh,Banda Aceh,2026-10-25,8,0
+68,Aceh,Banda Aceh,2026-10-26,8,0
+69,Aceh,Banda Aceh,2026-10-27,8,0
+70,Aceh,Banda Aceh,2026-10-28,8,0
+71,Aceh,Banda Aceh,2026-10-29,8,0
+72,Aceh,Banda Aceh,2026-10-30,8,0
+73,Aceh,Banda Aceh,2026-10-31,8,0
+74,Aceh,Banda Aceh,2026-11-01,8,0
+75,Aceh,Banda Aceh,2026-11-02,8,0
+76,Aceh,Banda Aceh,2026-11-03,8,0
+77,Aceh,Banda Aceh,2026-11-04,8,0
+78,Aceh,Banda Aceh,2026-11-05,8,0
+79,Aceh,Banda Aceh,2026-11-06,8,0
+80,Aceh,Banda Aceh,2026-11-07,8,0
+81,Aceh,Banda Aceh,2026-11-08,8,0
+82,Aceh,Banda Aceh,2026-11-09,8,0
+83,Aceh,Banda Aceh,2026-11-10,8,0
+84,Aceh,Banda Aceh,2026-11-11,8,0
+85,Aceh,Banda Aceh,2026-11-12,8,0
+86,Aceh,Banda Aceh,2026-11-13,8,0
+87,Aceh,Banda Aceh,2026-11-14,8,0
+88,Aceh,Banda Aceh,2026-11-15,8,0
+89,Aceh,Banda Aceh,2026-11-16,8,0
+90,Aceh,Banda Aceh,2026-11-17,8,0
+91,Bali,Denpasar,2026-08-20,8,0
+92,Bali,Denpasar,2026-08-21,8,0
+93,Bali,Denpasar,2026-08-22,8,0
+94,Bali,Denpasar,2026-08-23,8,0
+95,Bali,Denpasar,2026-08-24,8,0
+96,Bali,Denpasar,2026-08-25,8,0
+97,Bali,Denpasar,2026-08-26,8,0
+98,Bali,Denpasar,2026-08-27,8,0
+99,Bali,Denpasar,2026-08-28,8,0
+100,Bali,Denpasar,2026-08-29,8,0
+101,Bali,Denpasar,2026-08-30,8,0
+102,Bali,Denpasar,2026-08-31,8,0
+103,Bali,Denpasar,2026-09-01,8,0
+104,Bali,Denpasar,2026-09-02,8,0
+105,Bali,Denpasar,2026-09-03,8,0
+106,Bali,Denpasar,2026-09-04,8,0
+107,Bali,Denpasar,2026-09-05,8,0
+108,Bali,Denpasar,2026-09-06,8,0
+109,Bali,Denpasar,2026-09-07,8,0
+110,Bali,Denpasar,2026-09-08,8,0
+111,Bali,Denpasar,2026-09-09,8,0
+112,Bali,Denpasar,2026-09-10,8,0
+113,Bali,Denpasar,2026-09-11,8,0
+114,Bali,Denpasar,2026-09-12,8,0
+115,Bali,Denpasar,2026-09-13,8,0
+116,Bali,Denpasar,2026-09-14,8,0
+117,Bali,Denpasar,2026-09-15,8,0
+118,Bali,Denpasar,2026-09-16,8,0
+119,Bali,Denpasar,2026-09-17,8,0
+120,Bali,Denpasar,2026-09-18,8,0
+121,Bali,Denpasar,2026-09-19,8,0
+122,Bali,Denpasar,2026-09-20,8,0
+123,Bali,Denpasar,2026-09-21,8,0
+124,Bali,Denpasar,2026-09-22,8,0
+125,Bali,Denpasar,2026-09-23,8,0
+126,Bali,Denpasar,2026-09-24,8,0
+127,Bali,Denpasar,2026-09-25,8,0
+128,Bali,Denpasar,2026-09-26,8,0
+129,Bali,Denpasar,2026-09-27,8,0
+130,Bali,Denpasar,2026-09-28,8,0
+131,Bali,Denpasar,2026-09-29,8,0
+132,Bali,Denpasar,2026-09-30,8,0
+133,Bali,Denpasar,2026-10-01,8,0
+134,Bali,Denpasar,2026-10-02,8,0
+135,Bali,Denpasar,2026-10-03,8,0
+136,Bali,Denpasar,2026-10-04,8,0
+137,Bali,Denpasar,2026-10-05,8,0
+138,Bali,Denpasar,2026-10-06,8,0
+139,Bali,Denpasar,2026-10-07,8,0
+140,Bali,Denpasar,2026-10-08,8,0
+141,Bali,Denpasar,2026-10-09,8,0
+142,Bali,Denpasar,2026-10-10,8,0
+143,Bali,Denpasar,2026-10-11,8,0
+144,Bali,Denpasar,2026-10-12,8,0
+145,Bali,Denpasar,2026-10-13,8,0
+146,Bali,Denpasar,2026-10-14,8,0
+147,Bali,Denpasar,2026-10-15,8,0
+148,Bali,Denpasar,2026-10-16,8,0
+149,Bali,Denpasar,2026-10-17,8,0
+150,Bali,Denpasar,2026-10-18,8,0
+151,Bali,Denpasar,2026-10-19,8,0
+152,Bali,Denpasar,2026-10-20,8,0
+153,Bali,Denpasar,2026-10-21,8,0
+154,Bali,Denpasar,2026-10-22,8,0
+155,Bali,Denpasar,2026-10-23,8,0
+156,Bali,Denpasar,2026-10-24,8,0
+157,Bali,Denpasar,2026-10-25,8,0
+158,Bali,Denpasar,2026-10-26,8,0
+159,Bali,Denpasar,2026-10-27,8,0
+160,Bali,Denpasar,2026-10-28,8,0
+161,Bali,Denpasar,2026-10-29,8,0
+162,Bali,Denpasar,2026-10-30,8,0
+163,Bali,Denpasar,2026-10-31,8,0
+164,Bali,Denpasar,2026-11-01,8,0
+165,Bali,Denpasar,2026-11-02,8,0
+166,Bali,Denpasar,2026-11-03,8,0
+167,Bali,Denpasar,2026-11-04,8,0
+168,Bali,Denpasar,2026-11-05,8,0
+169,Bali,Denpasar,2026-11-06,8,0
+170,Bali,Denpasar,2026-11-07,8,0
+171,Bali,Denpasar,2026-11-08,8,0
+172,Bali,Denpasar,2026-11-09,8,0
+173,Bali,Denpasar,2026-11-10,8,0
+174,Bali,Denpasar,2026-11-11,8,0
+175,Bali,Denpasar,2026-11-12,8,0
+176,Bali,Denpasar,2026-11-13,8,0
+177,Bali,Denpasar,2026-11-14,8,0
+178,Bali,Denpasar,2026-11-15,8,0
+179,Bali,Denpasar,2026-11-16,8,0
+180,Bali,Denpasar,2026-11-17,8,0
+181,Banten,Serang,2026-08-20,8,0
+182,Banten,Serang,2026-08-21,8,0
+183,Banten,Serang,2026-08-22,8,0
+184,Banten,Serang,2026-08-23,8,0
+185,Banten,Serang,2026-08-24,8,0
+186,Banten,Serang,2026-08-25,8,0
+187,Banten,Serang,2026-08-26,8,0
+188,Banten,Serang,2026-08-27,8,0
+189,Banten,Serang,2026-08-28,8,0
+190,Banten,Serang,2026-08-29,8,0
+191,Banten,Serang,2026-08-30,8,0
+192,Banten,Serang,2026-08-31,8,0
+193,Banten,Serang,2026-09-01,8,0
+194,Banten,Serang,2026-09-02,8,0
+195,Banten,Serang,2026-09-03,8,0
+196,Banten,Serang,2026-09-04,8,0
+197,Banten,Serang,2026-09-05,8,0
+198,Banten,Serang,2026-09-06,8,0
+199,Banten,Serang,2026-09-07,8,0
+200,Banten,Serang,2026-09-08,8,0
+201,Banten,Serang,2026-09-09,8,0
+202,Banten,Serang,2026-09-10,8,0
+203,Banten,Serang,2026-09-11,8,0
+204,Banten,Serang,2026-09-12,8,0
+205,Banten,Serang,2026-09-13,8,0
+206,Banten,Serang,2026-09-14,8,0
+207,Banten,Serang,2026-09-15,8,0
+208,Banten,Serang,2026-09-16,8,0
+209,Banten,Serang,2026-09-17,8,0
+210,Banten,Serang,2026-09-18,8,0
+211,Banten,Serang,2026-09-19,8,0
+212,Banten,Serang,2026-09-20,8,0
+213,Banten,Serang,2026-09-21,8,0
+214,Banten,Serang,2026-09-22,8,0
+215,Banten,Serang,2026-09-23,8,0
+216,Banten,Serang,2026-09-24,8,0
+217,Banten,Serang,2026-09-25,8,0
+218,Banten,Serang,2026-09-26,8,0
+219,Banten,Serang,2026-09-27,8,0
+220,Banten,Serang,2026-09-28,8,0
+221,Banten,Serang,2026-09-29,8,0
+222,Banten,Serang,2026-09-30,8,0
+223,Banten,Serang,2026-10-01,8,0
+224,Banten,Serang,2026-10-02,8,0
+225,Banten,Serang,2026-10-03,8,0
+226,Banten,Serang,2026-10-04,8,0
+227,Banten,Serang,2026-10-05,8,0
+228,Banten,Serang,2026-10-06,8,0
+229,Banten,Serang,2026-10-07,8,0
+230,Banten,Serang,2026-10-08,8,0
+231,Banten,Serang,2026-10-09,8,0
+232,Banten,Serang,2026-10-10,8,0
+233,Banten,Serang,2026-10-11,8,0
+234,Banten,Serang,2026-10-12,8,0
+235,Banten,Serang,2026-10-13,8,0
+236,Banten,Serang,2026-10-14,8,0
+237,Banten,Serang,2026-10-15,8,0
+238,Banten,Serang,2026-10-16,8,0
+239,Banten,Serang,2026-10-17,8,0
+240,Banten,Serang,2026-10-18,8,0
+241,Banten,Serang,2026-10-19,8,0
+242,Banten,Serang,2026-10-20,8,0
+243,Banten,Serang,2026-10-21,8,0
+244,Banten,Serang,2026-10-22,8,0
+245,Banten,Serang,2026-10-23,8,0
+246,Banten,Serang,2026-10-24,8,0
+247,Banten,Serang,2026-10-25,8,0
+248,Banten,Serang,2026-10-26,8,0
+249,Banten,Serang,2026-10-27,8,0
+250,Banten,Serang,2026-10-28,8,0
+251,Banten,Serang,2026-10-29,8,0
+252,Banten,Serang,2026-10-30,8,0
+253,Banten,Serang,2026-10-31,8,0
+254,Banten,Serang,2026-11-01,8,0
+255,Banten,Serang,2026-11-02,8,0
+256,Banten,Serang,2026-11-03,8,0
+257,Banten,Serang,2026-11-04,8,0
+258,Banten,Serang,2026-11-05,8,0
+259,Banten,Serang,2026-11-06,8,0
+260,Banten,Serang,2026-11-07,8,0
+261,Banten,Serang,2026-11-08,8,0
+262,Banten,Serang,2026-11-09,8,0
+263,Banten,Serang,2026-11-10,8,0
+264,Banten,Serang,2026-11-11,8,0
+265,Banten,Serang,2026-11-12,8,0
+266,Banten,Serang,2026-11-13,8,0
+267,Banten,Serang,2026-11-14,8,0
+268,Banten,Serang,2026-11-15,8,0
+269,Banten,Serang,2026-11-16,8,0
+270,Banten,Serang,2026-11-17,8,0
+271,Bengkulu,Bengkulu,2026-08-20,8,0
+272,Bengkulu,Bengkulu,2026-08-21,8,0
+273,Bengkulu,Bengkulu,2026-08-22,8,0
+274,Bengkulu,Bengkulu,2026-08-23,8,0
+275,Bengkulu,Bengkulu,2026-08-24,8,0
+276,Bengkulu,Bengkulu,2026-08-25,8,0
+277,Bengkulu,Bengkulu,2026-08-26,8,0
+278,Bengkulu,Bengkulu,2026-08-27,8,0
+279,Bengkulu,Bengkulu,2026-08-28,8,0
+280,Bengkulu,Bengkulu,2026-08-29,8,0
+281,Bengkulu,Bengkulu,2026-08-30,8,0
+282,Bengkulu,Bengkulu,2026-08-31,8,0
+283,Bengkulu,Bengkulu,2026-09-01,8,0
+284,Bengkulu,Bengkulu,2026-09-02,8,0
+285,Bengkulu,Bengkulu,2026-09-03,8,0
+286,Bengkulu,Bengkulu,2026-09-04,8,0
+287,Bengkulu,Bengkulu,2026-09-05,8,0
+288,Bengkulu,Bengkulu,2026-09-06,8,0
+289,Bengkulu,Bengkulu,2026-09-07,8,0
+290,Bengkulu,Bengkulu,2026-09-08,8,0
+291,Bengkulu,Bengkulu,2026-09-09,8,0
+292,Bengkulu,Bengkulu,2026-09-10,8,0
+293,Bengkulu,Bengkulu,2026-09-11,8,0
+294,Bengkulu,Bengkulu,2026-09-12,8,0
+295,Bengkulu,Bengkulu,2026-09-13,8,0
+296,Bengkulu,Bengkulu,2026-09-14,8,0
+297,Bengkulu,Bengkulu,2026-09-15,8,0
+298,Bengkulu,Bengkulu,2026-09-16,8,0
+299,Bengkulu,Bengkulu,2026-09-17,8,0
+300,Bengkulu,Bengkulu,2026-09-18,8,0
+301,Bengkulu,Bengkulu,2026-09-19,8,0
+302,Bengkulu,Bengkulu,2026-09-20,8,0
+303,Bengkulu,Bengkulu,2026-09-21,8,0
+304,Bengkulu,Bengkulu,2026-09-22,8,0
+305,Bengkulu,Bengkulu,2026-09-23,8,0
+306,Bengkulu,Bengkulu,2026-09-24,8,0
+307,Bengkulu,Bengkulu,2026-09-25,8,0
+308,Bengkulu,Bengkulu,2026-09-26,8,0
+309,Bengkulu,Bengkulu,2026-09-27,8,0
+310,Bengkulu,Bengkulu,2026-09-28,8,0
+311,Bengkulu,Bengkulu,2026-09-29,8,0
+312,Bengkulu,Bengkulu,2026-09-30,8,0
+313,Bengkulu,Bengkulu,2026-10-01,8,0
+314,Bengkulu,Bengkulu,2026-10-02,8,0
+315,Bengkulu,Bengkulu,2026-10-03,8,0
+316,Bengkulu,Bengkulu,2026-10-04,8,0
+317,Bengkulu,Bengkulu,2026-10-05,8,0
+318,Bengkulu,Bengkulu,2026-10-06,8,0
+319,Bengkulu,Bengkulu,2026-10-07,8,0
+320,Bengkulu,Bengkulu,2026-10-08,8,0
+321,Bengkulu,Bengkulu,2026-10-09,8,0
+322,Bengkulu,Bengkulu,2026-10-10,8,0
+323,Bengkulu,Bengkulu,2026-10-11,8,0
+324,Bengkulu,Bengkulu,2026-10-12,8,0
+325,Bengkulu,Bengkulu,2026-10-13,8,0
+326,Bengkulu,Bengkulu,2026-10-14,8,0
+327,Bengkulu,Bengkulu,2026-10-15,8,0
+328,Bengkulu,Bengkulu,2026-10-16,8,0
+329,Bengkulu,Bengkulu,2026-10-17,8,0
+330,Bengkulu,Bengkulu,2026-10-18,8,0
+331,Bengkulu,Bengkulu,2026-10-19,8,0
+332,Bengkulu,Bengkulu,2026-10-20,8,0
+333,Bengkulu,Bengkulu,2026-10-21,8,0
+334,Bengkulu,Bengkulu,2026-10-22,8,0
+335,Bengkulu,Bengkulu,2026-10-23,8,0
+336,Bengkulu,Bengkulu,2026-10-24,8,0
+337,Bengkulu,Bengkulu,2026-10-25,8,0
+338,Bengkulu,Bengkulu,2026-10-26,8,0
+339,Bengkulu,Bengkulu,2026-10-27,8,0
+340,Bengkulu,Bengkulu,2026-10-28,8,0
+341,Bengkulu,Bengkulu,2026-10-29,8,0
+342,Bengkulu,Bengkulu,2026-10-30,8,0
+343,Bengkulu,Bengkulu,2026-10-31,8,0
+344,Bengkulu,Bengkulu,2026-11-01,8,0
+345,Bengkulu,Bengkulu,2026-11-02,8,0
+346,Bengkulu,Bengkulu,2026-11-03,8,0
+347,Bengkulu,Bengkulu,2026-11-04,8,0
+348,Bengkulu,Bengkulu,2026-11-05,8,0
+349,Bengkulu,Bengkulu,2026-11-06,8,0
+350,Bengkulu,Bengkulu,2026-11-07,8,0
+351,Bengkulu,Bengkulu,2026-11-08,8,0
+352,Bengkulu,Bengkulu,2026-11-09,8,0
+353,Bengkulu,Bengkulu,2026-11-10,8,0
+354,Bengkulu,Bengkulu,2026-11-11,8,0
+355,Bengkulu,Bengkulu,2026-11-12,8,0
+356,Bengkulu,Bengkulu,2026-11-13,8,0
+357,Bengkulu,Bengkulu,2026-11-14,8,0
+358,Bengkulu,Bengkulu,2026-11-15,8,0
+359,Bengkulu,Bengkulu,2026-11-16,8,0
+360,Bengkulu,Bengkulu,2026-11-17,8,0
+361,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-20,8,0
+362,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-21,8,0
+363,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-22,8,0
+364,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-23,8,0
+365,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-24,8,0
+366,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-25,8,0
+367,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-26,8,0
+368,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-27,8,0
+369,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-28,8,0
+370,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-29,8,0
+371,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-30,8,0
+372,Daerah Istimewa Yogyakarta,Yogyakarta,2026-08-31,8,0
+373,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-01,8,0
+374,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-02,8,0
+375,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-03,8,0
+376,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-04,8,0
+377,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-05,8,0
+378,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-06,8,0
+379,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-07,8,0
+380,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-08,8,0
+381,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-09,8,0
+382,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-10,8,0
+383,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-11,8,0
+384,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-12,8,0
+385,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-13,8,0
+386,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-14,8,0
+387,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-15,8,0
+388,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-16,8,0
+389,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-17,8,0
+390,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-18,8,0
+391,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-19,8,0
+392,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-20,8,0
+393,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-21,8,0
+394,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-22,8,0
+395,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-23,8,0
+396,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-24,8,0
+397,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-25,8,0
+398,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-26,8,0
+399,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-27,8,0
+400,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-28,8,0
+401,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-29,8,0
+402,Daerah Istimewa Yogyakarta,Yogyakarta,2026-09-30,8,0
+403,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-01,8,0
+404,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-02,8,0
+405,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-03,8,0
+406,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-04,8,0
+407,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-05,8,0
+408,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-06,8,0
+409,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-07,8,0
+410,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-08,8,0
+411,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-09,8,0
+412,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-10,8,0
+413,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-11,8,0
+414,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-12,8,0
+415,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-13,8,0
+416,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-14,8,0
+417,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-15,8,0
+418,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-16,8,0
+419,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-17,8,0
+420,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-18,8,0
+421,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-19,8,0
+422,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-20,8,0
+423,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-21,8,0
+424,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-22,8,0
+425,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-23,8,0
+426,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-24,8,0
+427,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-25,8,0
+428,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-26,8,0
+429,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-27,8,0
+430,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-28,8,0
+431,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-29,8,0
+432,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-30,8,0
+433,Daerah Istimewa Yogyakarta,Yogyakarta,2026-10-31,8,0
+434,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-01,8,0
+435,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-02,8,0
+436,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-03,8,0
+437,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-04,8,0
+438,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-05,8,0
+439,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-06,8,0
+440,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-07,8,0
+441,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-08,8,0
+442,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-09,8,0
+443,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-10,8,0
+444,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-11,8,0
+445,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-12,8,0
+446,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-13,8,0
+447,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-14,8,0
+448,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-15,8,0
+449,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-16,8,0
+450,Daerah Istimewa Yogyakarta,Yogyakarta,2026-11-17,8,0
+451,Daerah Khusus Jakarta,Jakarta,2026-08-20,8,0
+452,Daerah Khusus Jakarta,Jakarta,2026-08-21,8,0
+453,Daerah Khusus Jakarta,Jakarta,2026-08-22,8,0
+454,Daerah Khusus Jakarta,Jakarta,2026-08-23,8,0
+455,Daerah Khusus Jakarta,Jakarta,2026-08-24,8,0
+456,Daerah Khusus Jakarta,Jakarta,2026-08-25,8,0
+457,Daerah Khusus Jakarta,Jakarta,2026-08-26,8,0
+458,Daerah Khusus Jakarta,Jakarta,2026-08-27,8,0
+459,Daerah Khusus Jakarta,Jakarta,2026-08-28,8,0
+460,Daerah Khusus Jakarta,Jakarta,2026-08-29,8,0
+461,Daerah Khusus Jakarta,Jakarta,2026-08-30,8,0
+462,Daerah Khusus Jakarta,Jakarta,2026-08-31,8,0
+463,Daerah Khusus Jakarta,Jakarta,2026-09-01,8,0
+464,Daerah Khusus Jakarta,Jakarta,2026-09-02,8,0
+465,Daerah Khusus Jakarta,Jakarta,2026-09-03,8,0
+466,Daerah Khusus Jakarta,Jakarta,2026-09-04,8,0
+467,Daerah Khusus Jakarta,Jakarta,2026-09-05,8,0
+468,Daerah Khusus Jakarta,Jakarta,2026-09-06,8,0
+469,Daerah Khusus Jakarta,Jakarta,2026-09-07,8,0
+470,Daerah Khusus Jakarta,Jakarta,2026-09-08,8,0
+471,Daerah Khusus Jakarta,Jakarta,2026-09-09,8,0
+472,Daerah Khusus Jakarta,Jakarta,2026-09-10,8,0
+473,Daerah Khusus Jakarta,Jakarta,2026-09-11,8,0
+474,Daerah Khusus Jakarta,Jakarta,2026-09-12,8,0
+475,Daerah Khusus Jakarta,Jakarta,2026-09-13,8,0
+476,Daerah Khusus Jakarta,Jakarta,2026-09-14,8,0
+477,Daerah Khusus Jakarta,Jakarta,2026-09-15,8,0
+478,Daerah Khusus Jakarta,Jakarta,2026-09-16,8,0
+479,Daerah Khusus Jakarta,Jakarta,2026-09-17,8,0
+480,Daerah Khusus Jakarta,Jakarta,2026-09-18,8,0
+481,Daerah Khusus Jakarta,Jakarta,2026-09-19,8,0
+482,Daerah Khusus Jakarta,Jakarta,2026-09-20,8,0
+483,Daerah Khusus Jakarta,Jakarta,2026-09-21,8,0
+484,Daerah Khusus Jakarta,Jakarta,2026-09-22,8,0
+485,Daerah Khusus Jakarta,Jakarta,2026-09-23,8,0
+486,Daerah Khusus Jakarta,Jakarta,2026-09-24,8,0
+487,Daerah Khusus Jakarta,Jakarta,2026-09-25,8,0
+488,Daerah Khusus Jakarta,Jakarta,2026-09-26,8,0
+489,Daerah Khusus Jakarta,Jakarta,2026-09-27,8,0
+490,Daerah Khusus Jakarta,Jakarta,2026-09-28,8,0
+491,Daerah Khusus Jakarta,Jakarta,2026-09-29,8,0
+492,Daerah Khusus Jakarta,Jakarta,2026-09-30,8,0
+493,Daerah Khusus Jakarta,Jakarta,2026-10-01,8,0
+494,Daerah Khusus Jakarta,Jakarta,2026-10-02,8,0
+495,Daerah Khusus Jakarta,Jakarta,2026-10-03,8,0
+496,Daerah Khusus Jakarta,Jakarta,2026-10-04,8,0
+497,Daerah Khusus Jakarta,Jakarta,2026-10-05,8,0
+498,Daerah Khusus Jakarta,Jakarta,2026-10-06,8,0
+499,Daerah Khusus Jakarta,Jakarta,2026-10-07,8,0
+500,Daerah Khusus Jakarta,Jakarta,2026-10-08,8,0
+501,Daerah Khusus Jakarta,Jakarta,2026-10-09,8,0
+502,Daerah Khusus Jakarta,Jakarta,2026-10-10,8,0
+503,Daerah Khusus Jakarta,Jakarta,2026-10-11,8,0
+504,Daerah Khusus Jakarta,Jakarta,2026-10-12,8,0
+505,Daerah Khusus Jakarta,Jakarta,2026-10-13,8,0
+506,Daerah Khusus Jakarta,Jakarta,2026-10-14,8,0
+507,Daerah Khusus Jakarta,Jakarta,2026-10-15,8,0
+508,Daerah Khusus Jakarta,Jakarta,2026-10-16,8,0
+509,Daerah Khusus Jakarta,Jakarta,2026-10-17,8,0
+510,Daerah Khusus Jakarta,Jakarta,2026-10-18,8,0
+511,Daerah Khusus Jakarta,Jakarta,2026-10-19,8,0
+512,Daerah Khusus Jakarta,Jakarta,2026-10-20,8,0
+513,Daerah Khusus Jakarta,Jakarta,2026-10-21,8,0
+514,Daerah Khusus Jakarta,Jakarta,2026-10-22,8,0
+515,Daerah Khusus Jakarta,Jakarta,2026-10-23,8,0
+516,Daerah Khusus Jakarta,Jakarta,2026-10-24,8,0
+517,Daerah Khusus Jakarta,Jakarta,2026-10-25,8,0
+518,Daerah Khusus Jakarta,Jakarta,2026-10-26,8,0
+519,Daerah Khusus Jakarta,Jakarta,2026-10-27,8,0
+520,Daerah Khusus Jakarta,Jakarta,2026-10-28,8,0
+521,Daerah Khusus Jakarta,Jakarta,2026-10-29,8,0
+522,Daerah Khusus Jakarta,Jakarta,2026-10-30,8,0
+523,Daerah Khusus Jakarta,Jakarta,2026-10-31,8,0
+524,Daerah Khusus Jakarta,Jakarta,2026-11-01,8,0
+525,Daerah Khusus Jakarta,Jakarta,2026-11-02,8,0
+526,Daerah Khusus Jakarta,Jakarta,2026-11-03,8,0
+527,Daerah Khusus Jakarta,Jakarta,2026-11-04,8,0
+528,Daerah Khusus Jakarta,Jakarta,2026-11-05,8,0
+529,Daerah Khusus Jakarta,Jakarta,2026-11-06,8,0
+530,Daerah Khusus Jakarta,Jakarta,2026-11-07,8,0
+531,Daerah Khusus Jakarta,Jakarta,2026-11-08,8,0
+532,Daerah Khusus Jakarta,Jakarta,2026-11-09,8,0
+533,Daerah Khusus Jakarta,Jakarta,2026-11-10,8,0
+534,Daerah Khusus Jakarta,Jakarta,2026-11-11,8,0
+535,Daerah Khusus Jakarta,Jakarta,2026-11-12,8,0
+536,Daerah Khusus Jakarta,Jakarta,2026-11-13,8,0
+537,Daerah Khusus Jakarta,Jakarta,2026-11-14,8,0
+538,Daerah Khusus Jakarta,Jakarta,2026-11-15,8,0
+539,Daerah Khusus Jakarta,Jakarta,2026-11-16,8,0
+540,Daerah Khusus Jakarta,Jakarta,2026-11-17,8,0
+541,Gorontalo,Gorontalo,2026-08-20,8,0
+542,Gorontalo,Gorontalo,2026-08-21,8,0
+543,Gorontalo,Gorontalo,2026-08-22,8,0
+544,Gorontalo,Gorontalo,2026-08-23,8,0
+545,Gorontalo,Gorontalo,2026-08-24,8,0
+546,Gorontalo,Gorontalo,2026-08-25,8,0
+547,Gorontalo,Gorontalo,2026-08-26,8,0
+548,Gorontalo,Gorontalo,2026-08-27,8,0
+549,Gorontalo,Gorontalo,2026-08-28,8,0
+550,Gorontalo,Gorontalo,2026-08-29,8,0
+551,Gorontalo,Gorontalo,2026-08-30,8,0
+552,Gorontalo,Gorontalo,2026-08-31,8,0
+553,Gorontalo,Gorontalo,2026-09-01,8,0
+554,Gorontalo,Gorontalo,2026-09-02,8,0
+555,Gorontalo,Gorontalo,2026-09-03,8,0
+556,Gorontalo,Gorontalo,2026-09-04,8,0
+557,Gorontalo,Gorontalo,2026-09-05,8,0
+558,Gorontalo,Gorontalo,2026-09-06,8,0
+559,Gorontalo,Gorontalo,2026-09-07,8,0
+560,Gorontalo,Gorontalo,2026-09-08,8,0
+561,Gorontalo,Gorontalo,2026-09-09,8,0
+562,Gorontalo,Gorontalo,2026-09-10,8,0
+563,Gorontalo,Gorontalo,2026-09-11,8,0
+564,Gorontalo,Gorontalo,2026-09-12,8,0
+565,Gorontalo,Gorontalo,2026-09-13,8,0
+566,Gorontalo,Gorontalo,2026-09-14,8,0
+567,Gorontalo,Gorontalo,2026-09-15,8,0
+568,Gorontalo,Gorontalo,2026-09-16,8,0
+569,Gorontalo,Gorontalo,2026-09-17,8,0
+570,Gorontalo,Gorontalo,2026-09-18,8,0
+571,Gorontalo,Gorontalo,2026-09-19,8,0
+572,Gorontalo,Gorontalo,2026-09-20,8,0
+573,Gorontalo,Gorontalo,2026-09-21,8,0
+574,Gorontalo,Gorontalo,2026-09-22,8,0
+575,Gorontalo,Gorontalo,2026-09-23,8,0
+576,Gorontalo,Gorontalo,2026-09-24,8,0
+577,Gorontalo,Gorontalo,2026-09-25,8,0
+578,Gorontalo,Gorontalo,2026-09-26,8,0
+579,Gorontalo,Gorontalo,2026-09-27,8,0
+580,Gorontalo,Gorontalo,2026-09-28,8,0
+581,Gorontalo,Gorontalo,2026-09-29,8,0
+582,Gorontalo,Gorontalo,2026-09-30,8,0
+583,Gorontalo,Gorontalo,2026-10-01,8,0
+584,Gorontalo,Gorontalo,2026-10-02,8,0
+585,Gorontalo,Gorontalo,2026-10-03,8,0
+586,Gorontalo,Gorontalo,2026-10-04,8,0
+587,Gorontalo,Gorontalo,2026-10-05,8,0
+588,Gorontalo,Gorontalo,2026-10-06,8,0
+589,Gorontalo,Gorontalo,2026-10-07,8,0
+590,Gorontalo,Gorontalo,2026-10-08,8,0
+591,Gorontalo,Gorontalo,2026-10-09,8,0
+592,Gorontalo,Gorontalo,2026-10-10,8,0
+593,Gorontalo,Gorontalo,2026-10-11,8,0
+594,Gorontalo,Gorontalo,2026-10-12,8,0
+595,Gorontalo,Gorontalo,2026-10-13,8,0
+596,Gorontalo,Gorontalo,2026-10-14,8,0
+597,Gorontalo,Gorontalo,2026-10-15,8,0
+598,Gorontalo,Gorontalo,2026-10-16,8,0
+599,Gorontalo,Gorontalo,2026-10-17,8,0
+600,Gorontalo,Gorontalo,2026-10-18,8,0
+601,Gorontalo,Gorontalo,2026-10-19,8,0
+602,Gorontalo,Gorontalo,2026-10-20,8,0
+603,Gorontalo,Gorontalo,2026-10-21,8,0
+604,Gorontalo,Gorontalo,2026-10-22,8,0
+605,Gorontalo,Gorontalo,2026-10-23,8,0
+606,Gorontalo,Gorontalo,2026-10-24,8,0
+607,Gorontalo,Gorontalo,2026-10-25,8,0
+608,Gorontalo,Gorontalo,2026-10-26,8,0
+609,Gorontalo,Gorontalo,2026-10-27,8,0
+610,Gorontalo,Gorontalo,2026-10-28,8,0
+611,Gorontalo,Gorontalo,2026-10-29,8,0
+612,Gorontalo,Gorontalo,2026-10-30,8,0
+613,Gorontalo,Gorontalo,2026-10-31,8,0
+614,Gorontalo,Gorontalo,2026-11-01,8,0
+615,Gorontalo,Gorontalo,2026-11-02,8,0
+616,Gorontalo,Gorontalo,2026-11-03,8,0
+617,Gorontalo,Gorontalo,2026-11-04,8,0
+618,Gorontalo,Gorontalo,2026-11-05,8,0
+619,Gorontalo,Gorontalo,2026-11-06,8,0
+620,Gorontalo,Gorontalo,2026-11-07,8,0
+621,Gorontalo,Gorontalo,2026-11-08,8,0
+622,Gorontalo,Gorontalo,2026-11-09,8,0
+623,Gorontalo,Gorontalo,2026-11-10,8,0
+624,Gorontalo,Gorontalo,2026-11-11,8,0
+625,Gorontalo,Gorontalo,2026-11-12,8,0
+626,Gorontalo,Gorontalo,2026-11-13,8,0
+627,Gorontalo,Gorontalo,2026-11-14,8,0
+628,Gorontalo,Gorontalo,2026-11-15,8,0
+629,Gorontalo,Gorontalo,2026-11-16,8,0
+630,Gorontalo,Gorontalo,2026-11-17,8,0
+631,Jambi,Jambi,2026-08-20,8,0
+632,Jambi,Jambi,2026-08-21,8,0
+633,Jambi,Jambi,2026-08-22,8,0
+634,Jambi,Jambi,2026-08-23,8,0
+635,Jambi,Jambi,2026-08-24,8,0
+636,Jambi,Jambi,2026-08-25,8,0
+637,Jambi,Jambi,2026-08-26,8,0
+638,Jambi,Jambi,2026-08-27,8,0
+639,Jambi,Jambi,2026-08-28,8,0
+640,Jambi,Jambi,2026-08-29,8,0
+641,Jambi,Jambi,2026-08-30,8,0
+642,Jambi,Jambi,2026-08-31,8,0
+643,Jambi,Jambi,2026-09-01,8,0
+644,Jambi,Jambi,2026-09-02,8,0
+645,Jambi,Jambi,2026-09-03,8,0
+646,Jambi,Jambi,2026-09-04,8,0
+647,Jambi,Jambi,2026-09-05,8,0
+648,Jambi,Jambi,2026-09-06,8,0
+649,Jambi,Jambi,2026-09-07,8,0
+650,Jambi,Jambi,2026-09-08,8,0
+651,Jambi,Jambi,2026-09-09,8,0
+652,Jambi,Jambi,2026-09-10,8,0
+653,Jambi,Jambi,2026-09-11,8,0
+654,Jambi,Jambi,2026-09-12,8,0
+655,Jambi,Jambi,2026-09-13,8,0
+656,Jambi,Jambi,2026-09-14,8,0
+657,Jambi,Jambi,2026-09-15,8,0
+658,Jambi,Jambi,2026-09-16,8,0
+659,Jambi,Jambi,2026-09-17,8,0
+660,Jambi,Jambi,2026-09-18,8,0
+661,Jambi,Jambi,2026-09-19,8,0
+662,Jambi,Jambi,2026-09-20,8,0
+663,Jambi,Jambi,2026-09-21,8,0
+664,Jambi,Jambi,2026-09-22,8,0
+665,Jambi,Jambi,2026-09-23,8,0
+666,Jambi,Jambi,2026-09-24,8,0
+667,Jambi,Jambi,2026-09-25,8,0
+668,Jambi,Jambi,2026-09-26,8,0
+669,Jambi,Jambi,2026-09-27,8,0
+670,Jambi,Jambi,2026-09-28,8,0
+671,Jambi,Jambi,2026-09-29,8,0
+672,Jambi,Jambi,2026-09-30,8,0
+673,Jambi,Jambi,2026-10-01,8,0
+674,Jambi,Jambi,2026-10-02,8,0
+675,Jambi,Jambi,2026-10-03,8,0
+676,Jambi,Jambi,2026-10-04,8,0
+677,Jambi,Jambi,2026-10-05,8,0
+678,Jambi,Jambi,2026-10-06,8,0
+679,Jambi,Jambi,2026-10-07,8,0
+680,Jambi,Jambi,2026-10-08,8,0
+681,Jambi,Jambi,2026-10-09,8,0
+682,Jambi,Jambi,2026-10-10,8,0
+683,Jambi,Jambi,2026-10-11,8,0
+684,Jambi,Jambi,2026-10-12,8,0
+685,Jambi,Jambi,2026-10-13,8,0
+686,Jambi,Jambi,2026-10-14,8,0
+687,Jambi,Jambi,2026-10-15,8,0
+688,Jambi,Jambi,2026-10-16,8,0
+689,Jambi,Jambi,2026-10-17,8,0
+690,Jambi,Jambi,2026-10-18,8,0
+691,Jambi,Jambi,2026-10-19,8,0
+692,Jambi,Jambi,2026-10-20,8,0
+693,Jambi,Jambi,2026-10-21,8,0
+694,Jambi,Jambi,2026-10-22,8,0
+695,Jambi,Jambi,2026-10-23,8,0
+696,Jambi,Jambi,2026-10-24,8,0
+697,Jambi,Jambi,2026-10-25,8,0
+698,Jambi,Jambi,2026-10-26,8,0
+699,Jambi,Jambi,2026-10-27,8,0
+700,Jambi,Jambi,2026-10-28,8,0
+701,Jambi,Jambi,2026-10-29,8,0
+702,Jambi,Jambi,2026-10-30,8,0
+703,Jambi,Jambi,2026-10-31,8,0
+704,Jambi,Jambi,2026-11-01,8,0
+705,Jambi,Jambi,2026-11-02,8,0
+706,Jambi,Jambi,2026-11-03,8,0
+707,Jambi,Jambi,2026-11-04,8,0
+708,Jambi,Jambi,2026-11-05,8,0
+709,Jambi,Jambi,2026-11-06,8,0
+710,Jambi,Jambi,2026-11-07,8,0
+711,Jambi,Jambi,2026-11-08,8,0
+712,Jambi,Jambi,2026-11-09,8,0
+713,Jambi,Jambi,2026-11-10,8,0
+714,Jambi,Jambi,2026-11-11,8,0
+715,Jambi,Jambi,2026-11-12,8,0
+716,Jambi,Jambi,2026-11-13,8,0
+717,Jambi,Jambi,2026-11-14,8,0
+718,Jambi,Jambi,2026-11-15,8,0
+719,Jambi,Jambi,2026-11-16,8,0
+720,Jambi,Jambi,2026-11-17,8,0
+721,Jawa Barat,Bandung,2026-08-20,8,0
+722,Jawa Barat,Bandung,2026-08-21,8,0
+723,Jawa Barat,Bandung,2026-08-22,8,0
+724,Jawa Barat,Bandung,2026-08-23,8,0
+725,Jawa Barat,Bandung,2026-08-24,8,0
+726,Jawa Barat,Bandung,2026-08-25,8,0
+727,Jawa Barat,Bandung,2026-08-26,8,0
+728,Jawa Barat,Bandung,2026-08-27,8,0
+729,Jawa Barat,Bandung,2026-08-28,8,0
+730,Jawa Barat,Bandung,2026-08-29,8,0
+731,Jawa Barat,Bandung,2026-08-30,8,0
+732,Jawa Barat,Bandung,2026-08-31,8,0
+733,Jawa Barat,Bandung,2026-09-01,8,0
+734,Jawa Barat,Bandung,2026-09-02,8,0
+735,Jawa Barat,Bandung,2026-09-03,8,0
+736,Jawa Barat,Bandung,2026-09-04,8,0
+737,Jawa Barat,Bandung,2026-09-05,8,0
+738,Jawa Barat,Bandung,2026-09-06,8,0
+739,Jawa Barat,Bandung,2026-09-07,8,0
+740,Jawa Barat,Bandung,2026-09-08,8,0
+741,Jawa Barat,Bandung,2026-09-09,8,0
+742,Jawa Barat,Bandung,2026-09-10,8,0
+743,Jawa Barat,Bandung,2026-09-11,8,0
+744,Jawa Barat,Bandung,2026-09-12,8,0
+745,Jawa Barat,Bandung,2026-09-13,8,0
+746,Jawa Barat,Bandung,2026-09-14,8,0
+747,Jawa Barat,Bandung,2026-09-15,8,0
+748,Jawa Barat,Bandung,2026-09-16,8,0
+749,Jawa Barat,Bandung,2026-09-17,8,0
+750,Jawa Barat,Bandung,2026-09-18,8,0
+751,Jawa Barat,Bandung,2026-09-19,8,0
+752,Jawa Barat,Bandung,2026-09-20,8,0
+753,Jawa Barat,Bandung,2026-09-21,8,0
+754,Jawa Barat,Bandung,2026-09-22,8,0
+755,Jawa Barat,Bandung,2026-09-23,8,0
+756,Jawa Barat,Bandung,2026-09-24,8,0
+757,Jawa Barat,Bandung,2026-09-25,8,0
+758,Jawa Barat,Bandung,2026-09-26,8,0
+759,Jawa Barat,Bandung,2026-09-27,8,0
+760,Jawa Barat,Bandung,2026-09-28,8,0
+761,Jawa Barat,Bandung,2026-09-29,8,0
+762,Jawa Barat,Bandung,2026-09-30,8,0
+763,Jawa Barat,Bandung,2026-10-01,8,0
+764,Jawa Barat,Bandung,2026-10-02,8,0
+765,Jawa Barat,Bandung,2026-10-03,8,0
+766,Jawa Barat,Bandung,2026-10-04,8,0
+767,Jawa Barat,Bandung,2026-10-05,8,0
+768,Jawa Barat,Bandung,2026-10-06,8,0
+769,Jawa Barat,Bandung,2026-10-07,8,0
+770,Jawa Barat,Bandung,2026-10-08,8,0
+771,Jawa Barat,Bandung,2026-10-09,8,0
+772,Jawa Barat,Bandung,2026-10-10,8,0
+773,Jawa Barat,Bandung,2026-10-11,8,0
+774,Jawa Barat,Bandung,2026-10-12,8,0
+775,Jawa Barat,Bandung,2026-10-13,8,0
+776,Jawa Barat,Bandung,2026-10-14,8,0
+777,Jawa Barat,Bandung,2026-10-15,8,0
+778,Jawa Barat,Bandung,2026-10-16,8,0
+779,Jawa Barat,Bandung,2026-10-17,8,0
+780,Jawa Barat,Bandung,2026-10-18,8,0
+781,Jawa Barat,Bandung,2026-10-19,8,0
+782,Jawa Barat,Bandung,2026-10-20,8,0
+783,Jawa Barat,Bandung,2026-10-21,8,0
+784,Jawa Barat,Bandung,2026-10-22,8,0
+785,Jawa Barat,Bandung,2026-10-23,8,0
+786,Jawa Barat,Bandung,2026-10-24,8,0
+787,Jawa Barat,Bandung,2026-10-25,8,0
+788,Jawa Barat,Bandung,2026-10-26,8,0
+789,Jawa Barat,Bandung,2026-10-27,8,0
+790,Jawa Barat,Bandung,2026-10-28,8,0
+791,Jawa Barat,Bandung,2026-10-29,8,0
+792,Jawa Barat,Bandung,2026-10-30,8,0
+793,Jawa Barat,Bandung,2026-10-31,8,0
+794,Jawa Barat,Bandung,2026-11-01,8,0
+795,Jawa Barat,Bandung,2026-11-02,8,0
+796,Jawa Barat,Bandung,2026-11-03,8,0
+797,Jawa Barat,Bandung,2026-11-04,8,0
+798,Jawa Barat,Bandung,2026-11-05,8,0
+799,Jawa Barat,Bandung,2026-11-06,8,0
+800,Jawa Barat,Bandung,2026-11-07,8,0
+801,Jawa Barat,Bandung,2026-11-08,8,0
+802,Jawa Barat,Bandung,2026-11-09,8,0
+803,Jawa Barat,Bandung,2026-11-10,8,0
+804,Jawa Barat,Bandung,2026-11-11,8,0
+805,Jawa Barat,Bandung,2026-11-12,8,0
+806,Jawa Barat,Bandung,2026-11-13,8,0
+807,Jawa Barat,Bandung,2026-11-14,8,0
+808,Jawa Barat,Bandung,2026-11-15,8,0
+809,Jawa Barat,Bandung,2026-11-16,8,0
+810,Jawa Barat,Bandung,2026-11-17,8,0
+811,Jawa Tengah,Semarang,2026-08-20,8,0
+812,Jawa Tengah,Semarang,2026-08-21,8,0
+813,Jawa Tengah,Semarang,2026-08-22,8,0
+814,Jawa Tengah,Semarang,2026-08-23,8,0
+815,Jawa Tengah,Semarang,2026-08-24,8,0
+816,Jawa Tengah,Semarang,2026-08-25,8,0
+817,Jawa Tengah,Semarang,2026-08-26,8,0
+818,Jawa Tengah,Semarang,2026-08-27,8,0
+819,Jawa Tengah,Semarang,2026-08-28,8,0
+820,Jawa Tengah,Semarang,2026-08-29,8,0
+821,Jawa Tengah,Semarang,2026-08-30,8,0
+822,Jawa Tengah,Semarang,2026-08-31,8,0
+823,Jawa Tengah,Semarang,2026-09-01,8,0
+824,Jawa Tengah,Semarang,2026-09-02,8,0
+825,Jawa Tengah,Semarang,2026-09-03,8,0
+826,Jawa Tengah,Semarang,2026-09-04,8,0
+827,Jawa Tengah,Semarang,2026-09-05,8,0
+828,Jawa Tengah,Semarang,2026-09-06,8,0
+829,Jawa Tengah,Semarang,2026-09-07,8,0
+830,Jawa Tengah,Semarang,2026-09-08,8,0
+831,Jawa Tengah,Semarang,2026-09-09,8,0
+832,Jawa Tengah,Semarang,2026-09-10,8,0
+833,Jawa Tengah,Semarang,2026-09-11,8,0
+834,Jawa Tengah,Semarang,2026-09-12,8,0
+835,Jawa Tengah,Semarang,2026-09-13,8,0
+836,Jawa Tengah,Semarang,2026-09-14,8,0
+837,Jawa Tengah,Semarang,2026-09-15,8,0
+838,Jawa Tengah,Semarang,2026-09-16,8,0
+839,Jawa Tengah,Semarang,2026-09-17,8,0
+840,Jawa Tengah,Semarang,2026-09-18,8,0
+841,Jawa Tengah,Semarang,2026-09-19,8,0
+842,Jawa Tengah,Semarang,2026-09-20,8,0
+843,Jawa Tengah,Semarang,2026-09-21,8,0
+844,Jawa Tengah,Semarang,2026-09-22,8,0
+845,Jawa Tengah,Semarang,2026-09-23,8,0
+846,Jawa Tengah,Semarang,2026-09-24,8,0
+847,Jawa Tengah,Semarang,2026-09-25,8,0
+848,Jawa Tengah,Semarang,2026-09-26,8,0
+849,Jawa Tengah,Semarang,2026-09-27,8,0
+850,Jawa Tengah,Semarang,2026-09-28,8,0
+851,Jawa Tengah,Semarang,2026-09-29,8,0
+852,Jawa Tengah,Semarang,2026-09-30,8,0
+853,Jawa Tengah,Semarang,2026-10-01,8,0
+854,Jawa Tengah,Semarang,2026-10-02,8,0
+855,Jawa Tengah,Semarang,2026-10-03,8,0
+856,Jawa Tengah,Semarang,2026-10-04,8,0
+857,Jawa Tengah,Semarang,2026-10-05,8,0
+858,Jawa Tengah,Semarang,2026-10-06,8,0
+859,Jawa Tengah,Semarang,2026-10-07,8,0
+860,Jawa Tengah,Semarang,2026-10-08,8,0
+861,Jawa Tengah,Semarang,2026-10-09,8,0
+862,Jawa Tengah,Semarang,2026-10-10,8,0
+863,Jawa Tengah,Semarang,2026-10-11,8,0
+864,Jawa Tengah,Semarang,2026-10-12,8,0
+865,Jawa Tengah,Semarang,2026-10-13,8,0
+866,Jawa Tengah,Semarang,2026-10-14,8,0
+867,Jawa Tengah,Semarang,2026-10-15,8,0
+868,Jawa Tengah,Semarang,2026-10-16,8,0
+869,Jawa Tengah,Semarang,2026-10-17,8,0
+870,Jawa Tengah,Semarang,2026-10-18,8,0
+871,Jawa Tengah,Semarang,2026-10-19,8,0
+872,Jawa Tengah,Semarang,2026-10-20,8,0
+873,Jawa Tengah,Semarang,2026-10-21,8,0
+874,Jawa Tengah,Semarang,2026-10-22,8,0
+875,Jawa Tengah,Semarang,2026-10-23,8,0
+876,Jawa Tengah,Semarang,2026-10-24,8,0
+877,Jawa Tengah,Semarang,2026-10-25,8,0
+878,Jawa Tengah,Semarang,2026-10-26,8,0
+879,Jawa Tengah,Semarang,2026-10-27,8,0
+880,Jawa Tengah,Semarang,2026-10-28,8,0
+881,Jawa Tengah,Semarang,2026-10-29,8,0
+882,Jawa Tengah,Semarang,2026-10-30,8,0
+883,Jawa Tengah,Semarang,2026-10-31,8,0
+884,Jawa Tengah,Semarang,2026-11-01,8,0
+885,Jawa Tengah,Semarang,2026-11-02,8,0
+886,Jawa Tengah,Semarang,2026-11-03,8,0
+887,Jawa Tengah,Semarang,2026-11-04,8,0
+888,Jawa Tengah,Semarang,2026-11-05,8,0
+889,Jawa Tengah,Semarang,2026-11-06,8,0
+890,Jawa Tengah,Semarang,2026-11-07,8,0
+891,Jawa Tengah,Semarang,2026-11-08,8,0
+892,Jawa Tengah,Semarang,2026-11-09,8,0
+893,Jawa Tengah,Semarang,2026-11-10,8,0
+894,Jawa Tengah,Semarang,2026-11-11,8,0
+895,Jawa Tengah,Semarang,2026-11-12,8,0
+896,Jawa Tengah,Semarang,2026-11-13,8,0
+897,Jawa Tengah,Semarang,2026-11-14,8,0
+898,Jawa Tengah,Semarang,2026-11-15,8,0
+899,Jawa Tengah,Semarang,2026-11-16,8,0
+900,Jawa Tengah,Semarang,2026-11-17,8,0
+901,Jawa Timur,Surabaya,2026-08-20,8,0
+902,Jawa Timur,Surabaya,2026-08-21,8,0
+903,Jawa Timur,Surabaya,2026-08-22,8,0
+904,Jawa Timur,Surabaya,2026-08-23,8,0
+905,Jawa Timur,Surabaya,2026-08-24,8,0
+906,Jawa Timur,Surabaya,2026-08-25,8,0
+907,Jawa Timur,Surabaya,2026-08-26,8,0
+908,Jawa Timur,Surabaya,2026-08-27,8,0
+909,Jawa Timur,Surabaya,2026-08-28,8,0
+910,Jawa Timur,Surabaya,2026-08-29,8,0
+911,Jawa Timur,Surabaya,2026-08-30,8,0
+912,Jawa Timur,Surabaya,2026-08-31,8,0
+913,Jawa Timur,Surabaya,2026-09-01,8,0
+914,Jawa Timur,Surabaya,2026-09-02,8,0
+915,Jawa Timur,Surabaya,2026-09-03,8,0
+916,Jawa Timur,Surabaya,2026-09-04,8,0
+917,Jawa Timur,Surabaya,2026-09-05,8,0
+918,Jawa Timur,Surabaya,2026-09-06,8,0
+919,Jawa Timur,Surabaya,2026-09-07,8,0
+920,Jawa Timur,Surabaya,2026-09-08,8,0
+921,Jawa Timur,Surabaya,2026-09-09,8,0
+922,Jawa Timur,Surabaya,2026-09-10,8,0
+923,Jawa Timur,Surabaya,2026-09-11,8,0
+924,Jawa Timur,Surabaya,2026-09-12,8,0
+925,Jawa Timur,Surabaya,2026-09-13,8,0
+926,Jawa Timur,Surabaya,2026-09-14,8,0
+927,Jawa Timur,Surabaya,2026-09-15,8,0
+928,Jawa Timur,Surabaya,2026-09-16,8,0
+929,Jawa Timur,Surabaya,2026-09-17,8,0
+930,Jawa Timur,Surabaya,2026-09-18,8,0
+931,Jawa Timur,Surabaya,2026-09-19,8,0
+932,Jawa Timur,Surabaya,2026-09-20,8,0
+933,Jawa Timur,Surabaya,2026-09-21,8,0
+934,Jawa Timur,Surabaya,2026-09-22,8,0
+935,Jawa Timur,Surabaya,2026-09-23,8,0
+936,Jawa Timur,Surabaya,2026-09-24,8,0
+937,Jawa Timur,Surabaya,2026-09-25,8,0
+938,Jawa Timur,Surabaya,2026-09-26,8,0
+939,Jawa Timur,Surabaya,2026-09-27,8,0
+940,Jawa Timur,Surabaya,2026-09-28,8,0
+941,Jawa Timur,Surabaya,2026-09-29,8,0
+942,Jawa Timur,Surabaya,2026-09-30,8,0
+943,Jawa Timur,Surabaya,2026-10-01,8,0
+944,Jawa Timur,Surabaya,2026-10-02,8,0
+945,Jawa Timur,Surabaya,2026-10-03,8,0
+946,Jawa Timur,Surabaya,2026-10-04,8,0
+947,Jawa Timur,Surabaya,2026-10-05,8,0
+948,Jawa Timur,Surabaya,2026-10-06,8,0
+949,Jawa Timur,Surabaya,2026-10-07,8,0
+950,Jawa Timur,Surabaya,2026-10-08,8,0
+951,Jawa Timur,Surabaya,2026-10-09,8,0
+952,Jawa Timur,Surabaya,2026-10-10,8,0
+953,Jawa Timur,Surabaya,2026-10-11,8,0
+954,Jawa Timur,Surabaya,2026-10-12,8,0
+955,Jawa Timur,Surabaya,2026-10-13,8,0
+956,Jawa Timur,Surabaya,2026-10-14,8,0
+957,Jawa Timur,Surabaya,2026-10-15,8,0
+958,Jawa Timur,Surabaya,2026-10-16,8,0
+959,Jawa Timur,Surabaya,2026-10-17,8,0
+960,Jawa Timur,Surabaya,2026-10-18,8,0
+961,Jawa Timur,Surabaya,2026-10-19,8,0
+962,Jawa Timur,Surabaya,2026-10-20,8,0
+963,Jawa Timur,Surabaya,2026-10-21,8,0
+964,Jawa Timur,Surabaya,2026-10-22,8,0
+965,Jawa Timur,Surabaya,2026-10-23,8,0
+966,Jawa Timur,Surabaya,2026-10-24,8,0
+967,Jawa Timur,Surabaya,2026-10-25,8,0
+968,Jawa Timur,Surabaya,2026-10-26,8,0
+969,Jawa Timur,Surabaya,2026-10-27,8,0
+970,Jawa Timur,Surabaya,2026-10-28,8,0
+971,Jawa Timur,Surabaya,2026-10-29,8,0
+972,Jawa Timur,Surabaya,2026-10-30,8,0
+973,Jawa Timur,Surabaya,2026-10-31,8,0
+974,Jawa Timur,Surabaya,2026-11-01,8,0
+975,Jawa Timur,Surabaya,2026-11-02,8,0
+976,Jawa Timur,Surabaya,2026-11-03,8,0
+977,Jawa Timur,Surabaya,2026-11-04,8,0
+978,Jawa Timur,Surabaya,2026-11-05,8,0
+979,Jawa Timur,Surabaya,2026-11-06,8,0
+980,Jawa Timur,Surabaya,2026-11-07,8,0
+981,Jawa Timur,Surabaya,2026-11-08,8,0
+982,Jawa Timur,Surabaya,2026-11-09,8,0
+983,Jawa Timur,Surabaya,2026-11-10,8,0
+984,Jawa Timur,Surabaya,2026-11-11,8,0
+985,Jawa Timur,Surabaya,2026-11-12,8,0
+986,Jawa Timur,Surabaya,2026-11-13,8,0
+987,Jawa Timur,Surabaya,2026-11-14,8,0
+988,Jawa Timur,Surabaya,2026-11-15,8,0
+989,Jawa Timur,Surabaya,2026-11-16,8,0
+990,Jawa Timur,Surabaya,2026-11-17,8,0
+991,Kalimantan Barat,Pontianak,2026-08-20,8,0
+992,Kalimantan Barat,Pontianak,2026-08-21,8,0
+993,Kalimantan Barat,Pontianak,2026-08-22,8,0
+994,Kalimantan Barat,Pontianak,2026-08-23,8,0
+995,Kalimantan Barat,Pontianak,2026-08-24,8,0
+996,Kalimantan Barat,Pontianak,2026-08-25,8,0
+997,Kalimantan Barat,Pontianak,2026-08-26,8,0
+998,Kalimantan Barat,Pontianak,2026-08-27,8,0
+999,Kalimantan Barat,Pontianak,2026-08-28,8,0
+1000,Kalimantan Barat,Pontianak,2026-08-29,8,0
+1001,Kalimantan Barat,Pontianak,2026-08-30,8,0
+1002,Kalimantan Barat,Pontianak,2026-08-31,8,0
+1003,Kalimantan Barat,Pontianak,2026-09-01,8,0
+1004,Kalimantan Barat,Pontianak,2026-09-02,8,0
+1005,Kalimantan Barat,Pontianak,2026-09-03,8,0
+1006,Kalimantan Barat,Pontianak,2026-09-04,8,0
+1007,Kalimantan Barat,Pontianak,2026-09-05,8,0
+1008,Kalimantan Barat,Pontianak,2026-09-06,8,0
+1009,Kalimantan Barat,Pontianak,2026-09-07,8,0
+1010,Kalimantan Barat,Pontianak,2026-09-08,8,0
+1011,Kalimantan Barat,Pontianak,2026-09-09,8,0
+1012,Kalimantan Barat,Pontianak,2026-09-10,8,0
+1013,Kalimantan Barat,Pontianak,2026-09-11,8,0
+1014,Kalimantan Barat,Pontianak,2026-09-12,8,0
+1015,Kalimantan Barat,Pontianak,2026-09-13,8,0
+1016,Kalimantan Barat,Pontianak,2026-09-14,8,0
+1017,Kalimantan Barat,Pontianak,2026-09-15,8,0
+1018,Kalimantan Barat,Pontianak,2026-09-16,8,0
+1019,Kalimantan Barat,Pontianak,2026-09-17,8,0
+1020,Kalimantan Barat,Pontianak,2026-09-18,8,0
+1021,Kalimantan Barat,Pontianak,2026-09-19,8,0
+1022,Kalimantan Barat,Pontianak,2026-09-20,8,0
+1023,Kalimantan Barat,Pontianak,2026-09-21,8,0
+1024,Kalimantan Barat,Pontianak,2026-09-22,8,0
+1025,Kalimantan Barat,Pontianak,2026-09-23,8,0
+1026,Kalimantan Barat,Pontianak,2026-09-24,8,0
+1027,Kalimantan Barat,Pontianak,2026-09-25,8,0
+1028,Kalimantan Barat,Pontianak,2026-09-26,8,0
+1029,Kalimantan Barat,Pontianak,2026-09-27,8,0
+1030,Kalimantan Barat,Pontianak,2026-09-28,8,0
+1031,Kalimantan Barat,Pontianak,2026-09-29,8,0
+1032,Kalimantan Barat,Pontianak,2026-09-30,8,0
+1033,Kalimantan Barat,Pontianak,2026-10-01,8,0
+1034,Kalimantan Barat,Pontianak,2026-10-02,8,0
+1035,Kalimantan Barat,Pontianak,2026-10-03,8,0
+1036,Kalimantan Barat,Pontianak,2026-10-04,8,0
+1037,Kalimantan Barat,Pontianak,2026-10-05,8,0
+1038,Kalimantan Barat,Pontianak,2026-10-06,8,0
+1039,Kalimantan Barat,Pontianak,2026-10-07,8,0
+1040,Kalimantan Barat,Pontianak,2026-10-08,8,0
+1041,Kalimantan Barat,Pontianak,2026-10-09,8,0
+1042,Kalimantan Barat,Pontianak,2026-10-10,8,0
+1043,Kalimantan Barat,Pontianak,2026-10-11,8,0
+1044,Kalimantan Barat,Pontianak,2026-10-12,8,0
+1045,Kalimantan Barat,Pontianak,2026-10-13,8,0
+1046,Kalimantan Barat,Pontianak,2026-10-14,8,0
+1047,Kalimantan Barat,Pontianak,2026-10-15,8,0
+1048,Kalimantan Barat,Pontianak,2026-10-16,8,0
+1049,Kalimantan Barat,Pontianak,2026-10-17,8,0
+1050,Kalimantan Barat,Pontianak,2026-10-18,8,0
+1051,Kalimantan Barat,Pontianak,2026-10-19,8,0
+1052,Kalimantan Barat,Pontianak,2026-10-20,8,0
+1053,Kalimantan Barat,Pontianak,2026-10-21,8,0
+1054,Kalimantan Barat,Pontianak,2026-10-22,8,0
+1055,Kalimantan Barat,Pontianak,2026-10-23,8,0
+1056,Kalimantan Barat,Pontianak,2026-10-24,8,0
+1057,Kalimantan Barat,Pontianak,2026-10-25,8,0
+1058,Kalimantan Barat,Pontianak,2026-10-26,8,0
+1059,Kalimantan Barat,Pontianak,2026-10-27,8,0
+1060,Kalimantan Barat,Pontianak,2026-10-28,8,0
+1061,Kalimantan Barat,Pontianak,2026-10-29,8,0
+1062,Kalimantan Barat,Pontianak,2026-10-30,8,0
+1063,Kalimantan Barat,Pontianak,2026-10-31,8,0
+1064,Kalimantan Barat,Pontianak,2026-11-01,8,0
+1065,Kalimantan Barat,Pontianak,2026-11-02,8,0
+1066,Kalimantan Barat,Pontianak,2026-11-03,8,0
+1067,Kalimantan Barat,Pontianak,2026-11-04,8,0
+1068,Kalimantan Barat,Pontianak,2026-11-05,8,0
+1069,Kalimantan Barat,Pontianak,2026-11-06,8,0
+1070,Kalimantan Barat,Pontianak,2026-11-07,8,0
+1071,Kalimantan Barat,Pontianak,2026-11-08,8,0
+1072,Kalimantan Barat,Pontianak,2026-11-09,8,0
+1073,Kalimantan Barat,Pontianak,2026-11-10,8,0
+1074,Kalimantan Barat,Pontianak,2026-11-11,8,0
+1075,Kalimantan Barat,Pontianak,2026-11-12,8,0
+1076,Kalimantan Barat,Pontianak,2026-11-13,8,0
+1077,Kalimantan Barat,Pontianak,2026-11-14,8,0
+1078,Kalimantan Barat,Pontianak,2026-11-15,8,0
+1079,Kalimantan Barat,Pontianak,2026-11-16,8,0
+1080,Kalimantan Barat,Pontianak,2026-11-17,8,0
+1081,Kalimantan Selatan,Banjarbaru,2026-08-20,8,0
+1082,Kalimantan Selatan,Banjarbaru,2026-08-21,8,0
+1083,Kalimantan Selatan,Banjarbaru,2026-08-22,8,0
+1084,Kalimantan Selatan,Banjarbaru,2026-08-23,8,0
+1085,Kalimantan Selatan,Banjarbaru,2026-08-24,8,0
+1086,Kalimantan Selatan,Banjarbaru,2026-08-25,8,0
+1087,Kalimantan Selatan,Banjarbaru,2026-08-26,8,0
+1088,Kalimantan Selatan,Banjarbaru,2026-08-27,8,0
+1089,Kalimantan Selatan,Banjarbaru,2026-08-28,8,0
+1090,Kalimantan Selatan,Banjarbaru,2026-08-29,8,0
+1091,Kalimantan Selatan,Banjarbaru,2026-08-30,8,0
+1092,Kalimantan Selatan,Banjarbaru,2026-08-31,8,0
+1093,Kalimantan Selatan,Banjarbaru,2026-09-01,8,0
+1094,Kalimantan Selatan,Banjarbaru,2026-09-02,8,0
+1095,Kalimantan Selatan,Banjarbaru,2026-09-03,8,0
+1096,Kalimantan Selatan,Banjarbaru,2026-09-04,8,0
+1097,Kalimantan Selatan,Banjarbaru,2026-09-05,8,0
+1098,Kalimantan Selatan,Banjarbaru,2026-09-06,8,0
+1099,Kalimantan Selatan,Banjarbaru,2026-09-07,8,0
+1100,Kalimantan Selatan,Banjarbaru,2026-09-08,8,0
+1101,Kalimantan Selatan,Banjarbaru,2026-09-09,8,0
+1102,Kalimantan Selatan,Banjarbaru,2026-09-10,8,0
+1103,Kalimantan Selatan,Banjarbaru,2026-09-11,8,0
+1104,Kalimantan Selatan,Banjarbaru,2026-09-12,8,0
+1105,Kalimantan Selatan,Banjarbaru,2026-09-13,8,0
+1106,Kalimantan Selatan,Banjarbaru,2026-09-14,8,0
+1107,Kalimantan Selatan,Banjarbaru,2026-09-15,8,0
+1108,Kalimantan Selatan,Banjarbaru,2026-09-16,8,0
+1109,Kalimantan Selatan,Banjarbaru,2026-09-17,8,0
+1110,Kalimantan Selatan,Banjarbaru,2026-09-18,8,0
+1111,Kalimantan Selatan,Banjarbaru,2026-09-19,8,0
+1112,Kalimantan Selatan,Banjarbaru,2026-09-20,8,0
+1113,Kalimantan Selatan,Banjarbaru,2026-09-21,8,0
+1114,Kalimantan Selatan,Banjarbaru,2026-09-22,8,0
+1115,Kalimantan Selatan,Banjarbaru,2026-09-23,8,0
+1116,Kalimantan Selatan,Banjarbaru,2026-09-24,8,0
+1117,Kalimantan Selatan,Banjarbaru,2026-09-25,8,0
+1118,Kalimantan Selatan,Banjarbaru,2026-09-26,8,0
+1119,Kalimantan Selatan,Banjarbaru,2026-09-27,8,0
+1120,Kalimantan Selatan,Banjarbaru,2026-09-28,8,0
+1121,Kalimantan Selatan,Banjarbaru,2026-09-29,8,0
+1122,Kalimantan Selatan,Banjarbaru,2026-09-30,8,0
+1123,Kalimantan Selatan,Banjarbaru,2026-10-01,8,0
+1124,Kalimantan Selatan,Banjarbaru,2026-10-02,8,0
+1125,Kalimantan Selatan,Banjarbaru,2026-10-03,8,0
+1126,Kalimantan Selatan,Banjarbaru,2026-10-04,8,0
+1127,Kalimantan Selatan,Banjarbaru,2026-10-05,8,0
+1128,Kalimantan Selatan,Banjarbaru,2026-10-06,8,0
+1129,Kalimantan Selatan,Banjarbaru,2026-10-07,8,0
+1130,Kalimantan Selatan,Banjarbaru,2026-10-08,8,0
+1131,Kalimantan Selatan,Banjarbaru,2026-10-09,8,0
+1132,Kalimantan Selatan,Banjarbaru,2026-10-10,8,0
+1133,Kalimantan Selatan,Banjarbaru,2026-10-11,8,0
+1134,Kalimantan Selatan,Banjarbaru,2026-10-12,8,0
+1135,Kalimantan Selatan,Banjarbaru,2026-10-13,8,0
+1136,Kalimantan Selatan,Banjarbaru,2026-10-14,8,0
+1137,Kalimantan Selatan,Banjarbaru,2026-10-15,8,0
+1138,Kalimantan Selatan,Banjarbaru,2026-10-16,8,0
+1139,Kalimantan Selatan,Banjarbaru,2026-10-17,8,0
+1140,Kalimantan Selatan,Banjarbaru,2026-10-18,8,0
+1141,Kalimantan Selatan,Banjarbaru,2026-10-19,8,0
+1142,Kalimantan Selatan,Banjarbaru,2026-10-20,8,0
+1143,Kalimantan Selatan,Banjarbaru,2026-10-21,8,0
+1144,Kalimantan Selatan,Banjarbaru,2026-10-22,8,0
+1145,Kalimantan Selatan,Banjarbaru,2026-10-23,8,0
+1146,Kalimantan Selatan,Banjarbaru,2026-10-24,8,0
+1147,Kalimantan Selatan,Banjarbaru,2026-10-25,8,0
+1148,Kalimantan Selatan,Banjarbaru,2026-10-26,8,0
+1149,Kalimantan Selatan,Banjarbaru,2026-10-27,8,0
+1150,Kalimantan Selatan,Banjarbaru,2026-10-28,8,0
+1151,Kalimantan Selatan,Banjarbaru,2026-10-29,8,0
+1152,Kalimantan Selatan,Banjarbaru,2026-10-30,8,0
+1153,Kalimantan Selatan,Banjarbaru,2026-10-31,8,0
+1154,Kalimantan Selatan,Banjarbaru,2026-11-01,8,0
+1155,Kalimantan Selatan,Banjarbaru,2026-11-02,8,0
+1156,Kalimantan Selatan,Banjarbaru,2026-11-03,8,0
+1157,Kalimantan Selatan,Banjarbaru,2026-11-04,8,0
+1158,Kalimantan Selatan,Banjarbaru,2026-11-05,8,0
+1159,Kalimantan Selatan,Banjarbaru,2026-11-06,8,0
+1160,Kalimantan Selatan,Banjarbaru,2026-11-07,8,0
+1161,Kalimantan Selatan,Banjarbaru,2026-11-08,8,0
+1162,Kalimantan Selatan,Banjarbaru,2026-11-09,8,0
+1163,Kalimantan Selatan,Banjarbaru,2026-11-10,8,0
+1164,Kalimantan Selatan,Banjarbaru,2026-11-11,8,0
+1165,Kalimantan Selatan,Banjarbaru,2026-11-12,8,0
+1166,Kalimantan Selatan,Banjarbaru,2026-11-13,8,0
+1167,Kalimantan Selatan,Banjarbaru,2026-11-14,8,0
+1168,Kalimantan Selatan,Banjarbaru,2026-11-15,8,0
+1169,Kalimantan Selatan,Banjarbaru,2026-11-16,8,0
+1170,Kalimantan Selatan,Banjarbaru,2026-11-17,8,0
+1171,Kalimantan Tengah,Palangka Raya,2026-08-20,8,0
+1172,Kalimantan Tengah,Palangka Raya,2026-08-21,8,0
+1173,Kalimantan Tengah,Palangka Raya,2026-08-22,8,0
+1174,Kalimantan Tengah,Palangka Raya,2026-08-23,8,0
+1175,Kalimantan Tengah,Palangka Raya,2026-08-24,8,0
+1176,Kalimantan Tengah,Palangka Raya,2026-08-25,8,0
+1177,Kalimantan Tengah,Palangka Raya,2026-08-26,8,0
+1178,Kalimantan Tengah,Palangka Raya,2026-08-27,8,0
+1179,Kalimantan Tengah,Palangka Raya,2026-08-28,8,0
+1180,Kalimantan Tengah,Palangka Raya,2026-08-29,8,0
+1181,Kalimantan Tengah,Palangka Raya,2026-08-30,8,0
+1182,Kalimantan Tengah,Palangka Raya,2026-08-31,8,0
+1183,Kalimantan Tengah,Palangka Raya,2026-09-01,8,0
+1184,Kalimantan Tengah,Palangka Raya,2026-09-02,8,0
+1185,Kalimantan Tengah,Palangka Raya,2026-09-03,8,0
+1186,Kalimantan Tengah,Palangka Raya,2026-09-04,8,0
+1187,Kalimantan Tengah,Palangka Raya,2026-09-05,8,0
+1188,Kalimantan Tengah,Palangka Raya,2026-09-06,8,0
+1189,Kalimantan Tengah,Palangka Raya,2026-09-07,8,0
+1190,Kalimantan Tengah,Palangka Raya,2026-09-08,8,0
+1191,Kalimantan Tengah,Palangka Raya,2026-09-09,8,0
+1192,Kalimantan Tengah,Palangka Raya,2026-09-10,8,0
+1193,Kalimantan Tengah,Palangka Raya,2026-09-11,8,0
+1194,Kalimantan Tengah,Palangka Raya,2026-09-12,8,0
+1195,Kalimantan Tengah,Palangka Raya,2026-09-13,8,0
+1196,Kalimantan Tengah,Palangka Raya,2026-09-14,8,0
+1197,Kalimantan Tengah,Palangka Raya,2026-09-15,8,0
+1198,Kalimantan Tengah,Palangka Raya,2026-09-16,8,0
+1199,Kalimantan Tengah,Palangka Raya,2026-09-17,8,0
+1200,Kalimantan Tengah,Palangka Raya,2026-09-18,8,0
+1201,Kalimantan Tengah,Palangka Raya,2026-09-19,8,0
+1202,Kalimantan Tengah,Palangka Raya,2026-09-20,8,0
+1203,Kalimantan Tengah,Palangka Raya,2026-09-21,8,1
+1204,Kalimantan Tengah,Palangka Raya,2026-09-22,8,0
+1205,Kalimantan Tengah,Palangka Raya,2026-09-23,8,0
+1206,Kalimantan Tengah,Palangka Raya,2026-09-24,8,0
+1207,Kalimantan Tengah,Palangka Raya,2026-09-25,8,0
+1208,Kalimantan Tengah,Palangka Raya,2026-09-26,8,0
+1209,Kalimantan Tengah,Palangka Raya,2026-09-27,8,0
+1210,Kalimantan Tengah,Palangka Raya,2026-09-28,8,0
+1211,Kalimantan Tengah,Palangka Raya,2026-09-29,8,0
+1212,Kalimantan Tengah,Palangka Raya,2026-09-30,8,0
+1213,Kalimantan Tengah,Palangka Raya,2026-10-01,8,0
+1214,Kalimantan Tengah,Palangka Raya,2026-10-02,8,0
+1215,Kalimantan Tengah,Palangka Raya,2026-10-03,8,0
+1216,Kalimantan Tengah,Palangka Raya,2026-10-04,8,0
+1217,Kalimantan Tengah,Palangka Raya,2026-10-05,8,0
+1218,Kalimantan Tengah,Palangka Raya,2026-10-06,8,0
+1219,Kalimantan Tengah,Palangka Raya,2026-10-07,8,0
+1220,Kalimantan Tengah,Palangka Raya,2026-10-08,8,0
+1221,Kalimantan Tengah,Palangka Raya,2026-10-09,8,0
+1222,Kalimantan Tengah,Palangka Raya,2026-10-10,8,0
+1223,Kalimantan Tengah,Palangka Raya,2026-10-11,8,0
+1224,Kalimantan Tengah,Palangka Raya,2026-10-12,8,0
+1225,Kalimantan Tengah,Palangka Raya,2026-10-13,8,0
+1226,Kalimantan Tengah,Palangka Raya,2026-10-14,8,0
+1227,Kalimantan Tengah,Palangka Raya,2026-10-15,8,0
+1228,Kalimantan Tengah,Palangka Raya,2026-10-16,8,0
+1229,Kalimantan Tengah,Palangka Raya,2026-10-17,8,0
+1230,Kalimantan Tengah,Palangka Raya,2026-10-18,8,0
+1231,Kalimantan Tengah,Palangka Raya,2026-10-19,8,0
+1232,Kalimantan Tengah,Palangka Raya,2026-10-20,8,0
+1233,Kalimantan Tengah,Palangka Raya,2026-10-21,8,0
+1234,Kalimantan Tengah,Palangka Raya,2026-10-22,8,0
+1235,Kalimantan Tengah,Palangka Raya,2026-10-23,8,0
+1236,Kalimantan Tengah,Palangka Raya,2026-10-24,8,0
+1237,Kalimantan Tengah,Palangka Raya,2026-10-25,8,0
+1238,Kalimantan Tengah,Palangka Raya,2026-10-26,8,0
+1239,Kalimantan Tengah,Palangka Raya,2026-10-27,8,0
+1240,Kalimantan Tengah,Palangka Raya,2026-10-28,8,0
+1241,Kalimantan Tengah,Palangka Raya,2026-10-29,8,0
+1242,Kalimantan Tengah,Palangka Raya,2026-10-30,8,0
+1243,Kalimantan Tengah,Palangka Raya,2026-10-31,8,0
+1244,Kalimantan Tengah,Palangka Raya,2026-11-01,8,0
+1245,Kalimantan Tengah,Palangka Raya,2026-11-02,8,0
+1246,Kalimantan Tengah,Palangka Raya,2026-11-03,8,0
+1247,Kalimantan Tengah,Palangka Raya,2026-11-04,8,0
+1248,Kalimantan Tengah,Palangka Raya,2026-11-05,8,0
+1249,Kalimantan Tengah,Palangka Raya,2026-11-06,8,0
+1250,Kalimantan Tengah,Palangka Raya,2026-11-07,8,0
+1251,Kalimantan Tengah,Palangka Raya,2026-11-08,8,0
+1252,Kalimantan Tengah,Palangka Raya,2026-11-09,8,0
+1253,Kalimantan Tengah,Palangka Raya,2026-11-10,8,0
+1254,Kalimantan Tengah,Palangka Raya,2026-11-11,8,0
+1255,Kalimantan Tengah,Palangka Raya,2026-11-12,8,0
+1256,Kalimantan Tengah,Palangka Raya,2026-11-13,8,0
+1257,Kalimantan Tengah,Palangka Raya,2026-11-14,8,0
+1258,Kalimantan Tengah,Palangka Raya,2026-11-15,8,0
+1259,Kalimantan Tengah,Palangka Raya,2026-11-16,8,0
+1260,Kalimantan Tengah,Palangka Raya,2026-11-17,8,0
+1261,Kalimantan Timur,Samarinda,2026-08-20,8,0
+1262,Kalimantan Timur,Samarinda,2026-08-21,8,0
+1263,Kalimantan Timur,Samarinda,2026-08-22,8,0
+1264,Kalimantan Timur,Samarinda,2026-08-23,8,0
+1265,Kalimantan Timur,Samarinda,2026-08-24,8,0
+1266,Kalimantan Timur,Samarinda,2026-08-25,8,0
+1267,Kalimantan Timur,Samarinda,2026-08-26,8,0
+1268,Kalimantan Timur,Samarinda,2026-08-27,8,0
+1269,Kalimantan Timur,Samarinda,2026-08-28,8,0
+1270,Kalimantan Timur,Samarinda,2026-08-29,8,0
+1271,Kalimantan Timur,Samarinda,2026-08-30,8,0
+1272,Kalimantan Timur,Samarinda,2026-08-31,8,0
+1273,Kalimantan Timur,Samarinda,2026-09-01,8,0
+1274,Kalimantan Timur,Samarinda,2026-09-02,8,0
+1275,Kalimantan Timur,Samarinda,2026-09-03,8,0
+1276,Kalimantan Timur,Samarinda,2026-09-04,8,0
+1277,Kalimantan Timur,Samarinda,2026-09-05,8,0
+1278,Kalimantan Timur,Samarinda,2026-09-06,8,0
+1279,Kalimantan Timur,Samarinda,2026-09-07,8,0
+1280,Kalimantan Timur,Samarinda,2026-09-08,8,0
+1281,Kalimantan Timur,Samarinda,2026-09-09,8,0
+1282,Kalimantan Timur,Samarinda,2026-09-10,8,0
+1283,Kalimantan Timur,Samarinda,2026-09-11,8,0
+1284,Kalimantan Timur,Samarinda,2026-09-12,8,0
+1285,Kalimantan Timur,Samarinda,2026-09-13,8,0
+1286,Kalimantan Timur,Samarinda,2026-09-14,8,0
+1287,Kalimantan Timur,Samarinda,2026-09-15,8,0
+1288,Kalimantan Timur,Samarinda,2026-09-16,8,0
+1289,Kalimantan Timur,Samarinda,2026-09-17,8,0
+1290,Kalimantan Timur,Samarinda,2026-09-18,8,0
+1291,Kalimantan Timur,Samarinda,2026-09-19,8,0
+1292,Kalimantan Timur,Samarinda,2026-09-20,8,0
+1293,Kalimantan Timur,Samarinda,2026-09-21,8,0
+1294,Kalimantan Timur,Samarinda,2026-09-22,8,0
+1295,Kalimantan Timur,Samarinda,2026-09-23,8,0
+1296,Kalimantan Timur,Samarinda,2026-09-24,8,0
+1297,Kalimantan Timur,Samarinda,2026-09-25,8,0
+1298,Kalimantan Timur,Samarinda,2026-09-26,8,0
+1299,Kalimantan Timur,Samarinda,2026-09-27,8,0
+1300,Kalimantan Timur,Samarinda,2026-09-28,8,0
+1301,Kalimantan Timur,Samarinda,2026-09-29,8,0
+1302,Kalimantan Timur,Samarinda,2026-09-30,8,0
+1303,Kalimantan Timur,Samarinda,2026-10-01,8,0
+1304,Kalimantan Timur,Samarinda,2026-10-02,8,0
+1305,Kalimantan Timur,Samarinda,2026-10-03,8,0
+1306,Kalimantan Timur,Samarinda,2026-10-04,8,0
+1307,Kalimantan Timur,Samarinda,2026-10-05,8,0
+1308,Kalimantan Timur,Samarinda,2026-10-06,8,0
+1309,Kalimantan Timur,Samarinda,2026-10-07,8,0
+1310,Kalimantan Timur,Samarinda,2026-10-08,8,0
+1311,Kalimantan Timur,Samarinda,2026-10-09,8,0
+1312,Kalimantan Timur,Samarinda,2026-10-10,8,0
+1313,Kalimantan Timur,Samarinda,2026-10-11,8,0
+1314,Kalimantan Timur,Samarinda,2026-10-12,8,0
+1315,Kalimantan Timur,Samarinda,2026-10-13,8,0
+1316,Kalimantan Timur,Samarinda,2026-10-14,8,0
+1317,Kalimantan Timur,Samarinda,2026-10-15,8,0
+1318,Kalimantan Timur,Samarinda,2026-10-16,8,0
+1319,Kalimantan Timur,Samarinda,2026-10-17,8,0
+1320,Kalimantan Timur,Samarinda,2026-10-18,8,0
+1321,Kalimantan Timur,Samarinda,2026-10-19,8,0
+1322,Kalimantan Timur,Samarinda,2026-10-20,8,0
+1323,Kalimantan Timur,Samarinda,2026-10-21,8,0
+1324,Kalimantan Timur,Samarinda,2026-10-22,8,0
+1325,Kalimantan Timur,Samarinda,2026-10-23,8,0
+1326,Kalimantan Timur,Samarinda,2026-10-24,8,0
+1327,Kalimantan Timur,Samarinda,2026-10-25,8,0
+1328,Kalimantan Timur,Samarinda,2026-10-26,8,0
+1329,Kalimantan Timur,Samarinda,2026-10-27,8,0
+1330,Kalimantan Timur,Samarinda,2026-10-28,8,0
+1331,Kalimantan Timur,Samarinda,2026-10-29,8,0
+1332,Kalimantan Timur,Samarinda,2026-10-30,8,0
+1333,Kalimantan Timur,Samarinda,2026-10-31,8,0
+1334,Kalimantan Timur,Samarinda,2026-11-01,8,0
+1335,Kalimantan Timur,Samarinda,2026-11-02,8,0
+1336,Kalimantan Timur,Samarinda,2026-11-03,8,0
+1337,Kalimantan Timur,Samarinda,2026-11-04,8,0
+1338,Kalimantan Timur,Samarinda,2026-11-05,8,0
+1339,Kalimantan Timur,Samarinda,2026-11-06,8,0
+1340,Kalimantan Timur,Samarinda,2026-11-07,8,0
+1341,Kalimantan Timur,Samarinda,2026-11-08,8,0
+1342,Kalimantan Timur,Samarinda,2026-11-09,8,0
+1343,Kalimantan Timur,Samarinda,2026-11-10,8,0
+1344,Kalimantan Timur,Samarinda,2026-11-11,8,0
+1345,Kalimantan Timur,Samarinda,2026-11-12,8,0
+1346,Kalimantan Timur,Samarinda,2026-11-13,8,0
+1347,Kalimantan Timur,Samarinda,2026-11-14,8,0
+1348,Kalimantan Timur,Samarinda,2026-11-15,8,0
+1349,Kalimantan Timur,Samarinda,2026-11-16,8,0
+1350,Kalimantan Timur,Samarinda,2026-11-17,8,0
+1351,Kalimantan Utara,Tanjung Selor,2026-08-20,8,0
+1352,Kalimantan Utara,Tanjung Selor,2026-08-21,8,0
+1353,Kalimantan Utara,Tanjung Selor,2026-08-22,8,0
+1354,Kalimantan Utara,Tanjung Selor,2026-08-23,8,0
+1355,Kalimantan Utara,Tanjung Selor,2026-08-24,8,0
+1356,Kalimantan Utara,Tanjung Selor,2026-08-25,8,0
+1357,Kalimantan Utara,Tanjung Selor,2026-08-26,8,0
+1358,Kalimantan Utara,Tanjung Selor,2026-08-27,8,0
+1359,Kalimantan Utara,Tanjung Selor,2026-08-28,8,0
+1360,Kalimantan Utara,Tanjung Selor,2026-08-29,8,0
+1361,Kalimantan Utara,Tanjung Selor,2026-08-30,8,0
+1362,Kalimantan Utara,Tanjung Selor,2026-08-31,8,0
+1363,Kalimantan Utara,Tanjung Selor,2026-09-01,8,0
+1364,Kalimantan Utara,Tanjung Selor,2026-09-02,8,0
+1365,Kalimantan Utara,Tanjung Selor,2026-09-03,8,0
+1366,Kalimantan Utara,Tanjung Selor,2026-09-04,8,0
+1367,Kalimantan Utara,Tanjung Selor,2026-09-05,8,0
+1368,Kalimantan Utara,Tanjung Selor,2026-09-06,8,0
+1369,Kalimantan Utara,Tanjung Selor,2026-09-07,8,0
+1370,Kalimantan Utara,Tanjung Selor,2026-09-08,8,0
+1371,Kalimantan Utara,Tanjung Selor,2026-09-09,8,0
+1372,Kalimantan Utara,Tanjung Selor,2026-09-10,8,0
+1373,Kalimantan Utara,Tanjung Selor,2026-09-11,8,0
+1374,Kalimantan Utara,Tanjung Selor,2026-09-12,8,0
+1375,Kalimantan Utara,Tanjung Selor,2026-09-13,8,0
+1376,Kalimantan Utara,Tanjung Selor,2026-09-14,8,0
+1377,Kalimantan Utara,Tanjung Selor,2026-09-15,8,0
+1378,Kalimantan Utara,Tanjung Selor,2026-09-16,8,0
+1379,Kalimantan Utara,Tanjung Selor,2026-09-17,8,0
+1380,Kalimantan Utara,Tanjung Selor,2026-09-18,8,0
+1381,Kalimantan Utara,Tanjung Selor,2026-09-19,8,0
+1382,Kalimantan Utara,Tanjung Selor,2026-09-20,8,0
+1383,Kalimantan Utara,Tanjung Selor,2026-09-21,8,0
+1384,Kalimantan Utara,Tanjung Selor,2026-09-22,8,0
+1385,Kalimantan Utara,Tanjung Selor,2026-09-23,8,0
+1386,Kalimantan Utara,Tanjung Selor,2026-09-24,8,0
+1387,Kalimantan Utara,Tanjung Selor,2026-09-25,8,0
+1388,Kalimantan Utara,Tanjung Selor,2026-09-26,8,0
+1389,Kalimantan Utara,Tanjung Selor,2026-09-27,8,0
+1390,Kalimantan Utara,Tanjung Selor,2026-09-28,8,0
+1391,Kalimantan Utara,Tanjung Selor,2026-09-29,8,0
+1392,Kalimantan Utara,Tanjung Selor,2026-09-30,8,0
+1393,Kalimantan Utara,Tanjung Selor,2026-10-01,8,0
+1394,Kalimantan Utara,Tanjung Selor,2026-10-02,8,0
+1395,Kalimantan Utara,Tanjung Selor,2026-10-03,8,0
+1396,Kalimantan Utara,Tanjung Selor,2026-10-04,8,0
+1397,Kalimantan Utara,Tanjung Selor,2026-10-05,8,0
+1398,Kalimantan Utara,Tanjung Selor,2026-10-06,8,0
+1399,Kalimantan Utara,Tanjung Selor,2026-10-07,8,0
+1400,Kalimantan Utara,Tanjung Selor,2026-10-08,8,0
+1401,Kalimantan Utara,Tanjung Selor,2026-10-09,8,0
+1402,Kalimantan Utara,Tanjung Selor,2026-10-10,8,0
+1403,Kalimantan Utara,Tanjung Selor,2026-10-11,8,0
+1404,Kalimantan Utara,Tanjung Selor,2026-10-12,8,0
+1405,Kalimantan Utara,Tanjung Selor,2026-10-13,8,0
+1406,Kalimantan Utara,Tanjung Selor,2026-10-14,8,0
+1407,Kalimantan Utara,Tanjung Selor,2026-10-15,8,0
+1408,Kalimantan Utara,Tanjung Selor,2026-10-16,8,0
+1409,Kalimantan Utara,Tanjung Selor,2026-10-17,8,0
+1410,Kalimantan Utara,Tanjung Selor,2026-10-18,8,0
+1411,Kalimantan Utara,Tanjung Selor,2026-10-19,8,0
+1412,Kalimantan Utara,Tanjung Selor,2026-10-20,8,0
+1413,Kalimantan Utara,Tanjung Selor,2026-10-21,8,0
+1414,Kalimantan Utara,Tanjung Selor,2026-10-22,8,0
+1415,Kalimantan Utara,Tanjung Selor,2026-10-23,8,0
+1416,Kalimantan Utara,Tanjung Selor,2026-10-24,8,0
+1417,Kalimantan Utara,Tanjung Selor,2026-10-25,8,0
+1418,Kalimantan Utara,Tanjung Selor,2026-10-26,8,0
+1419,Kalimantan Utara,Tanjung Selor,2026-10-27,8,0
+1420,Kalimantan Utara,Tanjung Selor,2026-10-28,8,0
+1421,Kalimantan Utara,Tanjung Selor,2026-10-29,8,0
+1422,Kalimantan Utara,Tanjung Selor,2026-10-30,8,0
+1423,Kalimantan Utara,Tanjung Selor,2026-10-31,8,0
+1424,Kalimantan Utara,Tanjung Selor,2026-11-01,8,0
+1425,Kalimantan Utara,Tanjung Selor,2026-11-02,8,0
+1426,Kalimantan Utara,Tanjung Selor,2026-11-03,8,0
+1427,Kalimantan Utara,Tanjung Selor,2026-11-04,8,0
+1428,Kalimantan Utara,Tanjung Selor,2026-11-05,8,0
+1429,Kalimantan Utara,Tanjung Selor,2026-11-06,8,0
+1430,Kalimantan Utara,Tanjung Selor,2026-11-07,8,0
+1431,Kalimantan Utara,Tanjung Selor,2026-11-08,8,0
+1432,Kalimantan Utara,Tanjung Selor,2026-11-09,8,0
+1433,Kalimantan Utara,Tanjung Selor,2026-11-10,8,0
+1434,Kalimantan Utara,Tanjung Selor,2026-11-11,8,0
+1435,Kalimantan Utara,Tanjung Selor,2026-11-12,8,0
+1436,Kalimantan Utara,Tanjung Selor,2026-11-13,8,0
+1437,Kalimantan Utara,Tanjung Selor,2026-11-14,8,0
+1438,Kalimantan Utara,Tanjung Selor,2026-11-15,8,0
+1439,Kalimantan Utara,Tanjung Selor,2026-11-16,8,0
+1440,Kalimantan Utara,Tanjung Selor,2026-11-17,8,0
+1441,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-20,8,0
+1442,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-21,8,0
+1443,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-22,8,0
+1444,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-23,8,0
+1445,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-24,8,0
+1446,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-25,8,0
+1447,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-26,8,0
+1448,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-27,8,0
+1449,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-28,8,0
+1450,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-29,8,0
+1451,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-30,8,0
+1452,Kepulauan Bangka Belitung,Pangkalpinang,2026-08-31,8,0
+1453,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-01,8,0
+1454,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-02,8,0
+1455,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-03,8,0
+1456,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-04,8,0
+1457,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-05,8,0
+1458,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-06,8,0
+1459,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-07,8,0
+1460,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-08,8,0
+1461,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-09,8,0
+1462,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-10,8,0
+1463,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-11,8,0
+1464,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-12,8,0
+1465,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-13,8,0
+1466,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-14,8,0
+1467,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-15,8,0
+1468,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-16,8,0
+1469,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-17,8,0
+1470,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-18,8,0
+1471,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-19,8,0
+1472,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-20,8,0
+1473,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-21,8,0
+1474,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-22,8,0
+1475,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-23,8,0
+1476,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-24,8,0
+1477,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-25,8,0
+1478,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-26,8,0
+1479,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-27,8,0
+1480,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-28,8,0
+1481,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-29,8,0
+1482,Kepulauan Bangka Belitung,Pangkalpinang,2026-09-30,8,0
+1483,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-01,8,0
+1484,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-02,8,0
+1485,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-03,8,0
+1486,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-04,8,0
+1487,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-05,8,0
+1488,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-06,8,0
+1489,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-07,8,0
+1490,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-08,8,0
+1491,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-09,8,0
+1492,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-10,8,0
+1493,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-11,8,0
+1494,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-12,8,0
+1495,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-13,8,0
+1496,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-14,8,0
+1497,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-15,8,0
+1498,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-16,8,0
+1499,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-17,8,0
+1500,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-18,8,0
+1501,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-19,8,0
+1502,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-20,8,0
+1503,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-21,8,0
+1504,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-22,8,0
+1505,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-23,8,0
+1506,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-24,8,0
+1507,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-25,8,0
+1508,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-26,8,0
+1509,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-27,8,0
+1510,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-28,8,0
+1511,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-29,8,0
+1512,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-30,8,0
+1513,Kepulauan Bangka Belitung,Pangkalpinang,2026-10-31,8,0
+1514,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-01,8,0
+1515,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-02,8,0
+1516,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-03,8,0
+1517,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-04,8,0
+1518,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-05,8,0
+1519,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-06,8,0
+1520,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-07,8,0
+1521,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-08,8,0
+1522,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-09,8,0
+1523,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-10,8,0
+1524,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-11,8,0
+1525,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-12,8,0
+1526,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-13,8,0
+1527,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-14,8,0
+1528,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-15,8,0
+1529,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-16,8,0
+1530,Kepulauan Bangka Belitung,Pangkalpinang,2026-11-17,8,0
+1531,Kepulauan Riau,Tanjungpinang,2026-08-20,8,0
+1532,Kepulauan Riau,Tanjungpinang,2026-08-21,8,0
+1533,Kepulauan Riau,Tanjungpinang,2026-08-22,8,0
+1534,Kepulauan Riau,Tanjungpinang,2026-08-23,8,0
+1535,Kepulauan Riau,Tanjungpinang,2026-08-24,8,0
+1536,Kepulauan Riau,Tanjungpinang,2026-08-25,8,0
+1537,Kepulauan Riau,Tanjungpinang,2026-08-26,8,0
+1538,Kepulauan Riau,Tanjungpinang,2026-08-27,8,0
+1539,Kepulauan Riau,Tanjungpinang,2026-08-28,8,0
+1540,Kepulauan Riau,Tanjungpinang,2026-08-29,8,0
+1541,Kepulauan Riau,Tanjungpinang,2026-08-30,8,0
+1542,Kepulauan Riau,Tanjungpinang,2026-08-31,8,0
+1543,Kepulauan Riau,Tanjungpinang,2026-09-01,8,0
+1544,Kepulauan Riau,Tanjungpinang,2026-09-02,8,0
+1545,Kepulauan Riau,Tanjungpinang,2026-09-03,8,0
+1546,Kepulauan Riau,Tanjungpinang,2026-09-04,8,0
+1547,Kepulauan Riau,Tanjungpinang,2026-09-05,8,0
+1548,Kepulauan Riau,Tanjungpinang,2026-09-06,8,0
+1549,Kepulauan Riau,Tanjungpinang,2026-09-07,8,0
+1550,Kepulauan Riau,Tanjungpinang,2026-09-08,8,0
+1551,Kepulauan Riau,Tanjungpinang,2026-09-09,8,0
+1552,Kepulauan Riau,Tanjungpinang,2026-09-10,8,0
+1553,Kepulauan Riau,Tanjungpinang,2026-09-11,8,0
+1554,Kepulauan Riau,Tanjungpinang,2026-09-12,8,0
+1555,Kepulauan Riau,Tanjungpinang,2026-09-13,8,0
+1556,Kepulauan Riau,Tanjungpinang,2026-09-14,8,0
+1557,Kepulauan Riau,Tanjungpinang,2026-09-15,8,0
+1558,Kepulauan Riau,Tanjungpinang,2026-09-16,8,0
+1559,Kepulauan Riau,Tanjungpinang,2026-09-17,8,0
+1560,Kepulauan Riau,Tanjungpinang,2026-09-18,8,0
+1561,Kepulauan Riau,Tanjungpinang,2026-09-19,8,0
+1562,Kepulauan Riau,Tanjungpinang,2026-09-20,8,0
+1563,Kepulauan Riau,Tanjungpinang,2026-09-21,8,0
+1564,Kepulauan Riau,Tanjungpinang,2026-09-22,8,0
+1565,Kepulauan Riau,Tanjungpinang,2026-09-23,8,0
+1566,Kepulauan Riau,Tanjungpinang,2026-09-24,8,0
+1567,Kepulauan Riau,Tanjungpinang,2026-09-25,8,0
+1568,Kepulauan Riau,Tanjungpinang,2026-09-26,8,0
+1569,Kepulauan Riau,Tanjungpinang,2026-09-27,8,0
+1570,Kepulauan Riau,Tanjungpinang,2026-09-28,8,0
+1571,Kepulauan Riau,Tanjungpinang,2026-09-29,8,0
+1572,Kepulauan Riau,Tanjungpinang,2026-09-30,8,0
+1573,Kepulauan Riau,Tanjungpinang,2026-10-01,8,0
+1574,Kepulauan Riau,Tanjungpinang,2026-10-02,8,0
+1575,Kepulauan Riau,Tanjungpinang,2026-10-03,8,0
+1576,Kepulauan Riau,Tanjungpinang,2026-10-04,8,0
+1577,Kepulauan Riau,Tanjungpinang,2026-10-05,8,0
+1578,Kepulauan Riau,Tanjungpinang,2026-10-06,8,0
+1579,Kepulauan Riau,Tanjungpinang,2026-10-07,8,0
+1580,Kepulauan Riau,Tanjungpinang,2026-10-08,8,0
+1581,Kepulauan Riau,Tanjungpinang,2026-10-09,8,0
+1582,Kepulauan Riau,Tanjungpinang,2026-10-10,8,0
+1583,Kepulauan Riau,Tanjungpinang,2026-10-11,8,0
+1584,Kepulauan Riau,Tanjungpinang,2026-10-12,8,0
+1585,Kepulauan Riau,Tanjungpinang,2026-10-13,8,0
+1586,Kepulauan Riau,Tanjungpinang,2026-10-14,8,0
+1587,Kepulauan Riau,Tanjungpinang,2026-10-15,8,0
+1588,Kepulauan Riau,Tanjungpinang,2026-10-16,8,0
+1589,Kepulauan Riau,Tanjungpinang,2026-10-17,8,0
+1590,Kepulauan Riau,Tanjungpinang,2026-10-18,8,0
+1591,Kepulauan Riau,Tanjungpinang,2026-10-19,8,0
+1592,Kepulauan Riau,Tanjungpinang,2026-10-20,8,0
+1593,Kepulauan Riau,Tanjungpinang,2026-10-21,8,0
+1594,Kepulauan Riau,Tanjungpinang,2026-10-22,8,0
+1595,Kepulauan Riau,Tanjungpinang,2026-10-23,8,0
+1596,Kepulauan Riau,Tanjungpinang,2026-10-24,8,0
+1597,Kepulauan Riau,Tanjungpinang,2026-10-25,8,0
+1598,Kepulauan Riau,Tanjungpinang,2026-10-26,8,0
+1599,Kepulauan Riau,Tanjungpinang,2026-10-27,8,0
+1600,Kepulauan Riau,Tanjungpinang,2026-10-28,8,0
+1601,Kepulauan Riau,Tanjungpinang,2026-10-29,8,0
+1602,Kepulauan Riau,Tanjungpinang,2026-10-30,8,0
+1603,Kepulauan Riau,Tanjungpinang,2026-10-31,8,0
+1604,Kepulauan Riau,Tanjungpinang,2026-11-01,8,0
+1605,Kepulauan Riau,Tanjungpinang,2026-11-02,8,0
+1606,Kepulauan Riau,Tanjungpinang,2026-11-03,8,0
+1607,Kepulauan Riau,Tanjungpinang,2026-11-04,8,0
+1608,Kepulauan Riau,Tanjungpinang,2026-11-05,8,0
+1609,Kepulauan Riau,Tanjungpinang,2026-11-06,8,0
+1610,Kepulauan Riau,Tanjungpinang,2026-11-07,8,0
+1611,Kepulauan Riau,Tanjungpinang,2026-11-08,8,0
+1612,Kepulauan Riau,Tanjungpinang,2026-11-09,8,0
+1613,Kepulauan Riau,Tanjungpinang,2026-11-10,8,0
+1614,Kepulauan Riau,Tanjungpinang,2026-11-11,8,0
+1615,Kepulauan Riau,Tanjungpinang,2026-11-12,8,0
+1616,Kepulauan Riau,Tanjungpinang,2026-11-13,8,0
+1617,Kepulauan Riau,Tanjungpinang,2026-11-14,8,0
+1618,Kepulauan Riau,Tanjungpinang,2026-11-15,8,0
+1619,Kepulauan Riau,Tanjungpinang,2026-11-16,8,0
+1620,Kepulauan Riau,Tanjungpinang,2026-11-17,8,0
+1621,Lampung,Bandar Lampung,2026-08-20,8,0
+1622,Lampung,Bandar Lampung,2026-08-21,8,0
+1623,Lampung,Bandar Lampung,2026-08-22,8,0
+1624,Lampung,Bandar Lampung,2026-08-23,8,0
+1625,Lampung,Bandar Lampung,2026-08-24,8,0
+1626,Lampung,Bandar Lampung,2026-08-25,8,0
+1627,Lampung,Bandar Lampung,2026-08-26,8,0
+1628,Lampung,Bandar Lampung,2026-08-27,8,0
+1629,Lampung,Bandar Lampung,2026-08-28,8,0
+1630,Lampung,Bandar Lampung,2026-08-29,8,0
+1631,Lampung,Bandar Lampung,2026-08-30,8,0
+1632,Lampung,Bandar Lampung,2026-08-31,8,0
+1633,Lampung,Bandar Lampung,2026-09-01,8,0
+1634,Lampung,Bandar Lampung,2026-09-02,8,0
+1635,Lampung,Bandar Lampung,2026-09-03,8,0
+1636,Lampung,Bandar Lampung,2026-09-04,8,0
+1637,Lampung,Bandar Lampung,2026-09-05,8,0
+1638,Lampung,Bandar Lampung,2026-09-06,8,0
+1639,Lampung,Bandar Lampung,2026-09-07,8,0
+1640,Lampung,Bandar Lampung,2026-09-08,8,0
+1641,Lampung,Bandar Lampung,2026-09-09,8,0
+1642,Lampung,Bandar Lampung,2026-09-10,8,0
+1643,Lampung,Bandar Lampung,2026-09-11,8,0
+1644,Lampung,Bandar Lampung,2026-09-12,8,0
+1645,Lampung,Bandar Lampung,2026-09-13,8,0
+1646,Lampung,Bandar Lampung,2026-09-14,8,0
+1647,Lampung,Bandar Lampung,2026-09-15,8,0
+1648,Lampung,Bandar Lampung,2026-09-16,8,0
+1649,Lampung,Bandar Lampung,2026-09-17,8,0
+1650,Lampung,Bandar Lampung,2026-09-18,8,0
+1651,Lampung,Bandar Lampung,2026-09-19,8,0
+1652,Lampung,Bandar Lampung,2026-09-20,8,0
+1653,Lampung,Bandar Lampung,2026-09-21,8,0
+1654,Lampung,Bandar Lampung,2026-09-22,8,0
+1655,Lampung,Bandar Lampung,2026-09-23,8,0
+1656,Lampung,Bandar Lampung,2026-09-24,8,0
+1657,Lampung,Bandar Lampung,2026-09-25,8,0
+1658,Lampung,Bandar Lampung,2026-09-26,8,0
+1659,Lampung,Bandar Lampung,2026-09-27,8,0
+1660,Lampung,Bandar Lampung,2026-09-28,8,0
+1661,Lampung,Bandar Lampung,2026-09-29,8,0
+1662,Lampung,Bandar Lampung,2026-09-30,8,0
+1663,Lampung,Bandar Lampung,2026-10-01,8,0
+1664,Lampung,Bandar Lampung,2026-10-02,8,0
+1665,Lampung,Bandar Lampung,2026-10-03,8,0
+1666,Lampung,Bandar Lampung,2026-10-04,8,0
+1667,Lampung,Bandar Lampung,2026-10-05,8,0
+1668,Lampung,Bandar Lampung,2026-10-06,8,0
+1669,Lampung,Bandar Lampung,2026-10-07,8,0
+1670,Lampung,Bandar Lampung,2026-10-08,8,0
+1671,Lampung,Bandar Lampung,2026-10-09,8,0
+1672,Lampung,Bandar Lampung,2026-10-10,8,0
+1673,Lampung,Bandar Lampung,2026-10-11,8,0
+1674,Lampung,Bandar Lampung,2026-10-12,8,0
+1675,Lampung,Bandar Lampung,2026-10-13,8,0
+1676,Lampung,Bandar Lampung,2026-10-14,8,0
+1677,Lampung,Bandar Lampung,2026-10-15,8,0
+1678,Lampung,Bandar Lampung,2026-10-16,8,0
+1679,Lampung,Bandar Lampung,2026-10-17,8,0
+1680,Lampung,Bandar Lampung,2026-10-18,8,0
+1681,Lampung,Bandar Lampung,2026-10-19,8,0
+1682,Lampung,Bandar Lampung,2026-10-20,8,0
+1683,Lampung,Bandar Lampung,2026-10-21,8,0
+1684,Lampung,Bandar Lampung,2026-10-22,8,0
+1685,Lampung,Bandar Lampung,2026-10-23,8,0
+1686,Lampung,Bandar Lampung,2026-10-24,8,0
+1687,Lampung,Bandar Lampung,2026-10-25,8,0
+1688,Lampung,Bandar Lampung,2026-10-26,8,0
+1689,Lampung,Bandar Lampung,2026-10-27,8,0
+1690,Lampung,Bandar Lampung,2026-10-28,8,0
+1691,Lampung,Bandar Lampung,2026-10-29,8,0
+1692,Lampung,Bandar Lampung,2026-10-30,8,0
+1693,Lampung,Bandar Lampung,2026-10-31,8,0
+1694,Lampung,Bandar Lampung,2026-11-01,8,0
+1695,Lampung,Bandar Lampung,2026-11-02,8,0
+1696,Lampung,Bandar Lampung,2026-11-03,8,0
+1697,Lampung,Bandar Lampung,2026-11-04,8,0
+1698,Lampung,Bandar Lampung,2026-11-05,8,0
+1699,Lampung,Bandar Lampung,2026-11-06,8,0
+1700,Lampung,Bandar Lampung,2026-11-07,8,0
+1701,Lampung,Bandar Lampung,2026-11-08,8,0
+1702,Lampung,Bandar Lampung,2026-11-09,8,0
+1703,Lampung,Bandar Lampung,2026-11-10,8,0
+1704,Lampung,Bandar Lampung,2026-11-11,8,0
+1705,Lampung,Bandar Lampung,2026-11-12,8,0
+1706,Lampung,Bandar Lampung,2026-11-13,8,0
+1707,Lampung,Bandar Lampung,2026-11-14,8,0
+1708,Lampung,Bandar Lampung,2026-11-15,8,0
+1709,Lampung,Bandar Lampung,2026-11-16,8,0
+1710,Lampung,Bandar Lampung,2026-11-17,8,0
+1711,Maluku,Ambon,2026-08-20,8,0
+1712,Maluku,Ambon,2026-08-21,8,0
+1713,Maluku,Ambon,2026-08-22,8,0
+1714,Maluku,Ambon,2026-08-23,8,0
+1715,Maluku,Ambon,2026-08-24,8,0
+1716,Maluku,Ambon,2026-08-25,8,0
+1717,Maluku,Ambon,2026-08-26,8,0
+1718,Maluku,Ambon,2026-08-27,8,0
+1719,Maluku,Ambon,2026-08-28,8,0
+1720,Maluku,Ambon,2026-08-29,8,0
+1721,Maluku,Ambon,2026-08-30,8,0
+1722,Maluku,Ambon,2026-08-31,8,0
+1723,Maluku,Ambon,2026-09-01,8,0
+1724,Maluku,Ambon,2026-09-02,8,0
+1725,Maluku,Ambon,2026-09-03,8,0
+1726,Maluku,Ambon,2026-09-04,8,0
+1727,Maluku,Ambon,2026-09-05,8,0
+1728,Maluku,Ambon,2026-09-06,8,0
+1729,Maluku,Ambon,2026-09-07,8,0
+1730,Maluku,Ambon,2026-09-08,8,0
+1731,Maluku,Ambon,2026-09-09,8,0
+1732,Maluku,Ambon,2026-09-10,8,0
+1733,Maluku,Ambon,2026-09-11,8,0
+1734,Maluku,Ambon,2026-09-12,8,0
+1735,Maluku,Ambon,2026-09-13,8,0
+1736,Maluku,Ambon,2026-09-14,8,0
+1737,Maluku,Ambon,2026-09-15,8,0
+1738,Maluku,Ambon,2026-09-16,8,0
+1739,Maluku,Ambon,2026-09-17,8,0
+1740,Maluku,Ambon,2026-09-18,8,0
+1741,Maluku,Ambon,2026-09-19,8,0
+1742,Maluku,Ambon,2026-09-20,8,0
+1743,Maluku,Ambon,2026-09-21,8,0
+1744,Maluku,Ambon,2026-09-22,8,0
+1745,Maluku,Ambon,2026-09-23,8,0
+1746,Maluku,Ambon,2026-09-24,8,0
+1747,Maluku,Ambon,2026-09-25,8,0
+1748,Maluku,Ambon,2026-09-26,8,0
+1749,Maluku,Ambon,2026-09-27,8,0
+1750,Maluku,Ambon,2026-09-28,8,0
+1751,Maluku,Ambon,2026-09-29,8,0
+1752,Maluku,Ambon,2026-09-30,8,0
+1753,Maluku,Ambon,2026-10-01,8,0
+1754,Maluku,Ambon,2026-10-02,8,0
+1755,Maluku,Ambon,2026-10-03,8,0
+1756,Maluku,Ambon,2026-10-04,8,0
+1757,Maluku,Ambon,2026-10-05,8,0
+1758,Maluku,Ambon,2026-10-06,8,0
+1759,Maluku,Ambon,2026-10-07,8,0
+1760,Maluku,Ambon,2026-10-08,8,0
+1761,Maluku,Ambon,2026-10-09,8,0
+1762,Maluku,Ambon,2026-10-10,8,0
+1763,Maluku,Ambon,2026-10-11,8,0
+1764,Maluku,Ambon,2026-10-12,8,0
+1765,Maluku,Ambon,2026-10-13,8,0
+1766,Maluku,Ambon,2026-10-14,8,0
+1767,Maluku,Ambon,2026-10-15,8,0
+1768,Maluku,Ambon,2026-10-16,8,0
+1769,Maluku,Ambon,2026-10-17,8,0
+1770,Maluku,Ambon,2026-10-18,8,0
+1771,Maluku,Ambon,2026-10-19,8,0
+1772,Maluku,Ambon,2026-10-20,8,0
+1773,Maluku,Ambon,2026-10-21,8,0
+1774,Maluku,Ambon,2026-10-22,8,0
+1775,Maluku,Ambon,2026-10-23,8,0
+1776,Maluku,Ambon,2026-10-24,8,0
+1777,Maluku,Ambon,2026-10-25,8,0
+1778,Maluku,Ambon,2026-10-26,8,0
+1779,Maluku,Ambon,2026-10-27,8,0
+1780,Maluku,Ambon,2026-10-28,8,0
+1781,Maluku,Ambon,2026-10-29,8,0
+1782,Maluku,Ambon,2026-10-30,8,0
+1783,Maluku,Ambon,2026-10-31,8,0
+1784,Maluku,Ambon,2026-11-01,8,0
+1785,Maluku,Ambon,2026-11-02,8,0
+1786,Maluku,Ambon,2026-11-03,8,0
+1787,Maluku,Ambon,2026-11-04,8,0
+1788,Maluku,Ambon,2026-11-05,8,0
+1789,Maluku,Ambon,2026-11-06,8,0
+1790,Maluku,Ambon,2026-11-07,8,0
+1791,Maluku,Ambon,2026-11-08,8,0
+1792,Maluku,Ambon,2026-11-09,8,0
+1793,Maluku,Ambon,2026-11-10,8,0
+1794,Maluku,Ambon,2026-11-11,8,0
+1795,Maluku,Ambon,2026-11-12,8,0
+1796,Maluku,Ambon,2026-11-13,8,0
+1797,Maluku,Ambon,2026-11-14,8,0
+1798,Maluku,Ambon,2026-11-15,8,0
+1799,Maluku,Ambon,2026-11-16,8,0
+1800,Maluku,Ambon,2026-11-17,8,0
+1801,Maluku Utara,Sofifi,2026-08-20,8,0
+1802,Maluku Utara,Sofifi,2026-08-21,8,0
+1803,Maluku Utara,Sofifi,2026-08-22,8,0
+1804,Maluku Utara,Sofifi,2026-08-23,8,0
+1805,Maluku Utara,Sofifi,2026-08-24,8,0
+1806,Maluku Utara,Sofifi,2026-08-25,8,0
+1807,Maluku Utara,Sofifi,2026-08-26,8,0
+1808,Maluku Utara,Sofifi,2026-08-27,8,0
+1809,Maluku Utara,Sofifi,2026-08-28,8,0
+1810,Maluku Utara,Sofifi,2026-08-29,8,0
+1811,Maluku Utara,Sofifi,2026-08-30,8,0
+1812,Maluku Utara,Sofifi,2026-08-31,8,0
+1813,Maluku Utara,Sofifi,2026-09-01,8,0
+1814,Maluku Utara,Sofifi,2026-09-02,8,0
+1815,Maluku Utara,Sofifi,2026-09-03,8,0
+1816,Maluku Utara,Sofifi,2026-09-04,8,0
+1817,Maluku Utara,Sofifi,2026-09-05,8,0
+1818,Maluku Utara,Sofifi,2026-09-06,8,0
+1819,Maluku Utara,Sofifi,2026-09-07,8,0
+1820,Maluku Utara,Sofifi,2026-09-08,8,0
+1821,Maluku Utara,Sofifi,2026-09-09,8,0
+1822,Maluku Utara,Sofifi,2026-09-10,8,0
+1823,Maluku Utara,Sofifi,2026-09-11,8,0
+1824,Maluku Utara,Sofifi,2026-09-12,8,0
+1825,Maluku Utara,Sofifi,2026-09-13,8,0
+1826,Maluku Utara,Sofifi,2026-09-14,8,0
+1827,Maluku Utara,Sofifi,2026-09-15,8,0
+1828,Maluku Utara,Sofifi,2026-09-16,8,0
+1829,Maluku Utara,Sofifi,2026-09-17,8,0
+1830,Maluku Utara,Sofifi,2026-09-18,8,0
+1831,Maluku Utara,Sofifi,2026-09-19,8,0
+1832,Maluku Utara,Sofifi,2026-09-20,8,0
+1833,Maluku Utara,Sofifi,2026-09-21,8,0
+1834,Maluku Utara,Sofifi,2026-09-22,8,0
+1835,Maluku Utara,Sofifi,2026-09-23,8,0
+1836,Maluku Utara,Sofifi,2026-09-24,8,0
+1837,Maluku Utara,Sofifi,2026-09-25,8,0
+1838,Maluku Utara,Sofifi,2026-09-26,8,0
+1839,Maluku Utara,Sofifi,2026-09-27,8,0
+1840,Maluku Utara,Sofifi,2026-09-28,8,0
+1841,Maluku Utara,Sofifi,2026-09-29,8,0
+1842,Maluku Utara,Sofifi,2026-09-30,8,0
+1843,Maluku Utara,Sofifi,2026-10-01,8,0
+1844,Maluku Utara,Sofifi,2026-10-02,8,0
+1845,Maluku Utara,Sofifi,2026-10-03,8,0
+1846,Maluku Utara,Sofifi,2026-10-04,8,0
+1847,Maluku Utara,Sofifi,2026-10-05,8,0
+1848,Maluku Utara,Sofifi,2026-10-06,8,0
+1849,Maluku Utara,Sofifi,2026-10-07,8,0
+1850,Maluku Utara,Sofifi,2026-10-08,8,0
+1851,Maluku Utara,Sofifi,2026-10-09,8,0
+1852,Maluku Utara,Sofifi,2026-10-10,8,0
+1853,Maluku Utara,Sofifi,2026-10-11,8,0
+1854,Maluku Utara,Sofifi,2026-10-12,8,0
+1855,Maluku Utara,Sofifi,2026-10-13,8,0
+1856,Maluku Utara,Sofifi,2026-10-14,8,0
+1857,Maluku Utara,Sofifi,2026-10-15,8,0
+1858,Maluku Utara,Sofifi,2026-10-16,8,0
+1859,Maluku Utara,Sofifi,2026-10-17,8,0
+1860,Maluku Utara,Sofifi,2026-10-18,8,0
+1861,Maluku Utara,Sofifi,2026-10-19,8,0
+1862,Maluku Utara,Sofifi,2026-10-20,8,0
+1863,Maluku Utara,Sofifi,2026-10-21,8,0
+1864,Maluku Utara,Sofifi,2026-10-22,8,0
+1865,Maluku Utara,Sofifi,2026-10-23,8,0
+1866,Maluku Utara,Sofifi,2026-10-24,8,0
+1867,Maluku Utara,Sofifi,2026-10-25,8,0
+1868,Maluku Utara,Sofifi,2026-10-26,8,0
+1869,Maluku Utara,Sofifi,2026-10-27,8,0
+1870,Maluku Utara,Sofifi,2026-10-28,8,0
+1871,Maluku Utara,Sofifi,2026-10-29,8,0
+1872,Maluku Utara,Sofifi,2026-10-30,8,0
+1873,Maluku Utara,Sofifi,2026-10-31,8,0
+1874,Maluku Utara,Sofifi,2026-11-01,8,0
+1875,Maluku Utara,Sofifi,2026-11-02,8,0
+1876,Maluku Utara,Sofifi,2026-11-03,8,0
+1877,Maluku Utara,Sofifi,2026-11-04,8,0
+1878,Maluku Utara,Sofifi,2026-11-05,8,0
+1879,Maluku Utara,Sofifi,2026-11-06,8,0
+1880,Maluku Utara,Sofifi,2026-11-07,8,0
+1881,Maluku Utara,Sofifi,2026-11-08,8,0
+1882,Maluku Utara,Sofifi,2026-11-09,8,0
+1883,Maluku Utara,Sofifi,2026-11-10,8,0
+1884,Maluku Utara,Sofifi,2026-11-11,8,0
+1885,Maluku Utara,Sofifi,2026-11-12,8,0
+1886,Maluku Utara,Sofifi,2026-11-13,8,0
+1887,Maluku Utara,Sofifi,2026-11-14,8,0
+1888,Maluku Utara,Sofifi,2026-11-15,8,0
+1889,Maluku Utara,Sofifi,2026-11-16,8,0
+1890,Maluku Utara,Sofifi,2026-11-17,8,0
+1891,Nusa Tenggara Barat,Mataram,2026-08-20,8,0
+1892,Nusa Tenggara Barat,Mataram,2026-08-21,8,0
+1893,Nusa Tenggara Barat,Mataram,2026-08-22,8,0
+1894,Nusa Tenggara Barat,Mataram,2026-08-23,8,0
+1895,Nusa Tenggara Barat,Mataram,2026-08-24,8,0
+1896,Nusa Tenggara Barat,Mataram,2026-08-25,8,0
+1897,Nusa Tenggara Barat,Mataram,2026-08-26,8,0
+1898,Nusa Tenggara Barat,Mataram,2026-08-27,8,0
+1899,Nusa Tenggara Barat,Mataram,2026-08-28,8,0
+1900,Nusa Tenggara Barat,Mataram,2026-08-29,8,0
+1901,Nusa Tenggara Barat,Mataram,2026-08-30,8,0
+1902,Nusa Tenggara Barat,Mataram,2026-08-31,8,0
+1903,Nusa Tenggara Barat,Mataram,2026-09-01,8,0
+1904,Nusa Tenggara Barat,Mataram,2026-09-02,8,0
+1905,Nusa Tenggara Barat,Mataram,2026-09-03,8,0
+1906,Nusa Tenggara Barat,Mataram,2026-09-04,8,0
+1907,Nusa Tenggara Barat,Mataram,2026-09-05,8,0
+1908,Nusa Tenggara Barat,Mataram,2026-09-06,8,0
+1909,Nusa Tenggara Barat,Mataram,2026-09-07,8,0
+1910,Nusa Tenggara Barat,Mataram,2026-09-08,8,0
+1911,Nusa Tenggara Barat,Mataram,2026-09-09,8,0
+1912,Nusa Tenggara Barat,Mataram,2026-09-10,8,0
+1913,Nusa Tenggara Barat,Mataram,2026-09-11,8,0
+1914,Nusa Tenggara Barat,Mataram,2026-09-12,8,0
+1915,Nusa Tenggara Barat,Mataram,2026-09-13,8,0
+1916,Nusa Tenggara Barat,Mataram,2026-09-14,8,0
+1917,Nusa Tenggara Barat,Mataram,2026-09-15,8,0
+1918,Nusa Tenggara Barat,Mataram,2026-09-16,8,0
+1919,Nusa Tenggara Barat,Mataram,2026-09-17,8,0
+1920,Nusa Tenggara Barat,Mataram,2026-09-18,8,0
+1921,Nusa Tenggara Barat,Mataram,2026-09-19,8,0
+1922,Nusa Tenggara Barat,Mataram,2026-09-20,8,0
+1923,Nusa Tenggara Barat,Mataram,2026-09-21,8,0
+1924,Nusa Tenggara Barat,Mataram,2026-09-22,8,0
+1925,Nusa Tenggara Barat,Mataram,2026-09-23,8,0
+1926,Nusa Tenggara Barat,Mataram,2026-09-24,8,0
+1927,Nusa Tenggara Barat,Mataram,2026-09-25,8,0
+1928,Nusa Tenggara Barat,Mataram,2026-09-26,8,0
+1929,Nusa Tenggara Barat,Mataram,2026-09-27,8,0
+1930,Nusa Tenggara Barat,Mataram,2026-09-28,8,0
+1931,Nusa Tenggara Barat,Mataram,2026-09-29,8,0
+1932,Nusa Tenggara Barat,Mataram,2026-09-30,8,0
+1933,Nusa Tenggara Barat,Mataram,2026-10-01,8,0
+1934,Nusa Tenggara Barat,Mataram,2026-10-02,8,0
+1935,Nusa Tenggara Barat,Mataram,2026-10-03,8,0
+1936,Nusa Tenggara Barat,Mataram,2026-10-04,8,0
+1937,Nusa Tenggara Barat,Mataram,2026-10-05,8,0
+1938,Nusa Tenggara Barat,Mataram,2026-10-06,8,0
+1939,Nusa Tenggara Barat,Mataram,2026-10-07,8,0
+1940,Nusa Tenggara Barat,Mataram,2026-10-08,8,0
+1941,Nusa Tenggara Barat,Mataram,2026-10-09,8,0
+1942,Nusa Tenggara Barat,Mataram,2026-10-10,8,0
+1943,Nusa Tenggara Barat,Mataram,2026-10-11,8,0
+1944,Nusa Tenggara Barat,Mataram,2026-10-12,8,0
+1945,Nusa Tenggara Barat,Mataram,2026-10-13,8,0
+1946,Nusa Tenggara Barat,Mataram,2026-10-14,8,0
+1947,Nusa Tenggara Barat,Mataram,2026-10-15,8,0
+1948,Nusa Tenggara Barat,Mataram,2026-10-16,8,0
+1949,Nusa Tenggara Barat,Mataram,2026-10-17,8,0
+1950,Nusa Tenggara Barat,Mataram,2026-10-18,8,0
+1951,Nusa Tenggara Barat,Mataram,2026-10-19,8,0
+1952,Nusa Tenggara Barat,Mataram,2026-10-20,8,0
+1953,Nusa Tenggara Barat,Mataram,2026-10-21,8,0
+1954,Nusa Tenggara Barat,Mataram,2026-10-22,8,0
+1955,Nusa Tenggara Barat,Mataram,2026-10-23,8,0
+1956,Nusa Tenggara Barat,Mataram,2026-10-24,8,0
+1957,Nusa Tenggara Barat,Mataram,2026-10-25,8,0
+1958,Nusa Tenggara Barat,Mataram,2026-10-26,8,0
+1959,Nusa Tenggara Barat,Mataram,2026-10-27,8,0
+1960,Nusa Tenggara Barat,Mataram,2026-10-28,8,0
+1961,Nusa Tenggara Barat,Mataram,2026-10-29,8,0
+1962,Nusa Tenggara Barat,Mataram,2026-10-30,8,0
+1963,Nusa Tenggara Barat,Mataram,2026-10-31,8,0
+1964,Nusa Tenggara Barat,Mataram,2026-11-01,8,0
+1965,Nusa Tenggara Barat,Mataram,2026-11-02,8,0
+1966,Nusa Tenggara Barat,Mataram,2026-11-03,8,0
+1967,Nusa Tenggara Barat,Mataram,2026-11-04,8,0
+1968,Nusa Tenggara Barat,Mataram,2026-11-05,8,0
+1969,Nusa Tenggara Barat,Mataram,2026-11-06,8,0
+1970,Nusa Tenggara Barat,Mataram,2026-11-07,8,0
+1971,Nusa Tenggara Barat,Mataram,2026-11-08,8,0
+1972,Nusa Tenggara Barat,Mataram,2026-11-09,8,0
+1973,Nusa Tenggara Barat,Mataram,2026-11-10,8,0
+1974,Nusa Tenggara Barat,Mataram,2026-11-11,8,0
+1975,Nusa Tenggara Barat,Mataram,2026-11-12,8,0
+1976,Nusa Tenggara Barat,Mataram,2026-11-13,8,0
+1977,Nusa Tenggara Barat,Mataram,2026-11-14,8,0
+1978,Nusa Tenggara Barat,Mataram,2026-11-15,8,0
+1979,Nusa Tenggara Barat,Mataram,2026-11-16,8,0
+1980,Nusa Tenggara Barat,Mataram,2026-11-17,8,0
+1981,Nusa Tenggara Timur,Kupang,2026-08-20,8,0
+1982,Nusa Tenggara Timur,Kupang,2026-08-21,8,0
+1983,Nusa Tenggara Timur,Kupang,2026-08-22,8,0
+1984,Nusa Tenggara Timur,Kupang,2026-08-23,8,0
+1985,Nusa Tenggara Timur,Kupang,2026-08-24,8,0
+1986,Nusa Tenggara Timur,Kupang,2026-08-25,8,0
+1987,Nusa Tenggara Timur,Kupang,2026-08-26,8,0
+1988,Nusa Tenggara Timur,Kupang,2026-08-27,8,0
+1989,Nusa Tenggara Timur,Kupang,2026-08-28,8,0
+1990,Nusa Tenggara Timur,Kupang,2026-08-29,8,0
+1991,Nusa Tenggara Timur,Kupang,2026-08-30,8,0
+1992,Nusa Tenggara Timur,Kupang,2026-08-31,8,0
+1993,Nusa Tenggara Timur,Kupang,2026-09-01,8,0
+1994,Nusa Tenggara Timur,Kupang,2026-09-02,8,0
+1995,Nusa Tenggara Timur,Kupang,2026-09-03,8,0
+1996,Nusa Tenggara Timur,Kupang,2026-09-04,8,0
+1997,Nusa Tenggara Timur,Kupang,2026-09-05,8,0
+1998,Nusa Tenggara Timur,Kupang,2026-09-06,8,0
+1999,Nusa Tenggara Timur,Kupang,2026-09-07,8,0
+2000,Nusa Tenggara Timur,Kupang,2026-09-08,8,0
+2001,Nusa Tenggara Timur,Kupang,2026-09-09,8,0
+2002,Nusa Tenggara Timur,Kupang,2026-09-10,8,0
+2003,Nusa Tenggara Timur,Kupang,2026-09-11,8,0
+2004,Nusa Tenggara Timur,Kupang,2026-09-12,8,0
+2005,Nusa Tenggara Timur,Kupang,2026-09-13,8,0
+2006,Nusa Tenggara Timur,Kupang,2026-09-14,8,0
+2007,Nusa Tenggara Timur,Kupang,2026-09-15,8,0
+2008,Nusa Tenggara Timur,Kupang,2026-09-16,8,0
+2009,Nusa Tenggara Timur,Kupang,2026-09-17,8,0
+2010,Nusa Tenggara Timur,Kupang,2026-09-18,8,0
+2011,Nusa Tenggara Timur,Kupang,2026-09-19,8,0
+2012,Nusa Tenggara Timur,Kupang,2026-09-20,8,0
+2013,Nusa Tenggara Timur,Kupang,2026-09-21,8,0
+2014,Nusa Tenggara Timur,Kupang,2026-09-22,8,0
+2015,Nusa Tenggara Timur,Kupang,2026-09-23,8,0
+2016,Nusa Tenggara Timur,Kupang,2026-09-24,8,0
+2017,Nusa Tenggara Timur,Kupang,2026-09-25,8,0
+2018,Nusa Tenggara Timur,Kupang,2026-09-26,8,0
+2019,Nusa Tenggara Timur,Kupang,2026-09-27,8,0
+2020,Nusa Tenggara Timur,Kupang,2026-09-28,8,0
+2021,Nusa Tenggara Timur,Kupang,2026-09-29,8,0
+2022,Nusa Tenggara Timur,Kupang,2026-09-30,8,0
+2023,Nusa Tenggara Timur,Kupang,2026-10-01,8,0
+2024,Nusa Tenggara Timur,Kupang,2026-10-02,8,0
+2025,Nusa Tenggara Timur,Kupang,2026-10-03,8,0
+2026,Nusa Tenggara Timur,Kupang,2026-10-04,8,0
+2027,Nusa Tenggara Timur,Kupang,2026-10-05,8,0
+2028,Nusa Tenggara Timur,Kupang,2026-10-06,8,0
+2029,Nusa Tenggara Timur,Kupang,2026-10-07,8,0
+2030,Nusa Tenggara Timur,Kupang,2026-10-08,8,0
+2031,Nusa Tenggara Timur,Kupang,2026-10-09,8,0
+2032,Nusa Tenggara Timur,Kupang,2026-10-10,8,0
+2033,Nusa Tenggara Timur,Kupang,2026-10-11,8,0
+2034,Nusa Tenggara Timur,Kupang,2026-10-12,8,0
+2035,Nusa Tenggara Timur,Kupang,2026-10-13,8,0
+2036,Nusa Tenggara Timur,Kupang,2026-10-14,8,0
+2037,Nusa Tenggara Timur,Kupang,2026-10-15,8,0
+2038,Nusa Tenggara Timur,Kupang,2026-10-16,8,0
+2039,Nusa Tenggara Timur,Kupang,2026-10-17,8,0
+2040,Nusa Tenggara Timur,Kupang,2026-10-18,8,0
+2041,Nusa Tenggara Timur,Kupang,2026-10-19,8,0
+2042,Nusa Tenggara Timur,Kupang,2026-10-20,8,0
+2043,Nusa Tenggara Timur,Kupang,2026-10-21,8,0
+2044,Nusa Tenggara Timur,Kupang,2026-10-22,8,0
+2045,Nusa Tenggara Timur,Kupang,2026-10-23,8,0
+2046,Nusa Tenggara Timur,Kupang,2026-10-24,8,0
+2047,Nusa Tenggara Timur,Kupang,2026-10-25,8,0
+2048,Nusa Tenggara Timur,Kupang,2026-10-26,8,0
+2049,Nusa Tenggara Timur,Kupang,2026-10-27,8,0
+2050,Nusa Tenggara Timur,Kupang,2026-10-28,8,0
+2051,Nusa Tenggara Timur,Kupang,2026-10-29,8,0
+2052,Nusa Tenggara Timur,Kupang,2026-10-30,8,0
+2053,Nusa Tenggara Timur,Kupang,2026-10-31,8,0
+2054,Nusa Tenggara Timur,Kupang,2026-11-01,8,0
+2055,Nusa Tenggara Timur,Kupang,2026-11-02,8,0
+2056,Nusa Tenggara Timur,Kupang,2026-11-03,8,0
+2057,Nusa Tenggara Timur,Kupang,2026-11-04,8,0
+2058,Nusa Tenggara Timur,Kupang,2026-11-05,8,0
+2059,Nusa Tenggara Timur,Kupang,2026-11-06,8,0
+2060,Nusa Tenggara Timur,Kupang,2026-11-07,8,0
+2061,Nusa Tenggara Timur,Kupang,2026-11-08,8,0
+2062,Nusa Tenggara Timur,Kupang,2026-11-09,8,0
+2063,Nusa Tenggara Timur,Kupang,2026-11-10,8,0
+2064,Nusa Tenggara Timur,Kupang,2026-11-11,8,0
+2065,Nusa Tenggara Timur,Kupang,2026-11-12,8,0
+2066,Nusa Tenggara Timur,Kupang,2026-11-13,8,0
+2067,Nusa Tenggara Timur,Kupang,2026-11-14,8,0
+2068,Nusa Tenggara Timur,Kupang,2026-11-15,8,0
+2069,Nusa Tenggara Timur,Kupang,2026-11-16,8,0
+2070,Nusa Tenggara Timur,Kupang,2026-11-17,8,0
+2071,Papua,Jayapura,2026-08-20,8,0
+2072,Papua,Jayapura,2026-08-21,8,0
+2073,Papua,Jayapura,2026-08-22,8,0
+2074,Papua,Jayapura,2026-08-23,8,0
+2075,Papua,Jayapura,2026-08-24,8,0
+2076,Papua,Jayapura,2026-08-25,8,0
+2077,Papua,Jayapura,2026-08-26,8,0
+2078,Papua,Jayapura,2026-08-27,8,0
+2079,Papua,Jayapura,2026-08-28,8,0
+2080,Papua,Jayapura,2026-08-29,8,0
+2081,Papua,Jayapura,2026-08-30,8,0
+2082,Papua,Jayapura,2026-08-31,8,0
+2083,Papua,Jayapura,2026-09-01,8,0
+2084,Papua,Jayapura,2026-09-02,8,0
+2085,Papua,Jayapura,2026-09-03,8,0
+2086,Papua,Jayapura,2026-09-04,8,0
+2087,Papua,Jayapura,2026-09-05,8,0
+2088,Papua,Jayapura,2026-09-06,8,0
+2089,Papua,Jayapura,2026-09-07,8,0
+2090,Papua,Jayapura,2026-09-08,8,0
+2091,Papua,Jayapura,2026-09-09,8,0
+2092,Papua,Jayapura,2026-09-10,8,0
+2093,Papua,Jayapura,2026-09-11,8,0
+2094,Papua,Jayapura,2026-09-12,8,0
+2095,Papua,Jayapura,2026-09-13,8,0
+2096,Papua,Jayapura,2026-09-14,8,0
+2097,Papua,Jayapura,2026-09-15,8,0
+2098,Papua,Jayapura,2026-09-16,8,0
+2099,Papua,Jayapura,2026-09-17,8,0
+2100,Papua,Jayapura,2026-09-18,8,0
+2101,Papua,Jayapura,2026-09-19,8,0
+2102,Papua,Jayapura,2026-09-20,8,0
+2103,Papua,Jayapura,2026-09-21,8,0
+2104,Papua,Jayapura,2026-09-22,8,0
+2105,Papua,Jayapura,2026-09-23,8,0
+2106,Papua,Jayapura,2026-09-24,8,0
+2107,Papua,Jayapura,2026-09-25,8,0
+2108,Papua,Jayapura,2026-09-26,8,0
+2109,Papua,Jayapura,2026-09-27,8,0
+2110,Papua,Jayapura,2026-09-28,8,0
+2111,Papua,Jayapura,2026-09-29,8,0
+2112,Papua,Jayapura,2026-09-30,8,0
+2113,Papua,Jayapura,2026-10-01,8,0
+2114,Papua,Jayapura,2026-10-02,8,0
+2115,Papua,Jayapura,2026-10-03,8,0
+2116,Papua,Jayapura,2026-10-04,8,0
+2117,Papua,Jayapura,2026-10-05,8,0
+2118,Papua,Jayapura,2026-10-06,8,0
+2119,Papua,Jayapura,2026-10-07,8,0
+2120,Papua,Jayapura,2026-10-08,8,0
+2121,Papua,Jayapura,2026-10-09,8,0
+2122,Papua,Jayapura,2026-10-10,8,0
+2123,Papua,Jayapura,2026-10-11,8,0
+2124,Papua,Jayapura,2026-10-12,8,0
+2125,Papua,Jayapura,2026-10-13,8,0
+2126,Papua,Jayapura,2026-10-14,8,0
+2127,Papua,Jayapura,2026-10-15,8,0
+2128,Papua,Jayapura,2026-10-16,8,0
+2129,Papua,Jayapura,2026-10-17,8,0
+2130,Papua,Jayapura,2026-10-18,8,0
+2131,Papua,Jayapura,2026-10-19,8,0
+2132,Papua,Jayapura,2026-10-20,8,0
+2133,Papua,Jayapura,2026-10-21,8,0
+2134,Papua,Jayapura,2026-10-22,8,0
+2135,Papua,Jayapura,2026-10-23,8,0
+2136,Papua,Jayapura,2026-10-24,8,0
+2137,Papua,Jayapura,2026-10-25,8,0
+2138,Papua,Jayapura,2026-10-26,8,0
+2139,Papua,Jayapura,2026-10-27,8,0
+2140,Papua,Jayapura,2026-10-28,8,0
+2141,Papua,Jayapura,2026-10-29,8,0
+2142,Papua,Jayapura,2026-10-30,8,0
+2143,Papua,Jayapura,2026-10-31,8,0
+2144,Papua,Jayapura,2026-11-01,8,0
+2145,Papua,Jayapura,2026-11-02,8,0
+2146,Papua,Jayapura,2026-11-03,8,0
+2147,Papua,Jayapura,2026-11-04,8,0
+2148,Papua,Jayapura,2026-11-05,8,0
+2149,Papua,Jayapura,2026-11-06,8,0
+2150,Papua,Jayapura,2026-11-07,8,0
+2151,Papua,Jayapura,2026-11-08,8,0
+2152,Papua,Jayapura,2026-11-09,8,0
+2153,Papua,Jayapura,2026-11-10,8,0
+2154,Papua,Jayapura,2026-11-11,8,0
+2155,Papua,Jayapura,2026-11-12,8,0
+2156,Papua,Jayapura,2026-11-13,8,0
+2157,Papua,Jayapura,2026-11-14,8,0
+2158,Papua,Jayapura,2026-11-15,8,0
+2159,Papua,Jayapura,2026-11-16,8,0
+2160,Papua,Jayapura,2026-11-17,8,0
+2161,Papua Barat,Manokwari,2026-08-20,8,0
+2162,Papua Barat,Manokwari,2026-08-21,8,0
+2163,Papua Barat,Manokwari,2026-08-22,8,0
+2164,Papua Barat,Manokwari,2026-08-23,8,0
+2165,Papua Barat,Manokwari,2026-08-24,8,0
+2166,Papua Barat,Manokwari,2026-08-25,8,0
+2167,Papua Barat,Manokwari,2026-08-26,8,0
+2168,Papua Barat,Manokwari,2026-08-27,8,0
+2169,Papua Barat,Manokwari,2026-08-28,8,0
+2170,Papua Barat,Manokwari,2026-08-29,8,0
+2171,Papua Barat,Manokwari,2026-08-30,8,0
+2172,Papua Barat,Manokwari,2026-08-31,8,0
+2173,Papua Barat,Manokwari,2026-09-01,8,0
+2174,Papua Barat,Manokwari,2026-09-02,8,0
+2175,Papua Barat,Manokwari,2026-09-03,8,0
+2176,Papua Barat,Manokwari,2026-09-04,8,0
+2177,Papua Barat,Manokwari,2026-09-05,8,0
+2178,Papua Barat,Manokwari,2026-09-06,8,0
+2179,Papua Barat,Manokwari,2026-09-07,8,0
+2180,Papua Barat,Manokwari,2026-09-08,8,0
+2181,Papua Barat,Manokwari,2026-09-09,8,0
+2182,Papua Barat,Manokwari,2026-09-10,8,0
+2183,Papua Barat,Manokwari,2026-09-11,8,0
+2184,Papua Barat,Manokwari,2026-09-12,8,0
+2185,Papua Barat,Manokwari,2026-09-13,8,0
+2186,Papua Barat,Manokwari,2026-09-14,8,0
+2187,Papua Barat,Manokwari,2026-09-15,8,0
+2188,Papua Barat,Manokwari,2026-09-16,8,0
+2189,Papua Barat,Manokwari,2026-09-17,8,0
+2190,Papua Barat,Manokwari,2026-09-18,8,0
+2191,Papua Barat,Manokwari,2026-09-19,8,0
+2192,Papua Barat,Manokwari,2026-09-20,8,0
+2193,Papua Barat,Manokwari,2026-09-21,8,0
+2194,Papua Barat,Manokwari,2026-09-22,8,0
+2195,Papua Barat,Manokwari,2026-09-23,8,0
+2196,Papua Barat,Manokwari,2026-09-24,8,0
+2197,Papua Barat,Manokwari,2026-09-25,8,0
+2198,Papua Barat,Manokwari,2026-09-26,8,0
+2199,Papua Barat,Manokwari,2026-09-27,8,0
+2200,Papua Barat,Manokwari,2026-09-28,8,0
+2201,Papua Barat,Manokwari,2026-09-29,8,0
+2202,Papua Barat,Manokwari,2026-09-30,8,0
+2203,Papua Barat,Manokwari,2026-10-01,8,0
+2204,Papua Barat,Manokwari,2026-10-02,8,0
+2205,Papua Barat,Manokwari,2026-10-03,8,0
+2206,Papua Barat,Manokwari,2026-10-04,8,0
+2207,Papua Barat,Manokwari,2026-10-05,8,0
+2208,Papua Barat,Manokwari,2026-10-06,8,0
+2209,Papua Barat,Manokwari,2026-10-07,8,0
+2210,Papua Barat,Manokwari,2026-10-08,8,0
+2211,Papua Barat,Manokwari,2026-10-09,8,0
+2212,Papua Barat,Manokwari,2026-10-10,8,0
+2213,Papua Barat,Manokwari,2026-10-11,8,0
+2214,Papua Barat,Manokwari,2026-10-12,8,0
+2215,Papua Barat,Manokwari,2026-10-13,8,0
+2216,Papua Barat,Manokwari,2026-10-14,8,0
+2217,Papua Barat,Manokwari,2026-10-15,8,0
+2218,Papua Barat,Manokwari,2026-10-16,8,0
+2219,Papua Barat,Manokwari,2026-10-17,8,0
+2220,Papua Barat,Manokwari,2026-10-18,8,0
+2221,Papua Barat,Manokwari,2026-10-19,8,0
+2222,Papua Barat,Manokwari,2026-10-20,8,0
+2223,Papua Barat,Manokwari,2026-10-21,8,0
+2224,Papua Barat,Manokwari,2026-10-22,8,0
+2225,Papua Barat,Manokwari,2026-10-23,8,0
+2226,Papua Barat,Manokwari,2026-10-24,8,0
+2227,Papua Barat,Manokwari,2026-10-25,8,0
+2228,Papua Barat,Manokwari,2026-10-26,8,0
+2229,Papua Barat,Manokwari,2026-10-27,8,0
+2230,Papua Barat,Manokwari,2026-10-28,8,0
+2231,Papua Barat,Manokwari,2026-10-29,8,0
+2232,Papua Barat,Manokwari,2026-10-30,8,0
+2233,Papua Barat,Manokwari,2026-10-31,8,0
+2234,Papua Barat,Manokwari,2026-11-01,8,0
+2235,Papua Barat,Manokwari,2026-11-02,8,0
+2236,Papua Barat,Manokwari,2026-11-03,8,0
+2237,Papua Barat,Manokwari,2026-11-04,8,0
+2238,Papua Barat,Manokwari,2026-11-05,8,0
+2239,Papua Barat,Manokwari,2026-11-06,8,0
+2240,Papua Barat,Manokwari,2026-11-07,8,0
+2241,Papua Barat,Manokwari,2026-11-08,8,0
+2242,Papua Barat,Manokwari,2026-11-09,8,0
+2243,Papua Barat,Manokwari,2026-11-10,8,0
+2244,Papua Barat,Manokwari,2026-11-11,8,0
+2245,Papua Barat,Manokwari,2026-11-12,8,0
+2246,Papua Barat,Manokwari,2026-11-13,8,0
+2247,Papua Barat,Manokwari,2026-11-14,8,0
+2248,Papua Barat,Manokwari,2026-11-15,8,0
+2249,Papua Barat,Manokwari,2026-11-16,8,0
+2250,Papua Barat,Manokwari,2026-11-17,8,0
+2251,Papua Barat Daya,Sorong,2026-08-20,8,0
+2252,Papua Barat Daya,Sorong,2026-08-21,8,0
+2253,Papua Barat Daya,Sorong,2026-08-22,8,0
+2254,Papua Barat Daya,Sorong,2026-08-23,8,0
+2255,Papua Barat Daya,Sorong,2026-08-24,8,0
+2256,Papua Barat Daya,Sorong,2026-08-25,8,0
+2257,Papua Barat Daya,Sorong,2026-08-26,8,0
+2258,Papua Barat Daya,Sorong,2026-08-27,8,0
+2259,Papua Barat Daya,Sorong,2026-08-28,8,0
+2260,Papua Barat Daya,Sorong,2026-08-29,8,0
+2261,Papua Barat Daya,Sorong,2026-08-30,8,0
+2262,Papua Barat Daya,Sorong,2026-08-31,8,0
+2263,Papua Barat Daya,Sorong,2026-09-01,8,0
+2264,Papua Barat Daya,Sorong,2026-09-02,8,0
+2265,Papua Barat Daya,Sorong,2026-09-03,8,0
+2266,Papua Barat Daya,Sorong,2026-09-04,8,0
+2267,Papua Barat Daya,Sorong,2026-09-05,8,0
+2268,Papua Barat Daya,Sorong,2026-09-06,8,0
+2269,Papua Barat Daya,Sorong,2026-09-07,8,0
+2270,Papua Barat Daya,Sorong,2026-09-08,8,0
+2271,Papua Barat Daya,Sorong,2026-09-09,8,0
+2272,Papua Barat Daya,Sorong,2026-09-10,8,0
+2273,Papua Barat Daya,Sorong,2026-09-11,8,0
+2274,Papua Barat Daya,Sorong,2026-09-12,8,0
+2275,Papua Barat Daya,Sorong,2026-09-13,8,0
+2276,Papua Barat Daya,Sorong,2026-09-14,8,0
+2277,Papua Barat Daya,Sorong,2026-09-15,8,0
+2278,Papua Barat Daya,Sorong,2026-09-16,8,0
+2279,Papua Barat Daya,Sorong,2026-09-17,8,0
+2280,Papua Barat Daya,Sorong,2026-09-18,8,0
+2281,Papua Barat Daya,Sorong,2026-09-19,8,0
+2282,Papua Barat Daya,Sorong,2026-09-20,8,0
+2283,Papua Barat Daya,Sorong,2026-09-21,8,0
+2284,Papua Barat Daya,Sorong,2026-09-22,8,0
+2285,Papua Barat Daya,Sorong,2026-09-23,8,0
+2286,Papua Barat Daya,Sorong,2026-09-24,8,0
+2287,Papua Barat Daya,Sorong,2026-09-25,8,0
+2288,Papua Barat Daya,Sorong,2026-09-26,8,0
+2289,Papua Barat Daya,Sorong,2026-09-27,8,0
+2290,Papua Barat Daya,Sorong,2026-09-28,8,0
+2291,Papua Barat Daya,Sorong,2026-09-29,8,0
+2292,Papua Barat Daya,Sorong,2026-09-30,8,0
+2293,Papua Barat Daya,Sorong,2026-10-01,8,0
+2294,Papua Barat Daya,Sorong,2026-10-02,8,0
+2295,Papua Barat Daya,Sorong,2026-10-03,8,0
+2296,Papua Barat Daya,Sorong,2026-10-04,8,0
+2297,Papua Barat Daya,Sorong,2026-10-05,8,0
+2298,Papua Barat Daya,Sorong,2026-10-06,8,0
+2299,Papua Barat Daya,Sorong,2026-10-07,8,0
+2300,Papua Barat Daya,Sorong,2026-10-08,8,0
+2301,Papua Barat Daya,Sorong,2026-10-09,8,0
+2302,Papua Barat Daya,Sorong,2026-10-10,8,0
+2303,Papua Barat Daya,Sorong,2026-10-11,8,0
+2304,Papua Barat Daya,Sorong,2026-10-12,8,0
+2305,Papua Barat Daya,Sorong,2026-10-13,8,0
+2306,Papua Barat Daya,Sorong,2026-10-14,8,0
+2307,Papua Barat Daya,Sorong,2026-10-15,8,0
+2308,Papua Barat Daya,Sorong,2026-10-16,8,0
+2309,Papua Barat Daya,Sorong,2026-10-17,8,0
+2310,Papua Barat Daya,Sorong,2026-10-18,8,0
+2311,Papua Barat Daya,Sorong,2026-10-19,8,0
+2312,Papua Barat Daya,Sorong,2026-10-20,8,0
+2313,Papua Barat Daya,Sorong,2026-10-21,8,0
+2314,Papua Barat Daya,Sorong,2026-10-22,8,0
+2315,Papua Barat Daya,Sorong,2026-10-23,8,0
+2316,Papua Barat Daya,Sorong,2026-10-24,8,0
+2317,Papua Barat Daya,Sorong,2026-10-25,8,0
+2318,Papua Barat Daya,Sorong,2026-10-26,8,0
+2319,Papua Barat Daya,Sorong,2026-10-27,8,0
+2320,Papua Barat Daya,Sorong,2026-10-28,8,0
+2321,Papua Barat Daya,Sorong,2026-10-29,8,0
+2322,Papua Barat Daya,Sorong,2026-10-30,8,0
+2323,Papua Barat Daya,Sorong,2026-10-31,8,0
+2324,Papua Barat Daya,Sorong,2026-11-01,8,0
+2325,Papua Barat Daya,Sorong,2026-11-02,8,0
+2326,Papua Barat Daya,Sorong,2026-11-03,8,0
+2327,Papua Barat Daya,Sorong,2026-11-04,8,0
+2328,Papua Barat Daya,Sorong,2026-11-05,8,0
+2329,Papua Barat Daya,Sorong,2026-11-06,8,0
+2330,Papua Barat Daya,Sorong,2026-11-07,8,0
+2331,Papua Barat Daya,Sorong,2026-11-08,8,0
+2332,Papua Barat Daya,Sorong,2026-11-09,8,0
+2333,Papua Barat Daya,Sorong,2026-11-10,8,0
+2334,Papua Barat Daya,Sorong,2026-11-11,8,0
+2335,Papua Barat Daya,Sorong,2026-11-12,8,0
+2336,Papua Barat Daya,Sorong,2026-11-13,8,0
+2337,Papua Barat Daya,Sorong,2026-11-14,8,0
+2338,Papua Barat Daya,Sorong,2026-11-15,8,0
+2339,Papua Barat Daya,Sorong,2026-11-16,8,0
+2340,Papua Barat Daya,Sorong,2026-11-17,8,0
+2341,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-20,8,0
+2342,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-21,8,0
+2343,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-22,8,0
+2344,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-23,8,0
+2345,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-24,8,0
+2346,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-25,8,0
+2347,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-26,8,0
+2348,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-27,8,0
+2349,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-28,8,0
+2350,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-29,8,0
+2351,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-30,8,0
+2352,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-08-31,8,0
+2353,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-01,8,0
+2354,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-02,8,0
+2355,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-03,8,0
+2356,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-04,8,0
+2357,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-05,8,0
+2358,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-06,8,0
+2359,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-07,8,0
+2360,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-08,8,0
+2361,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-09,8,0
+2362,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-10,8,0
+2363,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-11,8,0
+2364,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-12,8,0
+2365,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-13,8,0
+2366,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-14,8,0
+2367,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-15,8,0
+2368,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-16,8,0
+2369,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-17,8,0
+2370,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-18,8,0
+2371,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-19,8,0
+2372,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-20,8,0
+2373,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-21,8,0
+2374,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-22,8,0
+2375,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-23,8,0
+2376,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-24,8,0
+2377,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-25,8,0
+2378,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-26,8,0
+2379,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-27,8,0
+2380,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-28,8,0
+2381,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-29,8,0
+2382,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-09-30,8,0
+2383,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-01,8,0
+2384,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-02,8,0
+2385,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-03,8,0
+2386,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-04,8,0
+2387,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-05,8,0
+2388,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-06,8,0
+2389,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-07,8,0
+2390,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-08,8,0
+2391,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-09,8,0
+2392,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-10,8,0
+2393,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-11,8,0
+2394,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-12,8,0
+2395,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-13,8,0
+2396,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-14,8,0
+2397,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-15,8,0
+2398,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-16,8,0
+2399,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-17,8,0
+2400,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-18,8,0
+2401,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-19,8,0
+2402,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-20,8,0
+2403,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-21,8,0
+2404,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-22,8,0
+2405,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-23,8,0
+2406,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-24,8,0
+2407,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-25,8,0
+2408,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-26,8,0
+2409,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-27,8,0
+2410,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-28,8,0
+2411,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-29,8,0
+2412,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-30,8,0
+2413,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-10-31,8,0
+2414,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-01,8,0
+2415,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-02,8,0
+2416,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-03,8,0
+2417,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-04,8,0
+2418,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-05,8,0
+2419,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-06,8,0
+2420,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-07,8,0
+2421,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-08,8,0
+2422,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-09,8,0
+2423,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-10,8,0
+2424,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-11,8,0
+2425,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-12,8,0
+2426,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-13,8,0
+2427,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-14,8,0
+2428,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-15,8,0
+2429,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-16,8,0
+2430,Papua Pegunungan,Wamena (Kab. Jayawijaya),2026-11-17,8,0
+2431,Papua Selatan,Merauke,2026-08-20,8,0
+2432,Papua Selatan,Merauke,2026-08-21,8,0
+2433,Papua Selatan,Merauke,2026-08-22,8,0
+2434,Papua Selatan,Merauke,2026-08-23,8,0
+2435,Papua Selatan,Merauke,2026-08-24,8,0
+2436,Papua Selatan,Merauke,2026-08-25,8,0
+2437,Papua Selatan,Merauke,2026-08-26,8,0
+2438,Papua Selatan,Merauke,2026-08-27,8,0
+2439,Papua Selatan,Merauke,2026-08-28,8,0
+2440,Papua Selatan,Merauke,2026-08-29,8,0
+2441,Papua Selatan,Merauke,2026-08-30,8,0
+2442,Papua Selatan,Merauke,2026-08-31,8,0
+2443,Papua Selatan,Merauke,2026-09-01,8,0
+2444,Papua Selatan,Merauke,2026-09-02,8,0
+2445,Papua Selatan,Merauke,2026-09-03,8,0
+2446,Papua Selatan,Merauke,2026-09-04,8,0
+2447,Papua Selatan,Merauke,2026-09-05,8,0
+2448,Papua Selatan,Merauke,2026-09-06,8,0
+2449,Papua Selatan,Merauke,2026-09-07,8,0
+2450,Papua Selatan,Merauke,2026-09-08,8,0
+2451,Papua Selatan,Merauke,2026-09-09,8,0
+2452,Papua Selatan,Merauke,2026-09-10,8,0
+2453,Papua Selatan,Merauke,2026-09-11,8,0
+2454,Papua Selatan,Merauke,2026-09-12,8,0
+2455,Papua Selatan,Merauke,2026-09-13,8,0
+2456,Papua Selatan,Merauke,2026-09-14,8,0
+2457,Papua Selatan,Merauke,2026-09-15,8,0
+2458,Papua Selatan,Merauke,2026-09-16,8,0
+2459,Papua Selatan,Merauke,2026-09-17,8,0
+2460,Papua Selatan,Merauke,2026-09-18,8,0
+2461,Papua Selatan,Merauke,2026-09-19,8,0
+2462,Papua Selatan,Merauke,2026-09-20,8,0
+2463,Papua Selatan,Merauke,2026-09-21,8,0
+2464,Papua Selatan,Merauke,2026-09-22,8,0
+2465,Papua Selatan,Merauke,2026-09-23,8,0
+2466,Papua Selatan,Merauke,2026-09-24,8,0
+2467,Papua Selatan,Merauke,2026-09-25,8,0
+2468,Papua Selatan,Merauke,2026-09-26,8,0
+2469,Papua Selatan,Merauke,2026-09-27,8,0
+2470,Papua Selatan,Merauke,2026-09-28,8,0
+2471,Papua Selatan,Merauke,2026-09-29,8,0
+2472,Papua Selatan,Merauke,2026-09-30,8,0
+2473,Papua Selatan,Merauke,2026-10-01,8,0
+2474,Papua Selatan,Merauke,2026-10-02,8,0
+2475,Papua Selatan,Merauke,2026-10-03,8,0
+2476,Papua Selatan,Merauke,2026-10-04,8,0
+2477,Papua Selatan,Merauke,2026-10-05,8,0
+2478,Papua Selatan,Merauke,2026-10-06,8,0
+2479,Papua Selatan,Merauke,2026-10-07,8,0
+2480,Papua Selatan,Merauke,2026-10-08,8,0
+2481,Papua Selatan,Merauke,2026-10-09,8,0
+2482,Papua Selatan,Merauke,2026-10-10,8,0
+2483,Papua Selatan,Merauke,2026-10-11,8,0
+2484,Papua Selatan,Merauke,2026-10-12,8,0
+2485,Papua Selatan,Merauke,2026-10-13,8,0
+2486,Papua Selatan,Merauke,2026-10-14,8,0
+2487,Papua Selatan,Merauke,2026-10-15,8,0
+2488,Papua Selatan,Merauke,2026-10-16,8,0
+2489,Papua Selatan,Merauke,2026-10-17,8,0
+2490,Papua Selatan,Merauke,2026-10-18,8,0
+2491,Papua Selatan,Merauke,2026-10-19,8,0
+2492,Papua Selatan,Merauke,2026-10-20,8,0
+2493,Papua Selatan,Merauke,2026-10-21,8,0
+2494,Papua Selatan,Merauke,2026-10-22,8,0
+2495,Papua Selatan,Merauke,2026-10-23,8,0
+2496,Papua Selatan,Merauke,2026-10-24,8,0
+2497,Papua Selatan,Merauke,2026-10-25,8,0
+2498,Papua Selatan,Merauke,2026-10-26,8,0
+2499,Papua Selatan,Merauke,2026-10-27,8,0
+2500,Papua Selatan,Merauke,2026-10-28,8,0
+2501,Papua Selatan,Merauke,2026-10-29,8,0
+2502,Papua Selatan,Merauke,2026-10-30,8,0
+2503,Papua Selatan,Merauke,2026-10-31,8,0
+2504,Papua Selatan,Merauke,2026-11-01,8,0
+2505,Papua Selatan,Merauke,2026-11-02,8,0
+2506,Papua Selatan,Merauke,2026-11-03,8,0
+2507,Papua Selatan,Merauke,2026-11-04,8,0
+2508,Papua Selatan,Merauke,2026-11-05,8,0
+2509,Papua Selatan,Merauke,2026-11-06,8,0
+2510,Papua Selatan,Merauke,2026-11-07,8,0
+2511,Papua Selatan,Merauke,2026-11-08,8,0
+2512,Papua Selatan,Merauke,2026-11-09,8,0
+2513,Papua Selatan,Merauke,2026-11-10,8,0
+2514,Papua Selatan,Merauke,2026-11-11,8,0
+2515,Papua Selatan,Merauke,2026-11-12,8,0
+2516,Papua Selatan,Merauke,2026-11-13,8,0
+2517,Papua Selatan,Merauke,2026-11-14,8,0
+2518,Papua Selatan,Merauke,2026-11-15,8,0
+2519,Papua Selatan,Merauke,2026-11-16,8,0
+2520,Papua Selatan,Merauke,2026-11-17,8,0
+2521,Papua Tengah,Nabire,2026-08-20,8,0
+2522,Papua Tengah,Nabire,2026-08-21,8,0
+2523,Papua Tengah,Nabire,2026-08-22,8,0
+2524,Papua Tengah,Nabire,2026-08-23,8,0
+2525,Papua Tengah,Nabire,2026-08-24,8,0
+2526,Papua Tengah,Nabire,2026-08-25,8,0
+2527,Papua Tengah,Nabire,2026-08-26,8,0
+2528,Papua Tengah,Nabire,2026-08-27,8,0
+2529,Papua Tengah,Nabire,2026-08-28,8,0
+2530,Papua Tengah,Nabire,2026-08-29,8,0
+2531,Papua Tengah,Nabire,2026-08-30,8,0
+2532,Papua Tengah,Nabire,2026-08-31,8,0
+2533,Papua Tengah,Nabire,2026-09-01,8,0
+2534,Papua Tengah,Nabire,2026-09-02,8,0
+2535,Papua Tengah,Nabire,2026-09-03,8,0
+2536,Papua Tengah,Nabire,2026-09-04,8,0
+2537,Papua Tengah,Nabire,2026-09-05,8,0
+2538,Papua Tengah,Nabire,2026-09-06,8,0
+2539,Papua Tengah,Nabire,2026-09-07,8,0
+2540,Papua Tengah,Nabire,2026-09-08,8,0
+2541,Papua Tengah,Nabire,2026-09-09,8,0
+2542,Papua Tengah,Nabire,2026-09-10,8,0
+2543,Papua Tengah,Nabire,2026-09-11,8,0
+2544,Papua Tengah,Nabire,2026-09-12,8,0
+2545,Papua Tengah,Nabire,2026-09-13,8,0
+2546,Papua Tengah,Nabire,2026-09-14,8,0
+2547,Papua Tengah,Nabire,2026-09-15,8,0
+2548,Papua Tengah,Nabire,2026-09-16,8,0
+2549,Papua Tengah,Nabire,2026-09-17,8,0
+2550,Papua Tengah,Nabire,2026-09-18,8,0
+2551,Papua Tengah,Nabire,2026-09-19,8,0
+2552,Papua Tengah,Nabire,2026-09-20,8,0
+2553,Papua Tengah,Nabire,2026-09-21,8,0
+2554,Papua Tengah,Nabire,2026-09-22,8,0
+2555,Papua Tengah,Nabire,2026-09-23,8,0
+2556,Papua Tengah,Nabire,2026-09-24,8,0
+2557,Papua Tengah,Nabire,2026-09-25,8,0
+2558,Papua Tengah,Nabire,2026-09-26,8,0
+2559,Papua Tengah,Nabire,2026-09-27,8,0
+2560,Papua Tengah,Nabire,2026-09-28,8,0
+2561,Papua Tengah,Nabire,2026-09-29,8,0
+2562,Papua Tengah,Nabire,2026-09-30,8,0
+2563,Papua Tengah,Nabire,2026-10-01,8,0
+2564,Papua Tengah,Nabire,2026-10-02,8,0
+2565,Papua Tengah,Nabire,2026-10-03,8,0
+2566,Papua Tengah,Nabire,2026-10-04,8,0
+2567,Papua Tengah,Nabire,2026-10-05,8,0
+2568,Papua Tengah,Nabire,2026-10-06,8,0
+2569,Papua Tengah,Nabire,2026-10-07,8,0
+2570,Papua Tengah,Nabire,2026-10-08,8,0
+2571,Papua Tengah,Nabire,2026-10-09,8,0
+2572,Papua Tengah,Nabire,2026-10-10,8,0
+2573,Papua Tengah,Nabire,2026-10-11,8,0
+2574,Papua Tengah,Nabire,2026-10-12,8,0
+2575,Papua Tengah,Nabire,2026-10-13,8,0
+2576,Papua Tengah,Nabire,2026-10-14,8,0
+2577,Papua Tengah,Nabire,2026-10-15,8,0
+2578,Papua Tengah,Nabire,2026-10-16,8,0
+2579,Papua Tengah,Nabire,2026-10-17,8,0
+2580,Papua Tengah,Nabire,2026-10-18,8,0
+2581,Papua Tengah,Nabire,2026-10-19,8,0
+2582,Papua Tengah,Nabire,2026-10-20,8,0
+2583,Papua Tengah,Nabire,2026-10-21,8,0
+2584,Papua Tengah,Nabire,2026-10-22,8,0
+2585,Papua Tengah,Nabire,2026-10-23,8,0
+2586,Papua Tengah,Nabire,2026-10-24,8,0
+2587,Papua Tengah,Nabire,2026-10-25,8,0
+2588,Papua Tengah,Nabire,2026-10-26,8,0
+2589,Papua Tengah,Nabire,2026-10-27,8,0
+2590,Papua Tengah,Nabire,2026-10-28,8,0
+2591,Papua Tengah,Nabire,2026-10-29,8,0
+2592,Papua Tengah,Nabire,2026-10-30,8,0
+2593,Papua Tengah,Nabire,2026-10-31,8,0
+2594,Papua Tengah,Nabire,2026-11-01,8,0
+2595,Papua Tengah,Nabire,2026-11-02,8,0
+2596,Papua Tengah,Nabire,2026-11-03,8,0
+2597,Papua Tengah,Nabire,2026-11-04,8,0
+2598,Papua Tengah,Nabire,2026-11-05,8,0
+2599,Papua Tengah,Nabire,2026-11-06,8,0
+2600,Papua Tengah,Nabire,2026-11-07,8,0
+2601,Papua Tengah,Nabire,2026-11-08,8,0
+2602,Papua Tengah,Nabire,2026-11-09,8,0
+2603,Papua Tengah,Nabire,2026-11-10,8,0
+2604,Papua Tengah,Nabire,2026-11-11,8,0
+2605,Papua Tengah,Nabire,2026-11-12,8,0
+2606,Papua Tengah,Nabire,2026-11-13,8,0
+2607,Papua Tengah,Nabire,2026-11-14,8,0
+2608,Papua Tengah,Nabire,2026-11-15,8,0
+2609,Papua Tengah,Nabire,2026-11-16,8,0
+2610,Papua Tengah,Nabire,2026-11-17,8,0
+2611,Riau,Pekanbaru,2026-08-20,8,0
+2612,Riau,Pekanbaru,2026-08-21,8,0
+2613,Riau,Pekanbaru,2026-08-22,8,0
+2614,Riau,Pekanbaru,2026-08-23,8,0
+2615,Riau,Pekanbaru,2026-08-24,8,0
+2616,Riau,Pekanbaru,2026-08-25,8,0
+2617,Riau,Pekanbaru,2026-08-26,8,0
+2618,Riau,Pekanbaru,2026-08-27,8,0
+2619,Riau,Pekanbaru,2026-08-28,8,0
+2620,Riau,Pekanbaru,2026-08-29,8,0
+2621,Riau,Pekanbaru,2026-08-30,8,0
+2622,Riau,Pekanbaru,2026-08-31,8,0
+2623,Riau,Pekanbaru,2026-09-01,8,0
+2624,Riau,Pekanbaru,2026-09-02,8,0
+2625,Riau,Pekanbaru,2026-09-03,8,0
+2626,Riau,Pekanbaru,2026-09-04,8,0
+2627,Riau,Pekanbaru,2026-09-05,8,0
+2628,Riau,Pekanbaru,2026-09-06,8,0
+2629,Riau,Pekanbaru,2026-09-07,8,0
+2630,Riau,Pekanbaru,2026-09-08,8,0
+2631,Riau,Pekanbaru,2026-09-09,8,0
+2632,Riau,Pekanbaru,2026-09-10,8,0
+2633,Riau,Pekanbaru,2026-09-11,8,0
+2634,Riau,Pekanbaru,2026-09-12,8,0
+2635,Riau,Pekanbaru,2026-09-13,8,0
+2636,Riau,Pekanbaru,2026-09-14,8,0
+2637,Riau,Pekanbaru,2026-09-15,8,0
+2638,Riau,Pekanbaru,2026-09-16,8,0
+2639,Riau,Pekanbaru,2026-09-17,8,0
+2640,Riau,Pekanbaru,2026-09-18,8,0
+2641,Riau,Pekanbaru,2026-09-19,8,0
+2642,Riau,Pekanbaru,2026-09-20,8,0
+2643,Riau,Pekanbaru,2026-09-21,8,0
+2644,Riau,Pekanbaru,2026-09-22,8,0
+2645,Riau,Pekanbaru,2026-09-23,8,0
+2646,Riau,Pekanbaru,2026-09-24,8,0
+2647,Riau,Pekanbaru,2026-09-25,8,0
+2648,Riau,Pekanbaru,2026-09-26,8,0
+2649,Riau,Pekanbaru,2026-09-27,8,0
+2650,Riau,Pekanbaru,2026-09-28,8,0
+2651,Riau,Pekanbaru,2026-09-29,8,0
+2652,Riau,Pekanbaru,2026-09-30,8,0
+2653,Riau,Pekanbaru,2026-10-01,8,0
+2654,Riau,Pekanbaru,2026-10-02,8,0
+2655,Riau,Pekanbaru,2026-10-03,8,0
+2656,Riau,Pekanbaru,2026-10-04,8,0
+2657,Riau,Pekanbaru,2026-10-05,8,0
+2658,Riau,Pekanbaru,2026-10-06,8,0
+2659,Riau,Pekanbaru,2026-10-07,8,0
+2660,Riau,Pekanbaru,2026-10-08,8,0
+2661,Riau,Pekanbaru,2026-10-09,8,0
+2662,Riau,Pekanbaru,2026-10-10,8,0
+2663,Riau,Pekanbaru,2026-10-11,8,0
+2664,Riau,Pekanbaru,2026-10-12,8,0
+2665,Riau,Pekanbaru,2026-10-13,8,0
+2666,Riau,Pekanbaru,2026-10-14,8,0
+2667,Riau,Pekanbaru,2026-10-15,8,0
+2668,Riau,Pekanbaru,2026-10-16,8,0
+2669,Riau,Pekanbaru,2026-10-17,8,0
+2670,Riau,Pekanbaru,2026-10-18,8,0
+2671,Riau,Pekanbaru,2026-10-19,8,0
+2672,Riau,Pekanbaru,2026-10-20,8,0
+2673,Riau,Pekanbaru,2026-10-21,8,0
+2674,Riau,Pekanbaru,2026-10-22,8,0
+2675,Riau,Pekanbaru,2026-10-23,8,0
+2676,Riau,Pekanbaru,2026-10-24,8,0
+2677,Riau,Pekanbaru,2026-10-25,8,0
+2678,Riau,Pekanbaru,2026-10-26,8,0
+2679,Riau,Pekanbaru,2026-10-27,8,0
+2680,Riau,Pekanbaru,2026-10-28,8,0
+2681,Riau,Pekanbaru,2026-10-29,8,0
+2682,Riau,Pekanbaru,2026-10-30,8,0
+2683,Riau,Pekanbaru,2026-10-31,8,0
+2684,Riau,Pekanbaru,2026-11-01,8,0
+2685,Riau,Pekanbaru,2026-11-02,8,0
+2686,Riau,Pekanbaru,2026-11-03,8,0
+2687,Riau,Pekanbaru,2026-11-04,8,0
+2688,Riau,Pekanbaru,2026-11-05,8,0
+2689,Riau,Pekanbaru,2026-11-06,8,0
+2690,Riau,Pekanbaru,2026-11-07,8,0
+2691,Riau,Pekanbaru,2026-11-08,8,0
+2692,Riau,Pekanbaru,2026-11-09,8,0
+2693,Riau,Pekanbaru,2026-11-10,8,0
+2694,Riau,Pekanbaru,2026-11-11,8,0
+2695,Riau,Pekanbaru,2026-11-12,8,0
+2696,Riau,Pekanbaru,2026-11-13,8,0
+2697,Riau,Pekanbaru,2026-11-14,8,0
+2698,Riau,Pekanbaru,2026-11-15,8,0
+2699,Riau,Pekanbaru,2026-11-16,8,0
+2700,Riau,Pekanbaru,2026-11-17,8,0
+2701,Sulawesi Barat,Mamuju,2026-08-20,8,0
+2702,Sulawesi Barat,Mamuju,2026-08-21,8,0
+2703,Sulawesi Barat,Mamuju,2026-08-22,8,0
+2704,Sulawesi Barat,Mamuju,2026-08-23,8,0
+2705,Sulawesi Barat,Mamuju,2026-08-24,8,0
+2706,Sulawesi Barat,Mamuju,2026-08-25,8,0
+2707,Sulawesi Barat,Mamuju,2026-08-26,8,0
+2708,Sulawesi Barat,Mamuju,2026-08-27,8,0
+2709,Sulawesi Barat,Mamuju,2026-08-28,8,0
+2710,Sulawesi Barat,Mamuju,2026-08-29,8,0
+2711,Sulawesi Barat,Mamuju,2026-08-30,8,0
+2712,Sulawesi Barat,Mamuju,2026-08-31,8,0
+2713,Sulawesi Barat,Mamuju,2026-09-01,8,0
+2714,Sulawesi Barat,Mamuju,2026-09-02,8,0
+2715,Sulawesi Barat,Mamuju,2026-09-03,8,0
+2716,Sulawesi Barat,Mamuju,2026-09-04,8,0
+2717,Sulawesi Barat,Mamuju,2026-09-05,8,0
+2718,Sulawesi Barat,Mamuju,2026-09-06,8,0
+2719,Sulawesi Barat,Mamuju,2026-09-07,8,0
+2720,Sulawesi Barat,Mamuju,2026-09-08,8,0
+2721,Sulawesi Barat,Mamuju,2026-09-09,8,0
+2722,Sulawesi Barat,Mamuju,2026-09-10,8,0
+2723,Sulawesi Barat,Mamuju,2026-09-11,8,0
+2724,Sulawesi Barat,Mamuju,2026-09-12,8,0
+2725,Sulawesi Barat,Mamuju,2026-09-13,8,0
+2726,Sulawesi Barat,Mamuju,2026-09-14,8,0
+2727,Sulawesi Barat,Mamuju,2026-09-15,8,0
+2728,Sulawesi Barat,Mamuju,2026-09-16,8,0
+2729,Sulawesi Barat,Mamuju,2026-09-17,8,0
+2730,Sulawesi Barat,Mamuju,2026-09-18,8,0
+2731,Sulawesi Barat,Mamuju,2026-09-19,8,0
+2732,Sulawesi Barat,Mamuju,2026-09-20,8,0
+2733,Sulawesi Barat,Mamuju,2026-09-21,8,0
+2734,Sulawesi Barat,Mamuju,2026-09-22,8,0
+2735,Sulawesi Barat,Mamuju,2026-09-23,8,0
+2736,Sulawesi Barat,Mamuju,2026-09-24,8,0
+2737,Sulawesi Barat,Mamuju,2026-09-25,8,0
+2738,Sulawesi Barat,Mamuju,2026-09-26,8,0
+2739,Sulawesi Barat,Mamuju,2026-09-27,8,0
+2740,Sulawesi Barat,Mamuju,2026-09-28,8,0
+2741,Sulawesi Barat,Mamuju,2026-09-29,8,0
+2742,Sulawesi Barat,Mamuju,2026-09-30,8,0
+2743,Sulawesi Barat,Mamuju,2026-10-01,8,0
+2744,Sulawesi Barat,Mamuju,2026-10-02,8,0
+2745,Sulawesi Barat,Mamuju,2026-10-03,8,0
+2746,Sulawesi Barat,Mamuju,2026-10-04,8,0
+2747,Sulawesi Barat,Mamuju,2026-10-05,8,0
+2748,Sulawesi Barat,Mamuju,2026-10-06,8,0
+2749,Sulawesi Barat,Mamuju,2026-10-07,8,0
+2750,Sulawesi Barat,Mamuju,2026-10-08,8,0
+2751,Sulawesi Barat,Mamuju,2026-10-09,8,0
+2752,Sulawesi Barat,Mamuju,2026-10-10,8,0
+2753,Sulawesi Barat,Mamuju,2026-10-11,8,0
+2754,Sulawesi Barat,Mamuju,2026-10-12,8,0
+2755,Sulawesi Barat,Mamuju,2026-10-13,8,0
+2756,Sulawesi Barat,Mamuju,2026-10-14,8,0
+2757,Sulawesi Barat,Mamuju,2026-10-15,8,0
+2758,Sulawesi Barat,Mamuju,2026-10-16,8,0
+2759,Sulawesi Barat,Mamuju,2026-10-17,8,0
+2760,Sulawesi Barat,Mamuju,2026-10-18,8,0
+2761,Sulawesi Barat,Mamuju,2026-10-19,8,0
+2762,Sulawesi Barat,Mamuju,2026-10-20,8,0
+2763,Sulawesi Barat,Mamuju,2026-10-21,8,0
+2764,Sulawesi Barat,Mamuju,2026-10-22,8,0
+2765,Sulawesi Barat,Mamuju,2026-10-23,8,0
+2766,Sulawesi Barat,Mamuju,2026-10-24,8,0
+2767,Sulawesi Barat,Mamuju,2026-10-25,8,0
+2768,Sulawesi Barat,Mamuju,2026-10-26,8,0
+2769,Sulawesi Barat,Mamuju,2026-10-27,8,0
+2770,Sulawesi Barat,Mamuju,2026-10-28,8,0
+2771,Sulawesi Barat,Mamuju,2026-10-29,8,0
+2772,Sulawesi Barat,Mamuju,2026-10-30,8,0
+2773,Sulawesi Barat,Mamuju,2026-10-31,8,0
+2774,Sulawesi Barat,Mamuju,2026-11-01,8,0
+2775,Sulawesi Barat,Mamuju,2026-11-02,8,0
+2776,Sulawesi Barat,Mamuju,2026-11-03,8,0
+2777,Sulawesi Barat,Mamuju,2026-11-04,8,0
+2778,Sulawesi Barat,Mamuju,2026-11-05,8,0
+2779,Sulawesi Barat,Mamuju,2026-11-06,8,0
+2780,Sulawesi Barat,Mamuju,2026-11-07,8,0
+2781,Sulawesi Barat,Mamuju,2026-11-08,8,0
+2782,Sulawesi Barat,Mamuju,2026-11-09,8,0
+2783,Sulawesi Barat,Mamuju,2026-11-10,8,0
+2784,Sulawesi Barat,Mamuju,2026-11-11,8,0
+2785,Sulawesi Barat,Mamuju,2026-11-12,8,0
+2786,Sulawesi Barat,Mamuju,2026-11-13,8,0
+2787,Sulawesi Barat,Mamuju,2026-11-14,8,0
+2788,Sulawesi Barat,Mamuju,2026-11-15,8,0
+2789,Sulawesi Barat,Mamuju,2026-11-16,8,0
+2790,Sulawesi Barat,Mamuju,2026-11-17,8,0
+2791,Sulawesi Selatan,Makassar,2026-08-20,8,0
+2792,Sulawesi Selatan,Makassar,2026-08-21,8,0
+2793,Sulawesi Selatan,Makassar,2026-08-22,8,0
+2794,Sulawesi Selatan,Makassar,2026-08-23,8,0
+2795,Sulawesi Selatan,Makassar,2026-08-24,8,0
+2796,Sulawesi Selatan,Makassar,2026-08-25,8,0
+2797,Sulawesi Selatan,Makassar,2026-08-26,8,0
+2798,Sulawesi Selatan,Makassar,2026-08-27,8,0
+2799,Sulawesi Selatan,Makassar,2026-08-28,8,0
+2800,Sulawesi Selatan,Makassar,2026-08-29,8,0
+2801,Sulawesi Selatan,Makassar,2026-08-30,8,0
+2802,Sulawesi Selatan,Makassar,2026-08-31,8,0
+2803,Sulawesi Selatan,Makassar,2026-09-01,8,0
+2804,Sulawesi Selatan,Makassar,2026-09-02,8,0
+2805,Sulawesi Selatan,Makassar,2026-09-03,8,0
+2806,Sulawesi Selatan,Makassar,2026-09-04,8,0
+2807,Sulawesi Selatan,Makassar,2026-09-05,8,0
+2808,Sulawesi Selatan,Makassar,2026-09-06,8,0
+2809,Sulawesi Selatan,Makassar,2026-09-07,8,0
+2810,Sulawesi Selatan,Makassar,2026-09-08,8,0
+2811,Sulawesi Selatan,Makassar,2026-09-09,8,0
+2812,Sulawesi Selatan,Makassar,2026-09-10,8,0
+2813,Sulawesi Selatan,Makassar,2026-09-11,8,0
+2814,Sulawesi Selatan,Makassar,2026-09-12,8,0
+2815,Sulawesi Selatan,Makassar,2026-09-13,8,0
+2816,Sulawesi Selatan,Makassar,2026-09-14,8,0
+2817,Sulawesi Selatan,Makassar,2026-09-15,8,0
+2818,Sulawesi Selatan,Makassar,2026-09-16,8,0
+2819,Sulawesi Selatan,Makassar,2026-09-17,8,0
+2820,Sulawesi Selatan,Makassar,2026-09-18,8,0
+2821,Sulawesi Selatan,Makassar,2026-09-19,8,0
+2822,Sulawesi Selatan,Makassar,2026-09-20,8,0
+2823,Sulawesi Selatan,Makassar,2026-09-21,8,0
+2824,Sulawesi Selatan,Makassar,2026-09-22,8,0
+2825,Sulawesi Selatan,Makassar,2026-09-23,8,0
+2826,Sulawesi Selatan,Makassar,2026-09-24,8,0
+2827,Sulawesi Selatan,Makassar,2026-09-25,8,0
+2828,Sulawesi Selatan,Makassar,2026-09-26,8,0
+2829,Sulawesi Selatan,Makassar,2026-09-27,8,0
+2830,Sulawesi Selatan,Makassar,2026-09-28,8,0
+2831,Sulawesi Selatan,Makassar,2026-09-29,8,0
+2832,Sulawesi Selatan,Makassar,2026-09-30,8,0
+2833,Sulawesi Selatan,Makassar,2026-10-01,8,0
+2834,Sulawesi Selatan,Makassar,2026-10-02,8,0
+2835,Sulawesi Selatan,Makassar,2026-10-03,8,0
+2836,Sulawesi Selatan,Makassar,2026-10-04,8,0
+2837,Sulawesi Selatan,Makassar,2026-10-05,8,0
+2838,Sulawesi Selatan,Makassar,2026-10-06,8,0
+2839,Sulawesi Selatan,Makassar,2026-10-07,8,0
+2840,Sulawesi Selatan,Makassar,2026-10-08,8,0
+2841,Sulawesi Selatan,Makassar,2026-10-09,8,0
+2842,Sulawesi Selatan,Makassar,2026-10-10,8,0
+2843,Sulawesi Selatan,Makassar,2026-10-11,8,0
+2844,Sulawesi Selatan,Makassar,2026-10-12,8,0
+2845,Sulawesi Selatan,Makassar,2026-10-13,8,0
+2846,Sulawesi Selatan,Makassar,2026-10-14,8,0
+2847,Sulawesi Selatan,Makassar,2026-10-15,8,0
+2848,Sulawesi Selatan,Makassar,2026-10-16,8,0
+2849,Sulawesi Selatan,Makassar,2026-10-17,8,0
+2850,Sulawesi Selatan,Makassar,2026-10-18,8,0
+2851,Sulawesi Selatan,Makassar,2026-10-19,8,0
+2852,Sulawesi Selatan,Makassar,2026-10-20,8,0
+2853,Sulawesi Selatan,Makassar,2026-10-21,8,0
+2854,Sulawesi Selatan,Makassar,2026-10-22,8,0
+2855,Sulawesi Selatan,Makassar,2026-10-23,8,0
+2856,Sulawesi Selatan,Makassar,2026-10-24,8,0
+2857,Sulawesi Selatan,Makassar,2026-10-25,8,0
+2858,Sulawesi Selatan,Makassar,2026-10-26,8,0
+2859,Sulawesi Selatan,Makassar,2026-10-27,8,0
+2860,Sulawesi Selatan,Makassar,2026-10-28,8,0
+2861,Sulawesi Selatan,Makassar,2026-10-29,8,0
+2862,Sulawesi Selatan,Makassar,2026-10-30,8,0
+2863,Sulawesi Selatan,Makassar,2026-10-31,8,0
+2864,Sulawesi Selatan,Makassar,2026-11-01,8,0
+2865,Sulawesi Selatan,Makassar,2026-11-02,8,0
+2866,Sulawesi Selatan,Makassar,2026-11-03,8,0
+2867,Sulawesi Selatan,Makassar,2026-11-04,8,0
+2868,Sulawesi Selatan,Makassar,2026-11-05,8,0
+2869,Sulawesi Selatan,Makassar,2026-11-06,8,0
+2870,Sulawesi Selatan,Makassar,2026-11-07,8,0
+2871,Sulawesi Selatan,Makassar,2026-11-08,8,0
+2872,Sulawesi Selatan,Makassar,2026-11-09,8,0
+2873,Sulawesi Selatan,Makassar,2026-11-10,8,0
+2874,Sulawesi Selatan,Makassar,2026-11-11,8,0
+2875,Sulawesi Selatan,Makassar,2026-11-12,8,0
+2876,Sulawesi Selatan,Makassar,2026-11-13,8,0
+2877,Sulawesi Selatan,Makassar,2026-11-14,8,0
+2878,Sulawesi Selatan,Makassar,2026-11-15,8,0
+2879,Sulawesi Selatan,Makassar,2026-11-16,8,0
+2880,Sulawesi Selatan,Makassar,2026-11-17,8,0
+2881,Sulawesi Tengah,Palu,2026-08-20,8,0
+2882,Sulawesi Tengah,Palu,2026-08-21,8,0
+2883,Sulawesi Tengah,Palu,2026-08-22,8,0
+2884,Sulawesi Tengah,Palu,2026-08-23,8,0
+2885,Sulawesi Tengah,Palu,2026-08-24,8,0
+2886,Sulawesi Tengah,Palu,2026-08-25,8,0
+2887,Sulawesi Tengah,Palu,2026-08-26,8,0
+2888,Sulawesi Tengah,Palu,2026-08-27,8,0
+2889,Sulawesi Tengah,Palu,2026-08-28,8,0
+2890,Sulawesi Tengah,Palu,2026-08-29,8,0
+2891,Sulawesi Tengah,Palu,2026-08-30,8,0
+2892,Sulawesi Tengah,Palu,2026-08-31,8,0
+2893,Sulawesi Tengah,Palu,2026-09-01,8,0
+2894,Sulawesi Tengah,Palu,2026-09-02,8,0
+2895,Sulawesi Tengah,Palu,2026-09-03,8,0
+2896,Sulawesi Tengah,Palu,2026-09-04,8,0
+2897,Sulawesi Tengah,Palu,2026-09-05,8,0
+2898,Sulawesi Tengah,Palu,2026-09-06,8,0
+2899,Sulawesi Tengah,Palu,2026-09-07,8,0
+2900,Sulawesi Tengah,Palu,2026-09-08,8,0
+2901,Sulawesi Tengah,Palu,2026-09-09,8,0
+2902,Sulawesi Tengah,Palu,2026-09-10,8,0
+2903,Sulawesi Tengah,Palu,2026-09-11,8,0
+2904,Sulawesi Tengah,Palu,2026-09-12,8,0
+2905,Sulawesi Tengah,Palu,2026-09-13,8,0
+2906,Sulawesi Tengah,Palu,2026-09-14,8,0
+2907,Sulawesi Tengah,Palu,2026-09-15,8,0
+2908,Sulawesi Tengah,Palu,2026-09-16,8,0
+2909,Sulawesi Tengah,Palu,2026-09-17,8,0
+2910,Sulawesi Tengah,Palu,2026-09-18,8,0
+2911,Sulawesi Tengah,Palu,2026-09-19,8,0
+2912,Sulawesi Tengah,Palu,2026-09-20,8,0
+2913,Sulawesi Tengah,Palu,2026-09-21,8,0
+2914,Sulawesi Tengah,Palu,2026-09-22,8,0
+2915,Sulawesi Tengah,Palu,2026-09-23,8,0
+2916,Sulawesi Tengah,Palu,2026-09-24,8,0
+2917,Sulawesi Tengah,Palu,2026-09-25,8,0
+2918,Sulawesi Tengah,Palu,2026-09-26,8,0
+2919,Sulawesi Tengah,Palu,2026-09-27,8,0
+2920,Sulawesi Tengah,Palu,2026-09-28,8,0
+2921,Sulawesi Tengah,Palu,2026-09-29,8,0
+2922,Sulawesi Tengah,Palu,2026-09-30,8,0
+2923,Sulawesi Tengah,Palu,2026-10-01,8,0
+2924,Sulawesi Tengah,Palu,2026-10-02,8,0
+2925,Sulawesi Tengah,Palu,2026-10-03,8,0
+2926,Sulawesi Tengah,Palu,2026-10-04,8,0
+2927,Sulawesi Tengah,Palu,2026-10-05,8,0
+2928,Sulawesi Tengah,Palu,2026-10-06,8,0
+2929,Sulawesi Tengah,Palu,2026-10-07,8,0
+2930,Sulawesi Tengah,Palu,2026-10-08,8,0
+2931,Sulawesi Tengah,Palu,2026-10-09,8,0
+2932,Sulawesi Tengah,Palu,2026-10-10,8,0
+2933,Sulawesi Tengah,Palu,2026-10-11,8,0
+2934,Sulawesi Tengah,Palu,2026-10-12,8,0
+2935,Sulawesi Tengah,Palu,2026-10-13,8,0
+2936,Sulawesi Tengah,Palu,2026-10-14,8,0
+2937,Sulawesi Tengah,Palu,2026-10-15,8,0
+2938,Sulawesi Tengah,Palu,2026-10-16,8,0
+2939,Sulawesi Tengah,Palu,2026-10-17,8,0
+2940,Sulawesi Tengah,Palu,2026-10-18,8,0
+2941,Sulawesi Tengah,Palu,2026-10-19,8,0
+2942,Sulawesi Tengah,Palu,2026-10-20,8,0
+2943,Sulawesi Tengah,Palu,2026-10-21,8,0
+2944,Sulawesi Tengah,Palu,2026-10-22,8,0
+2945,Sulawesi Tengah,Palu,2026-10-23,8,0
+2946,Sulawesi Tengah,Palu,2026-10-24,8,0
+2947,Sulawesi Tengah,Palu,2026-10-25,8,0
+2948,Sulawesi Tengah,Palu,2026-10-26,8,0
+2949,Sulawesi Tengah,Palu,2026-10-27,8,0
+2950,Sulawesi Tengah,Palu,2026-10-28,8,0
+2951,Sulawesi Tengah,Palu,2026-10-29,8,0
+2952,Sulawesi Tengah,Palu,2026-10-30,8,0
+2953,Sulawesi Tengah,Palu,2026-10-31,8,0
+2954,Sulawesi Tengah,Palu,2026-11-01,8,0
+2955,Sulawesi Tengah,Palu,2026-11-02,8,0
+2956,Sulawesi Tengah,Palu,2026-11-03,8,0
+2957,Sulawesi Tengah,Palu,2026-11-04,8,0
+2958,Sulawesi Tengah,Palu,2026-11-05,8,0
+2959,Sulawesi Tengah,Palu,2026-11-06,8,0
+2960,Sulawesi Tengah,Palu,2026-11-07,8,0
+2961,Sulawesi Tengah,Palu,2026-11-08,8,0
+2962,Sulawesi Tengah,Palu,2026-11-09,8,0
+2963,Sulawesi Tengah,Palu,2026-11-10,8,0
+2964,Sulawesi Tengah,Palu,2026-11-11,8,0
+2965,Sulawesi Tengah,Palu,2026-11-12,8,0
+2966,Sulawesi Tengah,Palu,2026-11-13,8,0
+2967,Sulawesi Tengah,Palu,2026-11-14,8,0
+2968,Sulawesi Tengah,Palu,2026-11-15,8,0
+2969,Sulawesi Tengah,Palu,2026-11-16,8,0
+2970,Sulawesi Tengah,Palu,2026-11-17,8,0
+2971,Sulawesi Tenggara,Kendari,2026-08-20,8,0
+2972,Sulawesi Tenggara,Kendari,2026-08-21,8,0
+2973,Sulawesi Tenggara,Kendari,2026-08-22,8,0
+2974,Sulawesi Tenggara,Kendari,2026-08-23,8,0
+2975,Sulawesi Tenggara,Kendari,2026-08-24,8,0
+2976,Sulawesi Tenggara,Kendari,2026-08-25,8,0
+2977,Sulawesi Tenggara,Kendari,2026-08-26,8,0
+2978,Sulawesi Tenggara,Kendari,2026-08-27,8,0
+2979,Sulawesi Tenggara,Kendari,2026-08-28,8,0
+2980,Sulawesi Tenggara,Kendari,2026-08-29,8,0
+2981,Sulawesi Tenggara,Kendari,2026-08-30,8,0
+2982,Sulawesi Tenggara,Kendari,2026-08-31,8,0
+2983,Sulawesi Tenggara,Kendari,2026-09-01,8,0
+2984,Sulawesi Tenggara,Kendari,2026-09-02,8,0
+2985,Sulawesi Tenggara,Kendari,2026-09-03,8,0
+2986,Sulawesi Tenggara,Kendari,2026-09-04,8,0
+2987,Sulawesi Tenggara,Kendari,2026-09-05,8,0
+2988,Sulawesi Tenggara,Kendari,2026-09-06,8,0
+2989,Sulawesi Tenggara,Kendari,2026-09-07,8,0
+2990,Sulawesi Tenggara,Kendari,2026-09-08,8,0
+2991,Sulawesi Tenggara,Kendari,2026-09-09,8,0
+2992,Sulawesi Tenggara,Kendari,2026-09-10,8,0
+2993,Sulawesi Tenggara,Kendari,2026-09-11,8,0
+2994,Sulawesi Tenggara,Kendari,2026-09-12,8,0
+2995,Sulawesi Tenggara,Kendari,2026-09-13,8,0
+2996,Sulawesi Tenggara,Kendari,2026-09-14,8,0
+2997,Sulawesi Tenggara,Kendari,2026-09-15,8,0
+2998,Sulawesi Tenggara,Kendari,2026-09-16,8,0
+2999,Sulawesi Tenggara,Kendari,2026-09-17,8,0
+3000,Sulawesi Tenggara,Kendari,2026-09-18,8,0
+3001,Sulawesi Tenggara,Kendari,2026-09-19,8,0
+3002,Sulawesi Tenggara,Kendari,2026-09-20,8,0
+3003,Sulawesi Tenggara,Kendari,2026-09-21,8,0
+3004,Sulawesi Tenggara,Kendari,2026-09-22,8,0
+3005,Sulawesi Tenggara,Kendari,2026-09-23,8,0
+3006,Sulawesi Tenggara,Kendari,2026-09-24,8,0
+3007,Sulawesi Tenggara,Kendari,2026-09-25,8,0
+3008,Sulawesi Tenggara,Kendari,2026-09-26,8,0
+3009,Sulawesi Tenggara,Kendari,2026-09-27,8,0
+3010,Sulawesi Tenggara,Kendari,2026-09-28,8,0
+3011,Sulawesi Tenggara,Kendari,2026-09-29,8,0
+3012,Sulawesi Tenggara,Kendari,2026-09-30,8,0
+3013,Sulawesi Tenggara,Kendari,2026-10-01,8,0
+3014,Sulawesi Tenggara,Kendari,2026-10-02,8,0
+3015,Sulawesi Tenggara,Kendari,2026-10-03,8,0
+3016,Sulawesi Tenggara,Kendari,2026-10-04,8,0
+3017,Sulawesi Tenggara,Kendari,2026-10-05,8,0
+3018,Sulawesi Tenggara,Kendari,2026-10-06,8,0
+3019,Sulawesi Tenggara,Kendari,2026-10-07,8,0
+3020,Sulawesi Tenggara,Kendari,2026-10-08,8,0
+3021,Sulawesi Tenggara,Kendari,2026-10-09,8,0
+3022,Sulawesi Tenggara,Kendari,2026-10-10,8,0
+3023,Sulawesi Tenggara,Kendari,2026-10-11,8,0
+3024,Sulawesi Tenggara,Kendari,2026-10-12,8,0
+3025,Sulawesi Tenggara,Kendari,2026-10-13,8,0
+3026,Sulawesi Tenggara,Kendari,2026-10-14,8,0
+3027,Sulawesi Tenggara,Kendari,2026-10-15,8,0
+3028,Sulawesi Tenggara,Kendari,2026-10-16,8,0
+3029,Sulawesi Tenggara,Kendari,2026-10-17,8,0
+3030,Sulawesi Tenggara,Kendari,2026-10-18,8,0
+3031,Sulawesi Tenggara,Kendari,2026-10-19,8,0
+3032,Sulawesi Tenggara,Kendari,2026-10-20,8,0
+3033,Sulawesi Tenggara,Kendari,2026-10-21,8,0
+3034,Sulawesi Tenggara,Kendari,2026-10-22,8,0
+3035,Sulawesi Tenggara,Kendari,2026-10-23,8,0
+3036,Sulawesi Tenggara,Kendari,2026-10-24,8,0
+3037,Sulawesi Tenggara,Kendari,2026-10-25,8,0
+3038,Sulawesi Tenggara,Kendari,2026-10-26,8,0
+3039,Sulawesi Tenggara,Kendari,2026-10-27,8,0
+3040,Sulawesi Tenggara,Kendari,2026-10-28,8,0
+3041,Sulawesi Tenggara,Kendari,2026-10-29,8,0
+3042,Sulawesi Tenggara,Kendari,2026-10-30,8,0
+3043,Sulawesi Tenggara,Kendari,2026-10-31,8,0
+3044,Sulawesi Tenggara,Kendari,2026-11-01,8,0
+3045,Sulawesi Tenggara,Kendari,2026-11-02,8,0
+3046,Sulawesi Tenggara,Kendari,2026-11-03,8,0
+3047,Sulawesi Tenggara,Kendari,2026-11-04,8,0
+3048,Sulawesi Tenggara,Kendari,2026-11-05,8,0
+3049,Sulawesi Tenggara,Kendari,2026-11-06,8,0
+3050,Sulawesi Tenggara,Kendari,2026-11-07,8,0
+3051,Sulawesi Tenggara,Kendari,2026-11-08,8,0
+3052,Sulawesi Tenggara,Kendari,2026-11-09,8,0
+3053,Sulawesi Tenggara,Kendari,2026-11-10,8,0
+3054,Sulawesi Tenggara,Kendari,2026-11-11,8,0
+3055,Sulawesi Tenggara,Kendari,2026-11-12,8,0
+3056,Sulawesi Tenggara,Kendari,2026-11-13,8,0
+3057,Sulawesi Tenggara,Kendari,2026-11-14,8,0
+3058,Sulawesi Tenggara,Kendari,2026-11-15,8,0
+3059,Sulawesi Tenggara,Kendari,2026-11-16,8,0
+3060,Sulawesi Tenggara,Kendari,2026-11-17,8,0
+3061,Sulawesi Utara,Manado,2026-08-20,8,0
+3062,Sulawesi Utara,Manado,2026-08-21,8,0
+3063,Sulawesi Utara,Manado,2026-08-22,8,0
+3064,Sulawesi Utara,Manado,2026-08-23,8,0
+3065,Sulawesi Utara,Manado,2026-08-24,8,0
+3066,Sulawesi Utara,Manado,2026-08-25,8,0
+3067,Sulawesi Utara,Manado,2026-08-26,8,0
+3068,Sulawesi Utara,Manado,2026-08-27,8,0
+3069,Sulawesi Utara,Manado,2026-08-28,8,0
+3070,Sulawesi Utara,Manado,2026-08-29,8,0
+3071,Sulawesi Utara,Manado,2026-08-30,8,0
+3072,Sulawesi Utara,Manado,2026-08-31,8,0
+3073,Sulawesi Utara,Manado,2026-09-01,8,0
+3074,Sulawesi Utara,Manado,2026-09-02,8,0
+3075,Sulawesi Utara,Manado,2026-09-03,8,0
+3076,Sulawesi Utara,Manado,2026-09-04,8,0
+3077,Sulawesi Utara,Manado,2026-09-05,8,0
+3078,Sulawesi Utara,Manado,2026-09-06,8,0
+3079,Sulawesi Utara,Manado,2026-09-07,8,0
+3080,Sulawesi Utara,Manado,2026-09-08,8,0
+3081,Sulawesi Utara,Manado,2026-09-09,8,0
+3082,Sulawesi Utara,Manado,2026-09-10,8,0
+3083,Sulawesi Utara,Manado,2026-09-11,8,0
+3084,Sulawesi Utara,Manado,2026-09-12,8,0
+3085,Sulawesi Utara,Manado,2026-09-13,8,0
+3086,Sulawesi Utara,Manado,2026-09-14,8,0
+3087,Sulawesi Utara,Manado,2026-09-15,8,0
+3088,Sulawesi Utara,Manado,2026-09-16,8,0
+3089,Sulawesi Utara,Manado,2026-09-17,8,0
+3090,Sulawesi Utara,Manado,2026-09-18,8,0
+3091,Sulawesi Utara,Manado,2026-09-19,8,0
+3092,Sulawesi Utara,Manado,2026-09-20,8,0
+3093,Sulawesi Utara,Manado,2026-09-21,8,0
+3094,Sulawesi Utara,Manado,2026-09-22,8,0
+3095,Sulawesi Utara,Manado,2026-09-23,8,0
+3096,Sulawesi Utara,Manado,2026-09-24,8,0
+3097,Sulawesi Utara,Manado,2026-09-25,8,0
+3098,Sulawesi Utara,Manado,2026-09-26,8,0
+3099,Sulawesi Utara,Manado,2026-09-27,8,0
+3100,Sulawesi Utara,Manado,2026-09-28,8,0
+3101,Sulawesi Utara,Manado,2026-09-29,8,0
+3102,Sulawesi Utara,Manado,2026-09-30,8,0
+3103,Sulawesi Utara,Manado,2026-10-01,8,0
+3104,Sulawesi Utara,Manado,2026-10-02,8,0
+3105,Sulawesi Utara,Manado,2026-10-03,8,0
+3106,Sulawesi Utara,Manado,2026-10-04,8,0
+3107,Sulawesi Utara,Manado,2026-10-05,8,0
+3108,Sulawesi Utara,Manado,2026-10-06,8,0
+3109,Sulawesi Utara,Manado,2026-10-07,8,0
+3110,Sulawesi Utara,Manado,2026-10-08,8,0
+3111,Sulawesi Utara,Manado,2026-10-09,8,0
+3112,Sulawesi Utara,Manado,2026-10-10,8,0
+3113,Sulawesi Utara,Manado,2026-10-11,8,0
+3114,Sulawesi Utara,Manado,2026-10-12,8,0
+3115,Sulawesi Utara,Manado,2026-10-13,8,0
+3116,Sulawesi Utara,Manado,2026-10-14,8,0
+3117,Sulawesi Utara,Manado,2026-10-15,8,0
+3118,Sulawesi Utara,Manado,2026-10-16,8,0
+3119,Sulawesi Utara,Manado,2026-10-17,8,0
+3120,Sulawesi Utara,Manado,2026-10-18,8,0
+3121,Sulawesi Utara,Manado,2026-10-19,8,0
+3122,Sulawesi Utara,Manado,2026-10-20,8,0
+3123,Sulawesi Utara,Manado,2026-10-21,8,0
+3124,Sulawesi Utara,Manado,2026-10-22,8,0
+3125,Sulawesi Utara,Manado,2026-10-23,8,0
+3126,Sulawesi Utara,Manado,2026-10-24,8,0
+3127,Sulawesi Utara,Manado,2026-10-25,8,0
+3128,Sulawesi Utara,Manado,2026-10-26,8,0
+3129,Sulawesi Utara,Manado,2026-10-27,8,0
+3130,Sulawesi Utara,Manado,2026-10-28,8,0
+3131,Sulawesi Utara,Manado,2026-10-29,8,0
+3132,Sulawesi Utara,Manado,2026-10-30,8,0
+3133,Sulawesi Utara,Manado,2026-10-31,8,0
+3134,Sulawesi Utara,Manado,2026-11-01,8,0
+3135,Sulawesi Utara,Manado,2026-11-02,8,0
+3136,Sulawesi Utara,Manado,2026-11-03,8,0
+3137,Sulawesi Utara,Manado,2026-11-04,8,0
+3138,Sulawesi Utara,Manado,2026-11-05,8,0
+3139,Sulawesi Utara,Manado,2026-11-06,8,0
+3140,Sulawesi Utara,Manado,2026-11-07,8,0
+3141,Sulawesi Utara,Manado,2026-11-08,8,0
+3142,Sulawesi Utara,Manado,2026-11-09,8,0
+3143,Sulawesi Utara,Manado,2026-11-10,8,0
+3144,Sulawesi Utara,Manado,2026-11-11,8,0
+3145,Sulawesi Utara,Manado,2026-11-12,8,0
+3146,Sulawesi Utara,Manado,2026-11-13,8,0
+3147,Sulawesi Utara,Manado,2026-11-14,8,0
+3148,Sulawesi Utara,Manado,2026-11-15,8,0
+3149,Sulawesi Utara,Manado,2026-11-16,8,0
+3150,Sulawesi Utara,Manado,2026-11-17,8,0
+3151,Sumatera Barat,Padang,2026-08-20,8,0
+3152,Sumatera Barat,Padang,2026-08-21,8,0
+3153,Sumatera Barat,Padang,2026-08-22,8,0
+3154,Sumatera Barat,Padang,2026-08-23,8,0
+3155,Sumatera Barat,Padang,2026-08-24,8,0
+3156,Sumatera Barat,Padang,2026-08-25,8,0
+3157,Sumatera Barat,Padang,2026-08-26,8,0
+3158,Sumatera Barat,Padang,2026-08-27,8,0
+3159,Sumatera Barat,Padang,2026-08-28,8,0
+3160,Sumatera Barat,Padang,2026-08-29,8,0
+3161,Sumatera Barat,Padang,2026-08-30,8,0
+3162,Sumatera Barat,Padang,2026-08-31,8,0
+3163,Sumatera Barat,Padang,2026-09-01,8,0
+3164,Sumatera Barat,Padang,2026-09-02,8,0
+3165,Sumatera Barat,Padang,2026-09-03,8,0
+3166,Sumatera Barat,Padang,2026-09-04,8,0
+3167,Sumatera Barat,Padang,2026-09-05,8,0
+3168,Sumatera Barat,Padang,2026-09-06,8,0
+3169,Sumatera Barat,Padang,2026-09-07,8,0
+3170,Sumatera Barat,Padang,2026-09-08,8,0
+3171,Sumatera Barat,Padang,2026-09-09,8,0
+3172,Sumatera Barat,Padang,2026-09-10,8,0
+3173,Sumatera Barat,Padang,2026-09-11,8,0
+3174,Sumatera Barat,Padang,2026-09-12,8,0
+3175,Sumatera Barat,Padang,2026-09-13,8,0
+3176,Sumatera Barat,Padang,2026-09-14,8,0
+3177,Sumatera Barat,Padang,2026-09-15,8,0
+3178,Sumatera Barat,Padang,2026-09-16,8,0
+3179,Sumatera Barat,Padang,2026-09-17,8,0
+3180,Sumatera Barat,Padang,2026-09-18,8,0
+3181,Sumatera Barat,Padang,2026-09-19,8,0
+3182,Sumatera Barat,Padang,2026-09-20,8,0
+3183,Sumatera Barat,Padang,2026-09-21,8,0
+3184,Sumatera Barat,Padang,2026-09-22,8,0
+3185,Sumatera Barat,Padang,2026-09-23,8,0
+3186,Sumatera Barat,Padang,2026-09-24,8,0
+3187,Sumatera Barat,Padang,2026-09-25,8,0
+3188,Sumatera Barat,Padang,2026-09-26,8,0
+3189,Sumatera Barat,Padang,2026-09-27,8,0
+3190,Sumatera Barat,Padang,2026-09-28,8,0
+3191,Sumatera Barat,Padang,2026-09-29,8,0
+3192,Sumatera Barat,Padang,2026-09-30,8,0
+3193,Sumatera Barat,Padang,2026-10-01,8,0
+3194,Sumatera Barat,Padang,2026-10-02,8,0
+3195,Sumatera Barat,Padang,2026-10-03,8,0
+3196,Sumatera Barat,Padang,2026-10-04,8,0
+3197,Sumatera Barat,Padang,2026-10-05,8,0
+3198,Sumatera Barat,Padang,2026-10-06,8,0
+3199,Sumatera Barat,Padang,2026-10-07,8,0
+3200,Sumatera Barat,Padang,2026-10-08,8,0
+3201,Sumatera Barat,Padang,2026-10-09,8,0
+3202,Sumatera Barat,Padang,2026-10-10,8,0
+3203,Sumatera Barat,Padang,2026-10-11,8,0
+3204,Sumatera Barat,Padang,2026-10-12,8,0
+3205,Sumatera Barat,Padang,2026-10-13,8,0
+3206,Sumatera Barat,Padang,2026-10-14,8,0
+3207,Sumatera Barat,Padang,2026-10-15,8,0
+3208,Sumatera Barat,Padang,2026-10-16,8,0
+3209,Sumatera Barat,Padang,2026-10-17,8,0
+3210,Sumatera Barat,Padang,2026-10-18,8,0
+3211,Sumatera Barat,Padang,2026-10-19,8,0
+3212,Sumatera Barat,Padang,2026-10-20,8,0
+3213,Sumatera Barat,Padang,2026-10-21,8,0
+3214,Sumatera Barat,Padang,2026-10-22,8,0
+3215,Sumatera Barat,Padang,2026-10-23,8,0
+3216,Sumatera Barat,Padang,2026-10-24,8,0
+3217,Sumatera Barat,Padang,2026-10-25,8,0
+3218,Sumatera Barat,Padang,2026-10-26,8,0
+3219,Sumatera Barat,Padang,2026-10-27,8,0
+3220,Sumatera Barat,Padang,2026-10-28,8,0
+3221,Sumatera Barat,Padang,2026-10-29,8,0
+3222,Sumatera Barat,Padang,2026-10-30,8,0
+3223,Sumatera Barat,Padang,2026-10-31,8,0
+3224,Sumatera Barat,Padang,2026-11-01,8,0
+3225,Sumatera Barat,Padang,2026-11-02,8,0
+3226,Sumatera Barat,Padang,2026-11-03,8,0
+3227,Sumatera Barat,Padang,2026-11-04,8,0
+3228,Sumatera Barat,Padang,2026-11-05,8,0
+3229,Sumatera Barat,Padang,2026-11-06,8,0
+3230,Sumatera Barat,Padang,2026-11-07,8,0
+3231,Sumatera Barat,Padang,2026-11-08,8,0
+3232,Sumatera Barat,Padang,2026-11-09,8,0
+3233,Sumatera Barat,Padang,2026-11-10,8,0
+3234,Sumatera Barat,Padang,2026-11-11,8,0
+3235,Sumatera Barat,Padang,2026-11-12,8,0
+3236,Sumatera Barat,Padang,2026-11-13,8,0
+3237,Sumatera Barat,Padang,2026-11-14,8,0
+3238,Sumatera Barat,Padang,2026-11-15,8,0
+3239,Sumatera Barat,Padang,2026-11-16,8,0
+3240,Sumatera Barat,Padang,2026-11-17,8,0
+3241,Sumatera Selatan,Palembang,2026-08-20,8,0
+3242,Sumatera Selatan,Palembang,2026-08-21,8,0
+3243,Sumatera Selatan,Palembang,2026-08-22,8,0
+3244,Sumatera Selatan,Palembang,2026-08-23,8,0
+3245,Sumatera Selatan,Palembang,2026-08-24,8,0
+3246,Sumatera Selatan,Palembang,2026-08-25,8,0
+3247,Sumatera Selatan,Palembang,2026-08-26,8,0
+3248,Sumatera Selatan,Palembang,2026-08-27,8,0
+3249,Sumatera Selatan,Palembang,2026-08-28,8,0
+3250,Sumatera Selatan,Palembang,2026-08-29,8,0
+3251,Sumatera Selatan,Palembang,2026-08-30,8,0
+3252,Sumatera Selatan,Palembang,2026-08-31,8,0
+3253,Sumatera Selatan,Palembang,2026-09-01,8,0
+3254,Sumatera Selatan,Palembang,2026-09-02,8,0
+3255,Sumatera Selatan,Palembang,2026-09-03,8,0
+3256,Sumatera Selatan,Palembang,2026-09-04,8,0
+3257,Sumatera Selatan,Palembang,2026-09-05,8,0
+3258,Sumatera Selatan,Palembang,2026-09-06,8,0
+3259,Sumatera Selatan,Palembang,2026-09-07,8,0
+3260,Sumatera Selatan,Palembang,2026-09-08,8,0
+3261,Sumatera Selatan,Palembang,2026-09-09,8,0
+3262,Sumatera Selatan,Palembang,2026-09-10,8,0
+3263,Sumatera Selatan,Palembang,2026-09-11,8,0
+3264,Sumatera Selatan,Palembang,2026-09-12,8,0
+3265,Sumatera Selatan,Palembang,2026-09-13,8,0
+3266,Sumatera Selatan,Palembang,2026-09-14,8,0
+3267,Sumatera Selatan,Palembang,2026-09-15,8,0
+3268,Sumatera Selatan,Palembang,2026-09-16,8,0
+3269,Sumatera Selatan,Palembang,2026-09-17,8,0
+3270,Sumatera Selatan,Palembang,2026-09-18,8,0
+3271,Sumatera Selatan,Palembang,2026-09-19,8,0
+3272,Sumatera Selatan,Palembang,2026-09-20,8,0
+3273,Sumatera Selatan,Palembang,2026-09-21,8,0
+3274,Sumatera Selatan,Palembang,2026-09-22,8,0
+3275,Sumatera Selatan,Palembang,2026-09-23,8,0
+3276,Sumatera Selatan,Palembang,2026-09-24,8,0
+3277,Sumatera Selatan,Palembang,2026-09-25,8,0
+3278,Sumatera Selatan,Palembang,2026-09-26,8,0
+3279,Sumatera Selatan,Palembang,2026-09-27,8,0
+3280,Sumatera Selatan,Palembang,2026-09-28,8,0
+3281,Sumatera Selatan,Palembang,2026-09-29,8,0
+3282,Sumatera Selatan,Palembang,2026-09-30,8,0
+3283,Sumatera Selatan,Palembang,2026-10-01,8,0
+3284,Sumatera Selatan,Palembang,2026-10-02,8,0
+3285,Sumatera Selatan,Palembang,2026-10-03,8,0
+3286,Sumatera Selatan,Palembang,2026-10-04,8,0
+3287,Sumatera Selatan,Palembang,2026-10-05,8,0
+3288,Sumatera Selatan,Palembang,2026-10-06,8,0
+3289,Sumatera Selatan,Palembang,2026-10-07,8,0
+3290,Sumatera Selatan,Palembang,2026-10-08,8,0
+3291,Sumatera Selatan,Palembang,2026-10-09,8,0
+3292,Sumatera Selatan,Palembang,2026-10-10,8,0
+3293,Sumatera Selatan,Palembang,2026-10-11,8,0
+3294,Sumatera Selatan,Palembang,2026-10-12,8,0
+3295,Sumatera Selatan,Palembang,2026-10-13,8,0
+3296,Sumatera Selatan,Palembang,2026-10-14,8,0
+3297,Sumatera Selatan,Palembang,2026-10-15,8,0
+3298,Sumatera Selatan,Palembang,2026-10-16,8,0
+3299,Sumatera Selatan,Palembang,2026-10-17,8,0
+3300,Sumatera Selatan,Palembang,2026-10-18,8,0
+3301,Sumatera Selatan,Palembang,2026-10-19,8,0
+3302,Sumatera Selatan,Palembang,2026-10-20,8,0
+3303,Sumatera Selatan,Palembang,2026-10-21,8,0
+3304,Sumatera Selatan,Palembang,2026-10-22,8,0
+3305,Sumatera Selatan,Palembang,2026-10-23,8,0
+3306,Sumatera Selatan,Palembang,2026-10-24,8,0
+3307,Sumatera Selatan,Palembang,2026-10-25,8,0
+3308,Sumatera Selatan,Palembang,2026-10-26,8,0
+3309,Sumatera Selatan,Palembang,2026-10-27,8,0
+3310,Sumatera Selatan,Palembang,2026-10-28,8,0
+3311,Sumatera Selatan,Palembang,2026-10-29,8,0
+3312,Sumatera Selatan,Palembang,2026-10-30,8,0
+3313,Sumatera Selatan,Palembang,2026-10-31,8,0
+3314,Sumatera Selatan,Palembang,2026-11-01,8,0
+3315,Sumatera Selatan,Palembang,2026-11-02,8,0
+3316,Sumatera Selatan,Palembang,2026-11-03,8,0
+3317,Sumatera Selatan,Palembang,2026-11-04,8,0
+3318,Sumatera Selatan,Palembang,2026-11-05,8,0
+3319,Sumatera Selatan,Palembang,2026-11-06,8,0
+3320,Sumatera Selatan,Palembang,2026-11-07,8,0
+3321,Sumatera Selatan,Palembang,2026-11-08,8,0
+3322,Sumatera Selatan,Palembang,2026-11-09,8,0
+3323,Sumatera Selatan,Palembang,2026-11-10,8,0
+3324,Sumatera Selatan,Palembang,2026-11-11,8,0
+3325,Sumatera Selatan,Palembang,2026-11-12,8,0
+3326,Sumatera Selatan,Palembang,2026-11-13,8,0
+3327,Sumatera Selatan,Palembang,2026-11-14,8,0
+3328,Sumatera Selatan,Palembang,2026-11-15,8,0
+3329,Sumatera Selatan,Palembang,2026-11-16,8,0
+3330,Sumatera Selatan,Palembang,2026-11-17,8,0
+3331,Sumatera Utara,Medan,2026-08-20,8,0
+3332,Sumatera Utara,Medan,2026-08-21,8,0
+3333,Sumatera Utara,Medan,2026-08-22,8,0
+3334,Sumatera Utara,Medan,2026-08-23,8,0
+3335,Sumatera Utara,Medan,2026-08-24,8,0
+3336,Sumatera Utara,Medan,2026-08-25,8,0
+3337,Sumatera Utara,Medan,2026-08-26,8,0
+3338,Sumatera Utara,Medan,2026-08-27,8,0
+3339,Sumatera Utara,Medan,2026-08-28,8,0
+3340,Sumatera Utara,Medan,2026-08-29,8,0
+3341,Sumatera Utara,Medan,2026-08-30,8,0
+3342,Sumatera Utara,Medan,2026-08-31,8,0
+3343,Sumatera Utara,Medan,2026-09-01,8,0
+3344,Sumatera Utara,Medan,2026-09-02,8,0
+3345,Sumatera Utara,Medan,2026-09-03,8,0
+3346,Sumatera Utara,Medan,2026-09-04,8,0
+3347,Sumatera Utara,Medan,2026-09-05,8,0
+3348,Sumatera Utara,Medan,2026-09-06,8,0
+3349,Sumatera Utara,Medan,2026-09-07,8,0
+3350,Sumatera Utara,Medan,2026-09-08,8,0
+3351,Sumatera Utara,Medan,2026-09-09,8,0
+3352,Sumatera Utara,Medan,2026-09-10,8,0
+3353,Sumatera Utara,Medan,2026-09-11,8,0
+3354,Sumatera Utara,Medan,2026-09-12,8,0
+3355,Sumatera Utara,Medan,2026-09-13,8,0
+3356,Sumatera Utara,Medan,2026-09-14,8,0
+3357,Sumatera Utara,Medan,2026-09-15,8,0
+3358,Sumatera Utara,Medan,2026-09-16,8,0
+3359,Sumatera Utara,Medan,2026-09-17,8,0
+3360,Sumatera Utara,Medan,2026-09-18,8,0
+3361,Sumatera Utara,Medan,2026-09-19,8,0
+3362,Sumatera Utara,Medan,2026-09-20,8,0
+3363,Sumatera Utara,Medan,2026-09-21,8,0
+3364,Sumatera Utara,Medan,2026-09-22,8,0
+3365,Sumatera Utara,Medan,2026-09-23,8,0
+3366,Sumatera Utara,Medan,2026-09-24,8,0
+3367,Sumatera Utara,Medan,2026-09-25,8,0
+3368,Sumatera Utara,Medan,2026-09-26,8,0
+3369,Sumatera Utara,Medan,2026-09-27,8,0
+3370,Sumatera Utara,Medan,2026-09-28,8,0
+3371,Sumatera Utara,Medan,2026-09-29,8,0
+3372,Sumatera Utara,Medan,2026-09-30,8,0
+3373,Sumatera Utara,Medan,2026-10-01,8,0
+3374,Sumatera Utara,Medan,2026-10-02,8,0
+3375,Sumatera Utara,Medan,2026-10-03,8,0
+3376,Sumatera Utara,Medan,2026-10-04,8,0
+3377,Sumatera Utara,Medan,2026-10-05,8,0
+3378,Sumatera Utara,Medan,2026-10-06,8,0
+3379,Sumatera Utara,Medan,2026-10-07,8,0
+3380,Sumatera Utara,Medan,2026-10-08,8,0
+3381,Sumatera Utara,Medan,2026-10-09,8,0
+3382,Sumatera Utara,Medan,2026-10-10,8,0
+3383,Sumatera Utara,Medan,2026-10-11,8,0
+3384,Sumatera Utara,Medan,2026-10-12,8,0
+3385,Sumatera Utara,Medan,2026-10-13,8,0
+3386,Sumatera Utara,Medan,2026-10-14,8,0
+3387,Sumatera Utara,Medan,2026-10-15,8,0
+3388,Sumatera Utara,Medan,2026-10-16,8,0
+3389,Sumatera Utara,Medan,2026-10-17,8,0
+3390,Sumatera Utara,Medan,2026-10-18,8,0
+3391,Sumatera Utara,Medan,2026-10-19,8,0
+3392,Sumatera Utara,Medan,2026-10-20,8,0
+3393,Sumatera Utara,Medan,2026-10-21,8,0
+3394,Sumatera Utara,Medan,2026-10-22,8,0
+3395,Sumatera Utara,Medan,2026-10-23,8,0
+3396,Sumatera Utara,Medan,2026-10-24,8,0
+3397,Sumatera Utara,Medan,2026-10-25,8,0
+3398,Sumatera Utara,Medan,2026-10-26,8,0
+3399,Sumatera Utara,Medan,2026-10-27,8,0
+3400,Sumatera Utara,Medan,2026-10-28,8,0
+3401,Sumatera Utara,Medan,2026-10-29,8,0
+3402,Sumatera Utara,Medan,2026-10-30,8,0
+3403,Sumatera Utara,Medan,2026-10-31,8,0
+3404,Sumatera Utara,Medan,2026-11-01,8,0
+3405,Sumatera Utara,Medan,2026-11-02,8,0
+3406,Sumatera Utara,Medan,2026-11-03,8,0
+3407,Sumatera Utara,Medan,2026-11-04,8,0
+3408,Sumatera Utara,Medan,2026-11-05,8,0
+3409,Sumatera Utara,Medan,2026-11-06,8,0
+3410,Sumatera Utara,Medan,2026-11-07,8,0
+3411,Sumatera Utara,Medan,2026-11-08,8,0
+3412,Sumatera Utara,Medan,2026-11-09,8,0
+3413,Sumatera Utara,Medan,2026-11-10,8,0
+3414,Sumatera Utara,Medan,2026-11-11,8,0
+3415,Sumatera Utara,Medan,2026-11-12,8,0
+3416,Sumatera Utara,Medan,2026-11-13,8,0
+3417,Sumatera Utara,Medan,2026-11-14,8,0
+3418,Sumatera Utara,Medan,2026-11-15,8,0
+3419,Sumatera Utara,Medan,2026-11-16,8,0
+3420,Sumatera Utara,Medan,2026-11-17,8,0
