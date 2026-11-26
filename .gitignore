@@ -1,0 +1,20 @@
+# File sementara Microsoft Office (Word, Excel, PowerPoint)
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arsip zip sementara lokal
+*.zip
