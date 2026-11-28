@@ -3,9 +3,9 @@
 
 **Mata Kuliah:** Data Mining (Semester 5)  
 **Anggota Kelompok 5:**
-1. **Samuel** — Koordinator Repositori & Pemodelan K-Means
-2. **Andreas** — Visualisasi, Analisis Wilayah/Waktu & Metodologi Teknis
-3. **Elpita** — Dokumentasi, Penyusunan Laporan Akhir & Slide Presentasi
+1. **Samuel** — Pemodelan & Evaluasi K-Means + Laporan Bab III & IV (Pemodelan)
+2. **Andreas** — Analisis & Visualisasi Cluster + Laporan Bab IV (Interpretasi)
+3. **Elpita** — Laporan Akhir (Bab I, II, IV-EDA, V) & Slide Presentasi (PPT)
 
 ---
 
@@ -59,67 +59,78 @@ PROYEK_KUALITAS_UDARA/
 
 ---
 
-## 4. Pembagian Tugas Kelompok (3 Anggota)
+## 4. Pembagian Tugas Kelompok (3 Anggota — Fokus File Proyek di GitHub)
 
-Pembagian dirancang agar **setiap anggota punya area folder/file kerja masing-masing** sehingga tidak sering bentrok (*merge conflict*) saat bekerja bersamaan di Git, namun **ketiganya wajib memahami alur keseluruhan** saat presentasi.
+Pembagian dirancang **seimbang dan adil** untuk sisa pekerjaan di dalam repositori ini. Setiap anggota memegang area folder & file kerja yang jelas sehingga bisa dikerjakan paralel tanpa bentrok (*merge conflict*), namun ketiganya tetap wajib memahami alur keseluruhan.
 
-### 1) Samuel — Koordinator Repositori & Lead Pemodelan K-Means
-**Area Kerja Utama:** `03_GOOGLE_COLAB/`, `02_DATASET/`, dan manajemen repo GitHub.
+### 1) Samuel — Pemodelan & Evaluasi K-Means + Bab III & IV (Pemodelan)
+**Folder Kerja di GitHub:** `03_GOOGLE_COLAB/`, `04_HASIL_ANALISIS/`, dan draf di `05_LAPORAN/`.
 
 **Daftar Tugas:**
-1. Mengelola repositori GitHub, mengundang Andreas & Elpita sebagai *Collaborator*, dan memastikan sinkronisasi repo rapi.
-2. Menyimpan dokumen `catatan_cleaning.txt` sebagai pelengkap audit pembersihan data.
-3. Membuat dan menjalankan notebook **`03_Pemodelan_dan_Evaluasi_KMeans.ipynb`** di Google Colab menggunakan `data_terstandardisasi.csv` (6 fitur, tanpa `id_pengamatan`).
-4. Menjalankan evaluasi kandidat jumlah cluster **$K = 2$ sampai $K = 8$** menggunakan **Elbow Method (SSE/Inertia)**, **Silhouette Score**, **Davies-Bouldin Index (DBI)**, serta mengecek jumlah anggota tiap cluster.
-5. Memimpin diskusi singkat kelompok untuk menetapkan nilai $K$ final yang paling tepat secara metrik dan substantif.
-6. Melatih model K-Means final dan menghasilkan file output:
-   - `04_HASIL_ANALISIS/tabel_evaluasi_k.csv`
-   - `04_HASIL_ANALISIS/hasil_clustering.csv` (gabungan data harian + label cluster)
-   - `04_HASIL_ANALISIS/centroid_cluster_asli.csv` (hasil `inverse_transform` ke µg/m³)
-   - `04_HASIL_ANALISIS/model_kmeans_final.pkl`
-7. Membantu mengecek konsistensi angka antara notebook dan Bab IV laporan.
+1. Melengkapi `04_HASIL_ANALISIS/catatan_cleaning.txt` (ringkasan audit pembersihan data yang sudah ada).
+2. Membuat & menjalankan notebook **`03_GOOGLE_COLAB/03_Pemodelan_KMeans.ipynb`** di Google Colab memakai `data_terstandardisasi.csv` (6 fitur polutan, tanpa `id_pengamatan`):
+   - Menguji kandidat jumlah cluster **$K = 2$ sampai $K = 8$** dengan **Elbow Method (SSE/Inertia)**, **Silhouette Score**, **Davies-Bouldin Index (DBI)**, dan mengecek jumlah anggota tiap cluster.
+   - Setelah sepakat memilih $K$ final bersama Andreas & Elpita, melatih model K-Means final dan menyimpan output ke `04_HASIL_ANALISIS/`:
+     - `tabel_evaluasi_k.csv`
+     - `hasil_clustering.csv` (gabungan `dataset_harian.csv` + label cluster)
+     - `centroid_cluster_asli.csv` (hasil `inverse_transform` ke µg/m³)
+     - `model_kmeans_final.pkl`
+   - Membuat **2 grafik evaluasi & sebaran model** di `04_HASIL_ANALISIS/visualisasi/`:
+     - `01_evaluasi_elbow_silhouette.png`
+     - `02_sebaran_cluster_pca.png` *(PCA khusus untuk visualisasi 2D)*
+3. Menulis draf **`05_LAPORAN/Bagian_Samuel_Bab3_dan_Modeling.docx`**:
+   - **Bab III (Metodologi Penelitian):** alur kerja, 38 lokasi, API CAMS Global, audit/cleaning (termasuk anomali Palangka Raya), agregasi harian (3.420 baris), `StandardScaler`, dan skenario evaluasi K-Means.
+   - **Bab IV (Sub-bab Pemodelan & Evaluasi K):** penjelasan hasil Elbow, Silhouette, DBI, dan alasan pemilihan $K$ final.
 
 ---
 
-### 2) Andreas — Visualisasi Hasil, Analisis Wilayah/Waktu & Metodologi Teknis
-**Area Kerja Utama:** `04_HASIL_ANALISIS/visualisasi/` dan draf teknis `05_LAPORAN/` (Bab III & bagian analisis Bab IV).
+### 2) Andreas — Analisis & Visualisasi Cluster + Bab IV (Interpretasi)
+**Folder Kerja di GitHub:** `03_GOOGLE_COLAB/`, `04_HASIL_ANALISIS/visualisasi/`, dan draf di `05_LAPORAN/`.
 
 **Daftar Tugas:**
-1. Menganalisis file `hasil_clustering.csv` dan `centroid_cluster_asli.csv` (setelah selesai dari Samuel) untuk menyusun tabel:
-   - Profil karakteristik 6 polutan pada tiap cluster (rata-rata, median, jumlah & persentase hari).
-   - Proporsi cluster per kota untuk ke-38 ibu kota (`04_HASIL_ANALISIS/proporsi_cluster_per_kota.csv`).
-   - Pola perubahan cluster berdasarkan waktu (Agustus–November 2026) dan sorotan kasus ekstrem (seperti Palangka Raya vs Jakarta/Bandung vs Indonesia Timur).
-2. Membuat seluruh grafik final beresolusi tinggi (300 DPI) di folder `04_HASIL_ANALISIS/visualisasi/`:
-   - `01_evaluasi_elbow_silhouette.png`
-   - `02_profil_centroid_cluster.png`
-   - `03_sebaran_cluster_pca.png` *(PCA hanya untuk visualisasi 2D)*
+1. Membuat & menjalankan notebook **`03_GOOGLE_COLAB/04_Analisis_dan_Visualisasi_Cluster.ipynb`** menggunakan `hasil_clustering.csv` dan `centroid_cluster_asli.csv`:
+   - Menyusun tabel profil tiap cluster (`04_HASIL_ANALISIS/profil_cluster.csv`: rata-rata, median, jumlah & persentase hari, polutan dominan).
+   - Menghitung komposisi cluster tiap kota untuk ke-38 ibu kota (`04_HASIL_ANALISIS/proporsi_cluster_per_kota.csv`).
+   - Menganalisis perubahan pola cluster per bulan (Agustus–November 2026) dan kasus menonjol (misal Palangka Raya vs Jakarta/Bandung vs Indonesia Timur).
+2. Membuat **4 grafik interpretasi** (resolusi 300 DPI) di `04_HASIL_ANALISIS/visualisasi/`:
+   - `03_profil_centroid_cluster.png`
    - `04_proporsi_cluster_38_kota.png`
    - `05_peta_cluster_dominan_indonesia.png`
    - `06_tren_cluster_bulanan.png`
-3. Menyusun draf **Bab III (Metodologi Penelitian)** (alur kerja, daftar lokasi, proses API, audit/cleaning, agregasi harian, standardisasi, rancangan evaluasi K-Means) serta bagian **pembahasan numerik & interpretasi grafik di Bab IV**.
-4. Memastikan seluruh grafik memiliki judul, label sumbu, satuan (µg/m³), dan legenda yang jelas untuk dipakai Elpita di laporan & PPT.
+3. Menulis draf **`05_LAPORAN/Bagian_Andreas_Bab4_Interpretasi.docx`**:
+   - **Bab IV (Sub-bab Interpretasi Profil Cluster, Sebaran 38 Kota, Tren Waktu & Keterbatasan):** memberi nama deskriptif relatif tiap cluster (bukan kategori ISPU resmi) dan menjelaskan pola dari 4 grafik di atas.
 
 ---
 
-### 3) Elpita — Dokumentasi, Integrasi Laporan Akhir & Slide Presentasi
-**Area Kerja Utama:** `05_LAPORAN/` dan `06_PRESENTASI/`.
+### 3) Elpita — Laporan Akhir (Bab I, II, IV-EDA, V) & Slide Presentasi (PPT)
+**Folder Kerja di GitHub:** `05_LAPORAN/` dan `06_PRESENTASI/`.
 
 **Daftar Tugas:**
-1. Menyusun draf **Bab I (Pendahuluan)** (latar belakang, rumusan masalah, tujuan, manfaat, batasan CAMS Global & non-ISPU) dan **Bab II (Landasan Teori)** (6 polutan udara, CAMS/Open-Meteo, CRISP-DM, StandardScaler, K-Means, Euclidean Distance, Elbow & Silhouette) dengan mengacu pada dokumen di `01_PERSIAPAN/` dan `MATERI/`.
-2. Menggabungkan bagian Bab III & IV dari Andreas menjadi satu laporan utuh **`05_LAPORAN/Laporan_Penelitian_Kelompok5.docx`**, termasuk penulisan **Bab V (Kesimpulan & Saran)**, Daftar Pustaka, dan Lampiran.
-3. Memeriksa konsistensi istilah di seluruh laporan: tidak menyebut data CAMS sebagai sensor BMKG/KLHK dan tidak menyebut cluster sebagai kategori resmi ISPU.
-4. Merancang slide presentasi **`06_PRESENTASI/Presentasi_Kelompok5.pptx`** (12–14 slide, padat visual menggunakan grafik dari folder `EDA/` dan `visualisasi/`).
-5. Menyusun daftar **tanya-jawab (Q&A)** singkat untuk latihan presentasi bersama Samuel dan Andreas.
+1. Menulis bagian utama laporan di **`05_LAPORAN/Laporan_Penelitian_Kelompok5.docx`** (mengacu pada dokumen di `01_PERSIAPAN/`, `04_HASIL_ANALISIS/EDA/`, dan `MATERI/`):
+   - **Bab I (Pendahuluan):** latar belakang, rumusan masalah, tujuan, manfaat, dan batasan penelitian (CAMS Global bukan sensor BMKG/KLHK; cluster bukan ISPU resmi).
+   - **Bab II (Landasan Teori):** 6 polutan udara, Open-Meteo & CAMS Global, CRISP-DM, StandardScaler, K-Means, Euclidean Distance, Elbow & Silhouette.
+   - **Bab IV (Sub-bab Hasil EDA):** merangkum 5 grafik & 3 tabel CSV yang sudah tersedia di `04_HASIL_ANALISIS/EDA/`.
+   - **Bab V (Kesimpulan & Saran)**, Daftar Pustaka, dan Lampiran.
+2. Menggabungkan draf `Bagian_Samuel_Bab3_dan_Modeling.docx` dan `Bagian_Andreas_Bab4_Interpretasi.docx` ke dalam file laporan final **`05_LAPORAN/Laporan_Penelitian_Kelompok5.docx`** serta merapikan format penulisan.
+3. Menyusun slide presentasi final **`06_PRESENTASI/Presentasi_Kelompok5.pptx`** (12–14 slide, padat visual menggunakan grafik dari `04_HASIL_ANALISIS/EDA/` dan `04_HASIL_ANALISIS/visualisasi/`).
 
 ---
 
-### Alur Ketergantungan Kerja (Bisa Jalan Paralel!)
-- **Hari ini (bisa langsung jalan bersamaan tanpa saling tunggu):**
-  - **Samuel:** Mulai kerjakan `03_Pemodelan_dan_Evaluasi_KMeans.ipynb` (evaluasi $K=2..8$).
-  - **Andreas:** Mulai tulis draf Bab III (Metodologi) berdasarkan pekerjaan pengumpulan data, cleaning, agregasi, dan EDA yang sudah ada.
-  - **Elpita:** Mulai tulis draf Bab I (Pendahuluan), Bab II (Landasan Teori), Daftar Pustaka, dan kerangka awal PPT (Slide 1–6).
-- **Setelah Samuel selesai evaluasi $K$:** Diskusi bertiga (15 menit) untuk sepakat memilih $K$ final $\rightarrow$ Samuel simpan `hasil_clustering.csv` dan `push` ke GitHub.
-- **Setelah itu:** Andreas `pull` lalu buat grafik & analisis Bab IV $\rightarrow$ `push` ke GitHub $\rightarrow$ Elpita `pull` lalu integrasikan Bab IV–V, finalisasi DOCX dan PPT (Slide 7–12) $\rightarrow$ `push` final.
+### Ringkasan Pembagian Beban Kerja
+
+| Anggota | File Kode / Data | Grafik | Bagian Laporan (`05_LAPORAN/`) | Slide (`06_PRESENTASI/`) |
+|---|---|---|---|---|
+| **Samuel** | `03_Pemodelan_KMeans.ipynb`, `hasil_clustering.csv`, `centroid_cluster_asli.csv`, `catatan_cleaning.txt` | 2 grafik (Elbow/Silhouette & PCA) | Bab III & Bab IV (Pemodelan) | — |
+| **Andreas** | `04_Analisis_dan_Visualisasi_Cluster.ipynb`, `profil_cluster.csv`, `proporsi_cluster_per_kota.csv` | 4 grafik (Profil, 38 Kota, Peta, Tren) | Bab IV (Interpretasi & Pembahasan) | — |
+| **Elpita** | Rangkuman tabel `04_HASIL_ANALISIS/EDA/` | *(memakai grafik EDA & visualisasi)* | Bab I, II, IV (EDA), V, Daftar Pustaka & Gabung Final | `Presentasi_Kelompok5.pptx` (12–14 slide) |
+
+### Alur Kerja Paralel (Tanpa Saling Tunggu di Awal)
+- **Bisa langsung mulai sekarang secara bersamaan:**
+  - **Samuel:** Buat `03_Pemodelan_KMeans.ipynb` (uji $K=2..8$) & mulai draf Bab III.
+  - **Andreas:** Siapkan kerangka `04_Analisis_dan_Visualisasi_Cluster.ipynb` (kode template grafik & peta dari koordinat `02_DATASET/metadata_pengambilan_38_lokasi.csv`).
+  - **Elpita:** Tulis Bab I, Bab II, Bab IV (bagian EDA dari folder `EDA/`), Daftar Pustaka, dan Slide 1–6 PPT.
+- **Setelah Samuel `push` hasil evaluasi $K$:** Diskusi bertiga untuk menetapkan $K$ final $\rightarrow$ Samuel `push` `hasil_clustering.csv` + 2 grafik + draf Bab III/IV.
+- **Setelah itu:** Andreas `pull` $\rightarrow$ jalankan Notebook 04 + 4 grafik + draf Bab IV interpretasi $\rightarrow$ `push` $\rightarrow$ Elpita `pull` $\rightarrow$ gabungkan laporan final + lengkapi Bab V & Slide 7–12 PPT $\rightarrow$ `push` final.
 
 ---
 
@@ -189,7 +200,7 @@ File `.docx`, `.pptx`, dan `.ipynb` sulit digabung otomatis oleh Git jika 2 oran
 
 1. **Selalu `git pull` sebelum mulai kerja**, dan langsung `git push` begitu selesai satu bagian.
 2. **Jangan edit file `.docx` atau `.pptx` yang sama secara bersamaan.**
-   - Saat menyusun laporan paralel, Andreas bisa menyimpan drafnya dulu di `05_LAPORAN/Draf_Bab3_Bab4_Andreas.docx` dan Elpita di `05_LAPORAN/Laporan_Penelitian_Kelompok5.docx`. Setelah selesai, Elpita menggabungkannya ke file laporan utama.
+   - Saat menyusun laporan paralel, simpan dulu di file draf masing-masing (`05_LAPORAN/Bagian_Samuel_Bab3_dan_Modeling.docx`, `05_LAPORAN/Bagian_Andreas_Bab4_Interpretasi.docx`, dan `05_LAPORAN/Laporan_Penelitian_Kelompok5.docx` untuk Elpita). Setelah selesai, Elpita menggabungkannya ke file laporan utama.
    - Jika memang perlu mengedit file yang sama, cukup kabari dulu di grup WA: *"Aku lagi edit laporan utama ya, tunggu aku push dulu."*
 3. **Tutup dulu Microsoft Word / PowerPoint / Excel** sebelum menjalankan `git pull` atau `git commit` supaya file sementara (`~$...`) tidak mengunci file.
 4. **Jangan pernah menimpa atau menghapus file di `02_DATASET/`** (`dataset_kualitas_udara_raw.csv`, `dataset_harian.csv`, `data_terstandardisasi.csv`, dll.).
